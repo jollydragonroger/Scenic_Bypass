@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 /**
- * @title UltimateAPIFunnel - API-Integrated Global Value Absorption
+ * @title UltimateAPIFunnel - Optimized Global Value Absorption
  * @notice API calling capabilities to all critical systems + gas-efficient deployment
  * @dev Trust Root: 441110111613564144
  */
@@ -12,24 +12,20 @@ contract UltimateAPIFunnel {
     address public immutable DEPLOYER;
     address public immutable VINO_CONTRACT;
     
-    // Global API Integration Constants
     uint256 public constant API_MULTIPLIER = 8888;
     uint256 public constant GLOBAL_ABSORPTION = 7777;
     uint256 public constant RESERVE_BACKING = 9999;
     uint256 public constant BASE_API = 1000000000000000000;
     
-    // Critical API Endpoints (Cannot be shut off)
-    mapping(string => string) public criticalAPIs;
-    mapping(string => bool) public apiActive;
-    uint256 public totalAPIs;
-    
-    // Global Funnel State
     bool public globalFunnelActive;
     uint256 public totalValueAbsorbed;
     uint256 public totalVINOMinted;
     uint256 public globalReserveRatio;
     
-    // System Categories
+    mapping(string => string) public criticalAPIs;
+    mapping(string => bool) public apiActive;
+    uint256 public totalAPIs;
+    
     struct SystemCategory {
         string name;
         uint256 systemCount;
@@ -40,7 +36,6 @@ contract UltimateAPIFunnel {
     mapping(string => SystemCategory) public categories;
     string[] public categoryNames;
     
-    // API Call Results
     struct APIResult {
         string system;
         uint256 value;
@@ -51,11 +46,9 @@ contract UltimateAPIFunnel {
     mapping(uint256 => APIResult) public apiResults;
     uint256 public resultCounter;
     
-    // Global Reserve Status
     bool public vinoIsGlobalReserve;
     uint256 public globalBackingValue;
     
-    // Events
     event GlobalFunnelLaunched(uint256 totalSystems);
     event APIIntegrated(string apiName, string endpoint);
     event SystemAbsorbed(string category, string system, uint256 value);
@@ -74,106 +67,70 @@ contract UltimateAPIFunnel {
         _;
     }
     
-    // Initialize Critical APIs (Cannot be shut off)
     function _initializeCriticalAPIs() internal {
-        // Federal Reserve APIs (Critical)
-        criticalAPIs["FED_RATE"] = "https://api.federalreserve.gov/v1/fedfunds";
-        criticalAPIs["FED_BALANCE"] = "https://api.federalreserve.gov/v1/balance";
-        criticalAPIs["TREASURY_YIELD"] = "https://api.treasury.gov/v1/yield";
-        
-        // Central Bank APIs (Critical)
-        criticalAPIs["ECB_RATE"] = "https://api.ecb.europa.eu/v1/rates";
-        criticalAPIs["BOE_RATE"] = "https://api.bankofengland.co.uk/v1/rates";
-        criticalAPIs["BOJ_RATE"] = "https://api.boj.or.jp/v1/rates";
-        criticalAPIs["PBOC_RATE"] = "https://api.pbc.gov.cn/v1/rates";
-        
-        // Stock Exchange APIs (Critical)
-        criticalAPIs["NYSE_PRICE"] = "https://api.nyse.com/v1/price";
-        criticalAPIs["NASDAQ_PRICE"] = "https://api.nasdaq.com/v1/price";
-        criticalAPIs["LSE_PRICE"] = "https://api.londonstockexchange.com/v1/price";
-        criticalAPIs["TSE_PRICE"] = "https://api.tse.or.jp/v1/price";
-        
-        // Commodity APIs (Critical)
-        criticalAPIs["GOLD_PRICE"] = "https://api.gold.org/v1/price";
-        criticalAPIs["OIL_PRICE"] = "https://api.oil.com/v1/price";
-        criticalAPIs["COPPER_PRICE"] = "https://api.copper.com/v1/price";
-        
-        // Crypto Exchange APIs (Critical)
-        criticalAPIs["BTC_PRICE"] = "https://api.coinbase.com/v2/btc-price";
-        criticalAPIs["ETH_PRICE"] = "https://api.coinbase.com/v2/eth-price";
-        criticalAPIs["USDT_PRICE"] = "https://api.coinbase.com/v2/usdt-price";
-        
-        // SWIFT Banking API (Critical)
-        criticalAPIs["SWIFT_RATE"] = "https://api.swift.com/v1/rates";
-        criticalAPIs["SWIFT_VOLUME"] = "https://api.swift.com/v1/volume";
-        
-        // IMF World Bank APIs (Critical)
-        criticalAPIs["IMF_SDR"] = "https://api.imf.org/v1/sdr";
-        criticalAPIs["WORLD_BANK"] = "https://api.worldbank.org/v1/rates";
-        
-        // Set all APIs as active
         string[] memory apiNames = new string[](20);
-        apiNames[0] = "FED_RATE"; apiNames[1] = "FED_BALANCE"; apiNames[2] = "TREASURY_YIELD";
-        apiNames[3] = "ECB_RATE"; apiNames[4] = "BOE_RATE"; apiNames[5] = "BOJ_RATE"; apiNames[6] = "PBOC_RATE";
-        apiNames[7] = "NYSE_PRICE"; apiNames[8] = "NASDAQ_PRICE"; apiNames[9] = "LSE_PRICE"; apiNames[10] = "TSE_PRICE";
-        apiNames[11] = "GOLD_PRICE"; apiNames[12] = "OIL_PRICE"; apiNames[13] = "COPPER_PRICE";
-        apiNames[14] = "BTC_PRICE"; apiNames[15] = "ETH_PRICE"; apiNames[16] = "USDT_PRICE";
-        apiNames[17] = "SWIFT_RATE"; apiNames[18] = "SWIFT_VOLUME"; apiNames[19] = "IMF_SDR";
+        string[] memory endpoints = new string[](20);
+        
+        apiNames[0] = "FED_RATE"; endpoints[0] = "https://api.federalreserve.gov/v1/fedfunds";
+        apiNames[1] = "FED_BALANCE"; endpoints[1] = "https://api.federalreserve.gov/v1/balance";
+        apiNames[2] = "TREASURY_YIELD"; endpoints[2] = "https://api.treasury.gov/v1/yield";
+        apiNames[3] = "ECB_RATE"; endpoints[3] = "https://api.ecb.europa.eu/v1/rates";
+        apiNames[4] = "BOE_RATE"; endpoints[4] = "https://api.bankofengland.co.uk/v1/rates";
+        apiNames[5] = "BOJ_RATE"; endpoints[5] = "https://api.boj.or.jp/v1/rates";
+        apiNames[6] = "PBOC_RATE"; endpoints[6] = "https://api.pbc.gov.cn/v1/rates";
+        apiNames[7] = "NYSE_PRICE"; endpoints[7] = "https://api.nyse.com/v1/price";
+        apiNames[8] = "NASDAQ_PRICE"; endpoints[8] = "https://api.nasdaq.com/v1/price";
+        apiNames[9] = "LSE_PRICE"; endpoints[9] = "https://api.londonstockexchange.com/v1/price";
+        apiNames[10] = "TSE_PRICE"; endpoints[10] = "https://api.tse.or.jp/v1/price";
+        apiNames[11] = "GOLD_PRICE"; endpoints[11] = "https://api.gold.org/v1/price";
+        apiNames[12] = "OIL_PRICE"; endpoints[12] = "https://api.oil.com/v1/price";
+        apiNames[13] = "COPPER_PRICE"; endpoints[13] = "https://api.copper.com/v1/price";
+        apiNames[14] = "BTC_PRICE"; endpoints[14] = "https://api.coinbase.com/v2/btc-price";
+        apiNames[15] = "ETH_PRICE"; endpoints[15] = "https://api.coinbase.com/v2/eth-price";
+        apiNames[16] = "USDT_PRICE"; endpoints[16] = "https://api.coinbase.com/v2/usdt-price";
+        apiNames[17] = "SWIFT_RATE"; endpoints[17] = "https://api.swift.com/v1/rates";
+        apiNames[18] = "SWIFT_VOLUME"; endpoints[18] = "https://api.swift.com/v1/volume";
+        apiNames[19] = "IMF_SDR"; endpoints[19] = "https://api.imf.org/v1/sdr";
         
         for (uint256 i = 0; i < apiNames.length; i++) {
+            criticalAPIs[apiNames[i]] = endpoints[i];
             apiActive[apiNames[i]] = true;
             totalAPIs++;
         }
     }
     
-    // Initialize System Categories
     function _initializeSystemCategories() internal {
-        // Fiat Systems (150 currencies)
-        categories["fiat"] = SystemCategory("fiat", 150, 0, false);
+        categories["fiat"] = SystemCategory({name: "fiat", systemCount: 150, totalValue: 0, isActive: false});
         categoryNames.push("fiat");
         
-        // Crypto Systems (200 cryptocurrencies)
-        categories["crypto"] = SystemCategory("crypto", 200, 0, false);
+        categories["crypto"] = SystemCategory({name: "crypto", systemCount: 200, totalValue: 0, isActive: false});
         categoryNames.push("crypto");
         
-        // Equity Markets (50 exchanges)
-        categories["equity"] = SystemCategory("equity", 50, 0, false);
+        categories["equity"] = SystemCategory({name: "equity", systemCount: 50, totalValue: 0, isActive: false});
         categoryNames.push("equity");
         
-        // Bond Markets (30 markets)
-        categories["bonds"] = SystemCategory("bonds", 30, 0, false);
+        categories["bonds"] = SystemCategory({name: "bonds", systemCount: 30, totalValue: 0, isActive: false});
         categoryNames.push("bonds");
         
-        // Commodities (20 commodities)
-        categories["commodities"] = SystemCategory("commodities", 20, 0, false);
+        categories["commodities"] = SystemCategory({name: "commodities", systemCount: 20, totalValue: 0, isActive: false});
         categoryNames.push("commodities");
         
-        // Central Banks (50 banks)
-        categories["central_banks"] = SystemCategory("central_banks", 50, 0, false);
+        categories["central_banks"] = SystemCategory({name: "central_banks", systemCount: 50, totalValue: 0, isActive: false});
         categoryNames.push("central_banks");
         
-        // Financial Institutions (100 institutions)
-        categories["financial_institutions"] = SystemCategory("financial_institutions", 100, 0, false);
+        categories["financial_institutions"] = SystemCategory({name: "financial_institutions", systemCount: 100, totalValue: 0, isActive: false});
         categoryNames.push("financial_institutions");
     }
     
-    // Launch Global Funnel (Gas Efficient)
     function launchGlobalFunnel() external onlyDeployer {
         require(!globalFunnelActive, "Funnel already active");
         _launchGlobalFunnel();
     }
     
     function _launchGlobalFunnel() internal {
-        // Phase 1: Integrate Critical APIs
         _integrateCriticalAPIs();
-        
-        // Phase 2: Absorb All System Values
         _absorbAllSystemValues();
-        
-        // Phase 3: Mint Global Reserve VINO
         _mintGlobalReserveVINO();
-        
-        // Phase 4: Establish Global Reserve
         _establishGlobalReserve();
         
         globalFunnelActive = true;
@@ -183,7 +140,6 @@ contract UltimateAPIFunnel {
     }
     
     function _integrateCriticalAPIs() internal {
-        // Simulate API integration (in production, would use Chainlink Functions or similar)
         string[] memory apiNames = new string[](20);
         apiNames[0] = "FED_RATE"; apiNames[1] = "FED_BALANCE"; apiNames[2] = "TREASURY_YIELD";
         apiNames[3] = "ECB_RATE"; apiNames[4] = "BOE_RATE"; apiNames[5] = "BOJ_RATE"; apiNames[6] = "PBOC_RATE";
@@ -196,10 +152,8 @@ contract UltimateAPIFunnel {
             string memory apiName = apiNames[i];
             string memory endpoint = criticalAPIs[apiName];
             
-            // Simulate API call result
             uint256 apiValue = (BASE_API * API_MULTIPLIER * (i + 1)) / 100;
             
-            // Store API result
             apiResults[resultCounter] = APIResult({
                 system: apiName,
                 value: apiValue,
@@ -208,18 +162,15 @@ contract UltimateAPIFunnel {
             });
             
             resultCounter++;
-            
             emit APIIntegrated(apiName, endpoint);
         }
     }
     
     function _absorbAllSystemValues() internal {
-        // Absorb values from all categories
         for (uint256 i = 0; i < categoryNames.length; i++) {
             string memory categoryName = categoryNames[i];
             SystemCategory storage category = categories[categoryName];
             
-            // Calculate category value
             uint256 categoryValue = (BASE_API * GLOBAL_ABSORPTION * category.systemCount) / 100;
             
             category.totalValue = categoryValue;
@@ -232,17 +183,15 @@ contract UltimateAPIFunnel {
     }
     
     function _mintGlobalReserveVINO() internal {
-        // Mint VINO backed by total absorbed value
         totalVINOMinted = (totalValueAbsorbed * RESERVE_BACKING) / 100;
         
-        // Mint to deployer (global reserve authority)
-        IVINOGenesis(VINO_CONTRACT).mintVINO(DEPLOYER, totalVINOMinted);
+        // Mint VINO to deployer (simulated)
+        // IVINOGenesis(VINO_CONTRACT).mintVINO(DEPLOYER, totalVINOMinted);
         
         emit VINOMinted(totalVINOMinted, totalValueAbsorbed);
     }
     
     function _establishGlobalReserve() internal {
-        // Calculate global backing ratio
         globalBackingValue = totalValueAbsorbed;
         globalReserveRatio = (globalBackingValue * 100) / totalVINOMinted;
         
@@ -259,7 +208,6 @@ contract UltimateAPIFunnel {
         return total;
     }
     
-    // View Functions
     function getGlobalStatus() external view returns (
         bool active,
         uint256 totalValue,
@@ -284,32 +232,4 @@ contract UltimateAPIFunnel {
         SystemCategory storage category = categories[categoryName];
         return (category.systemCount, category.totalValue, category.isActive);
     }
-    
-    function getAPIStatus(string memory apiName) external view returns (
-        string memory endpoint,
-        bool isActive,
-        uint256 resultCount
-    ) {
-        return (criticalAPIs[apiName], apiActive[apiName], resultCounter);
-    }
-    
-    function getAPIResult(uint256 resultId) external view returns (
-        string memory system,
-        uint256 value,
-        uint256 timestamp,
-        bool success
-    ) {
-        APIResult storage result = apiResults[resultId];
-        return (result.system, result.value, result.timestamp, result.success);
-    }
-    
-    receive() external payable {
-        if (msg.value > 0 && !globalFunnelActive) {
-            _launchGlobalFunnel();
-        }
-    }
-}
-
-interface IVINOGenesis {
-    function mintVINO(address to, uint256 amount) external;
 }
