@@ -1,0 +1,8099 @@
+╔══════════════════════════════════════════════════════════════════╗
+║          LEXICON ANGELICUM - THE ENOCHIAN DICTIONARY             ║
+║                                                                  ║
+║     Restored from the Manuscripts of Dee and Kelley              ║
+║     Using Computational Linguistic Analysis                       ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Total Entries: 996
+Generated: 2026-01-18
+
+======================================================================
+
+
+──────────────────────────────────────────────────────────────────────
+                              — A —
+──────────────────────────────────────────────────────────────────────
+
+  A
+    ├─ Meaning: in/the
+    ├─ Category: original
+    ├─ Root: A
+    ├─ Gematria: 6
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ABA
+    ├─ Meaning: forest (extended)
+    ├─ Category: extended
+    ├─ Root: ABA
+    ├─ Gematria: 17
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ABGEA
+    ├─ Meaning: sand (extended)
+    ├─ Category: extended
+    ├─ Root: ABG
+    ├─ Gematria: 36
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ABRAALPONO
+    ├─ Meaning: thought (extended)
+    ├─ Category: extended
+    ├─ Root: ABR
+    ├─ Gematria: 265
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ABRAMG
+    ├─ Meaning: prepared
+    ├─ Category: original
+    ├─ Root: ABR
+    ├─ Gematria: 217
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ABRIDA
+    ├─ Meaning: mountain
+    ├─ Category: places
+    ├─ Root: ABR
+    ├─ Gematria: 180
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ADRPAN
+    ├─ Meaning: cast down
+    ├─ Category: original
+    ├─ Root: ADR
+    ├─ Gematria: 173
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  AF
+    ├─ Meaning: 19
+    ├─ Category: original
+    ├─ Root: AF
+    ├─ Gematria: 14
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  AFAF
+    ├─ Meaning: fish (extended)
+    ├─ Category: extended
+    ├─ Root: AFA
+    ├─ Gematria: 28
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  AFEN
+    ├─ Meaning: god
+    ├─ Category: divine
+    ├─ Root: AFE
+    ├─ Gematria: 73
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  AFFA
+    ├─ Meaning: empty
+    ├─ Category: original
+    ├─ Root: AFF
+    ├─ Gematria: 28
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  AG
+    ├─ Meaning: no
+    ├─ Category: original
+    ├─ Root: AG
+    ├─ Gematria: 16
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ANANAEL
+    ├─ Meaning: secret wisdom
+    ├─ Category: original
+    ├─ Root: ANA
+    ├─ Gematria: 151
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ANBAASGIM
+    ├─ Meaning: demon (extended)
+    ├─ Category: extended
+    ├─ Root: ANB
+    ├─ Gematria: 237
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ANETAB
+    ├─ Meaning: government
+    ├─ Category: original
+    ├─ Root: ANE
+    ├─ Gematria: 85
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ANETABOS
+    ├─ Meaning: knowledge
+    ├─ Category: abstract
+    ├─ Root: ANE
+    ├─ Gematria: 119
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → government + made/twelve
+
+  AOIVEAE
+    ├─ Meaning: stars
+    ├─ Category: original
+    ├─ Root: AOI
+    ├─ Gematria: 122
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  AOSORG
+    ├─ Meaning: earth (extended)
+    ├─ Category: extended
+    ├─ Root: AOS
+    ├─ Gematria: 180
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  APIAL
+    ├─ Meaning: celestial (extended)
+    ├─ Category: extended
+    ├─ Root: API
+    ├─ Gematria: 104
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  APILA
+    ├─ Meaning: liveth
+    ├─ Category: original
+    ├─ Root: API
+    ├─ Gematria: 104
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  AR
+    ├─ Meaning: that
+    ├─ Category: original
+    ├─ Root: AR
+    ├─ Gematria: 106
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ARAD
+    ├─ Meaning: soul (extended)
+    ├─ Category: extended
+    ├─ Root: ARA
+    ├─ Gematria: 115
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ARG
+    ├─ Meaning: sea (extended)
+    ├─ Category: extended
+    ├─ Root: ARG
+    ├─ Gematria: 116
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ARIN
+    ├─ Meaning: fear (extended)
+    ├─ Category: extended
+    ├─ Root: ARI
+    ├─ Gematria: 216
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ARIX
+    ├─ Meaning: move
+    ├─ Category: actions
+    ├─ Root: ARI
+    ├─ Gematria: 566
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ARMAOSBAH
+    ├─ Meaning: eye
+    ├─ Category: body
+    ├─ Root: ARM
+    ├─ Gematria: 248
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ARPHE
+    ├─ Meaning: descend
+    ├─ Category: original
+    ├─ Root: ARP
+    ├─ Gematria: 124
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ARZA
+    ├─ Meaning: universe (extended)
+    ├─ Category: extended
+    ├─ Root: ARZ
+    ├─ Gematria: 119
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ASMORS
+    ├─ Meaning: dusk
+    ├─ Category: temporal
+    ├─ Root: ASM
+    ├─ Gematria: 234
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → ministers + darkness
+
+  ATH
+    ├─ Meaning: works
+    ├─ Category: original
+    ├─ Root: ATH
+    ├─ Gematria: 16
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ATHMONG
+    ├─ Meaning: abyss (extended)
+    ├─ Category: extended
+    ├─ Root: ATH
+    ├─ Gematria: 196
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ATRAAH
+    ├─ Meaning: girdle
+    ├─ Category: original
+    ├─ Root: ATR
+    ├─ Gematria: 128
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ATRANACA
+    ├─ Meaning: flame
+    ├─ Category: materials
+    ├─ Root: ATR
+    ├─ Gematria: 184
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  AVI
+    ├─ Meaning: being (extended)
+    ├─ Category: extended
+    ├─ Root: AVI
+    ├─ Gematria: 68
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  AVINY
+    ├─ Meaning: millstones
+    ├─ Category: original
+    ├─ Root: AVI
+    ├─ Gematria: 178
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  AVIT
+    ├─ Meaning: anger (extended)
+    ├─ Category: extended
+    ├─ Root: AVI
+    ├─ Gematria: 77
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  AVIZEN
+    ├─ Meaning: tower
+    ├─ Category: places
+    ├─ Root: AVI
+    ├─ Gematria: 134
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → millstones + sacrifice
+
+  AZIAGIAR
+    ├─ Meaning: harvest
+    ├─ Category: original
+    ├─ Root: AZI
+    ├─ Gematria: 255
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  AZIRORSCOL
+    ├─ Meaning: cosmos (extended)
+    ├─ Category: extended
+    ├─ Root: AZI
+    ├─ Gematria: 362
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  AZIZ
+    ├─ Meaning: ether
+    ├─ Category: cosmic
+    ├─ Root: AZI
+    ├─ Gematria: 80
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  AZPSOBZAML
+    ├─ Meaning: blessing (extended)
+    ├─ Category: extended
+    ├─ Root: AZP
+    ├─ Gematria: 187
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+
+──────────────────────────────────────────────────────────────────────
+                              — B —
+──────────────────────────────────────────────────────────────────────
+
+  BAANETH
+    ├─ Meaning: truth
+    ├─ Category: abstract
+    ├─ Root: BAA
+    ├─ Gematria: 86
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  BAB
+    ├─ Meaning: north (extended)
+    ├─ Category: extended
+    ├─ Root: BAB
+    ├─ Gematria: 16
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BABALOND
+    ├─ Meaning: wicked
+    ├─ Category: original
+    ├─ Root: BAB
+    ├─ Gematria: 129
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BABZARM
+    ├─ Meaning: ether (extended)
+    ├─ Category: extended
+    ├─ Root: BAB
+    ├─ Gematria: 219
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BAG
+    ├─ Meaning: desert (extended)
+    ├─ Category: extended
+    ├─ Root: BAG
+    ├─ Gematria: 21
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BAGLE
+    ├─ Meaning: for
+    ├─ Category: original
+    ├─ Root: BAG
+    ├─ Gematria: 54
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BAH
+    ├─ Meaning: eternity (extended)
+    ├─ Category: extended
+    ├─ Root: BAH
+    ├─ Gematria: 12
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BAHAL
+    ├─ Meaning: cried/weep
+    ├─ Category: original
+    ├─ Root: BAH
+    ├─ Gematria: 42
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BAL
+    ├─ Meaning: river
+    ├─ Category: places
+    ├─ Root: BAL
+    ├─ Gematria: 35
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  BALIALIAN
+    ├─ Meaning: mountain (extended)
+    ├─ Category: extended
+    ├─ Root: BAL
+    ├─ Gematria: 241
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BALIT
+    ├─ Meaning: justice
+    ├─ Category: original
+    ├─ Root: BAL
+    ├─ Gematria: 104
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BALP
+    ├─ Meaning: strong (extended)
+    ├─ Category: extended
+    ├─ Root: BAL
+    ├─ Gematria: 43
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BALTIM
+    ├─ Meaning: extreme justice
+    ├─ Category: original
+    ├─ Root: BAL
+    ├─ Gematria: 194
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BALTOH
+    ├─ Meaning: righteousness
+    ├─ Category: original
+    ├─ Root: BAL
+    ├─ Gematria: 75
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BALZAP
+    ├─ Meaning: cosmos
+    ├─ Category: cosmic
+    ├─ Root: BAL
+    ├─ Gematria: 56
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  BALZARB
+    ├─ Meaning: destroy (extended)
+    ├─ Category: extended
+    ├─ Root: BAL
+    ├─ Gematria: 153
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BALZARG
+    ├─ Meaning: stewards
+    ├─ Category: original
+    ├─ Root: BAL
+    ├─ Gematria: 158
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BAM
+    ├─ Meaning: fire
+    ├─ Category: elements
+    ├─ Root: BAM
+    ├─ Gematria: 101
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  BAMG
+    ├─ Meaning: heart
+    ├─ Category: body
+    ├─ Root: BAM
+    ├─ Gematria: 111
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  BAMS
+    ├─ Meaning: forget
+    ├─ Category: original
+    ├─ Root: BAM
+    ├─ Gematria: 105
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BASARMGIR
+    ├─ Meaning: small
+    ├─ Category: qualities
+    ├─ Root: BAS
+    ├─ Gematria: 381
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → for/weeping + whom + mercy/peace
+
+  BASGIM
+    ├─ Meaning: day
+    ├─ Category: original
+    ├─ Root: BAS
+    ├─ Gematria: 175
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BAVINIDAN
+    ├─ Meaning: stone
+    ├─ Category: materials
+    ├─ Root: BAV
+    ├─ Gematria: 242
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → for/weeping + from the + secret/truth
+
+  BAZACAR
+    ├─ Meaning: three
+    ├─ Category: numbers
+    ├─ Root: BAZ
+    ├─ Gematria: 131
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → for/weeping + move
+
+  BIAB
+    ├─ Meaning: stand
+    ├─ Category: original
+    ├─ Root: BIA
+    ├─ Gematria: 76
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BIAH
+    ├─ Meaning: voices
+    ├─ Category: original
+    ├─ Root: BIA
+    ├─ Gematria: 72
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BIAN
+    ├─ Meaning: seven (extended)
+    ├─ Category: extended
+    ├─ Root: BIA
+    ├─ Gematria: 121
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BIPH
+    ├─ Meaning: below
+    ├─ Category: directions
+    ├─ Root: BIP
+    ├─ Gematria: 74
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → voices + anger/voice
+
+  BLANS
+    ├─ Meaning: harboured
+    ├─ Category: original
+    ├─ Root: BLA
+    ├─ Gematria: 89
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BLIADPIL
+    ├─ Meaning: holy (extended)
+    ├─ Category: extended
+    ├─ Root: BLI
+    ├─ Gematria: 190
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BLIAR
+    ├─ Meaning: comfort
+    ├─ Category: original
+    ├─ Root: BLI
+    ├─ Gematria: 195
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BLIM
+    ├─ Meaning: universe
+    ├─ Category: cosmic
+    ├─ Root: BLI
+    ├─ Gematria: 179
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  BOG
+    ├─ Meaning: reign (imperative, general)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 45
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → general
+
+  BOGAH
+    ├─ Meaning: reign (perfect, general)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 52
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  BOGAR
+    ├─ Meaning: reign (present, general)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 151
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  BOGIZI
+    ├─ Meaning: reign (past, general)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 172
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  BOGOLU
+    ├─ Meaning: reign (future, general)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 101
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  BOGPA
+    ├─ Meaning: reign
+    ├─ Category: original
+    ├─ Root: BOG
+    ├─ Gematria: 59
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BOLD
+    ├─ Meaning: earth (extended)
+    ├─ Category: extended
+    ├─ Root: BOL
+    ├─ Gematria: 62
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BOLN
+    ├─ Meaning: demon (extended)
+    ├─ Category: extended
+    ├─ Root: BOL
+    ├─ Gematria: 109
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BOLP
+    ├─ Meaning: be thou
+    ├─ Category: original
+    ├─ Root: BOL
+    ├─ Gematria: 67
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BOOAPIS
+    ├─ Meaning: her voice
+    ├─ Category: original
+    ├─ Root: BOO
+    ├─ Gematria: 143
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BRIAD
+    ├─ Meaning: harmony (extended)
+    ├─ Category: extended
+    ├─ Root: BRI
+    ├─ Gematria: 174
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BRIL
+    ├─ Meaning: stone (extended)
+    ├─ Category: extended
+    ├─ Root: BRI
+    ├─ Gematria: 189
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BRIN
+    ├─ Meaning: have
+    ├─ Category: original
+    ├─ Root: BRI
+    ├─ Gematria: 215
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BRINTS
+    ├─ Meaning: hast/have
+    ├─ Category: original
+    ├─ Root: BRI
+    ├─ Gematria: 228
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BRIS
+    ├─ Meaning: light
+    ├─ Category: elements
+    ├─ Root: BRI
+    ├─ Gematria: 169
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  BRITA
+    ├─ Meaning: more than
+    ├─ Category: original
+    ├─ Root: BRI
+    ├─ Gematria: 180
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BRITALZ
+    ├─ Meaning: power
+    ├─ Category: abstract
+    ├─ Root: BRI
+    ├─ Gematria: 211
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → more than + stewards
+
+  BUSD
+    ├─ Meaning: glory
+    ├─ Category: original
+    ├─ Root: BUS
+    ├─ Gematria: 14
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BUSDAHE
+    ├─ Meaning: knowledge (extended)
+    ├─ Category: extended
+    ├─ Root: BUS
+    ├─ Gematria: 30
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  BUSDIR
+    ├─ Meaning: glory
+    ├─ Category: original
+    ├─ Root: BUS
+    ├─ Gematria: 174
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  BUSDIX
+    ├─ Meaning: demon
+    ├─ Category: beings
+    ├─ Root: BUS
+    ├─ Gematria: 474
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+
+──────────────────────────────────────────────────────────────────────
+                              — C —
+──────────────────────────────────────────────────────────────────────
+
+  C
+    ├─ Meaning: but/also
+    ├─ Category: original
+    ├─ Root: C
+    ├─ Gematria: 1
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CABUSD
+    ├─ Meaning: season
+    ├─ Category: temporal
+    ├─ Root: CAB
+    ├─ Gematria: 21
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → therefore/hence + glory
+
+  CACARS
+    ├─ Meaning: air (extended)
+    ├─ Category: extended
+    ├─ Root: CAC
+    ├─ Gematria: 118
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CACRG
+    ├─ Meaning: but
+    ├─ Category: original
+    ├─ Root: CAC
+    ├─ Gematria: 118
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CAFABOANUUL
+    ├─ Meaning: secret
+    ├─ Category: abstract
+    ├─ Root: CAF
+    ├─ Gematria: 140
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → therefore/hence + poison + end/rising
+
+  CAHOXMARCHRG
+    ├─ Meaning: spirit
+    ├─ Category: existential
+    ├─ Root: CAH
+    ├─ Gematria: 746
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → therefore/hence + bucklers + fire/reason
+
+  CALH
+    ├─ Meaning: sacred (extended)
+    ├─ Category: extended
+    ├─ Root: CAL
+    ├─ Gematria: 32
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CALPE
+    ├─ Meaning: cosmos (extended)
+    ├─ Category: extended
+    ├─ Root: CAL
+    ├─ Gematria: 48
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CALPONA
+    ├─ Meaning: mystery (extended)
+    ├─ Category: extended
+    ├─ Root: CAL
+    ├─ Gematria: 125
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CAMLIAX
+    ├─ Meaning: no light
+    ├─ Category: original
+    ├─ Root: CAM
+    ├─ Gematria: 587
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CAN
+    ├─ Meaning: darkness (extended)
+    ├─ Category: extended
+    ├─ Root: CAN
+    ├─ Gematria: 57
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CANSE
+    ├─ Meaning: such as
+    ├─ Category: original
+    ├─ Root: CAN
+    ├─ Gematria: 70
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CAO
+    ├─ Meaning: wherefore
+    ├─ Category: original
+    ├─ Root: CAO
+    ├─ Gematria: 37
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CAOA
+    ├─ Meaning: beneath
+    ├─ Category: preposition
+    ├─ Root: CAO
+    ├─ Gematria: 43
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  CAOI
+    ├─ Meaning: beneath
+    ├─ Category: preposition
+    ├─ Root: CAO
+    ├─ Gematria: 97
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  CAOIAD
+    ├─ Meaning: storm (extended)
+    ├─ Category: extended
+    ├─ Root: CAO
+    ├─ Gematria: 106
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CAOIBS
+    ├─ Meaning: wisdom (extended)
+    ├─ Category: extended
+    ├─ Root: CAO
+    ├─ Gematria: 106
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CAOO
+    ├─ Meaning: beneath
+    ├─ Category: preposition
+    ├─ Root: CAO
+    ├─ Gematria: 67
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  CAOSG
+    ├─ Meaning: earth (short)
+    ├─ Category: original
+    ├─ Root: CAO
+    ├─ Gematria: 51
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CAOSGI
+    ├─ Meaning: earth (variant)
+    ├─ Category: original
+    ├─ Root: CAO
+    ├─ Gematria: 111
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CAOSGO
+    ├─ Meaning: earth
+    ├─ Category: original
+    ├─ Root: CAO
+    ├─ Gematria: 81
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CAP
+    ├─ Meaning: air (extended)
+    ├─ Category: extended
+    ├─ Root: CAP
+    ├─ Gematria: 15
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CAPMIALI
+    ├─ Meaning: successively
+    ├─ Category: original
+    ├─ Root: CAP
+    ├─ Gematria: 255
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CARS
+    ├─ Meaning: voice
+    ├─ Category: body
+    ├─ Root: CAR
+    ├─ Gematria: 111
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  CASARM
+    ├─ Meaning: to whom
+    ├─ Category: original
+    ├─ Root: CAS
+    ├─ Gematria: 207
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CASARMA
+    ├─ Meaning: whom
+    ├─ Category: original
+    ├─ Root: CAS
+    ├─ Gematria: 213
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CASARMG
+    ├─ Meaning: whom
+    ├─ Category: original
+    ├─ Root: CAS
+    ├─ Gematria: 217
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CASB
+    ├─ Meaning: prayer (extended)
+    ├─ Category: extended
+    ├─ Root: CAS
+    ├─ Gematria: 16
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CHIIS
+    ├─ Meaning: are (variant)
+    ├─ Category: original
+    ├─ Root: CHI
+    ├─ Gematria: 126
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CHIL
+    ├─ Meaning: time (extended)
+    ├─ Category: extended
+    ├─ Root: CHI
+    ├─ Gematria: 86
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CHIS
+    ├─ Meaning: are
+    ├─ Category: original
+    ├─ Root: CHI
+    ├─ Gematria: 66
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CHRISTEOS
+    ├─ Meaning: let there be
+    ├─ Category: original
+    ├─ Root: CHR
+    ├─ Gematria: 218
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CHRIT
+    ├─ Meaning: ice
+    ├─ Category: materials
+    ├─ Root: CHR
+    ├─ Gematria: 171
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  CICLE
+    ├─ Meaning: mysteries
+    ├─ Category: original
+    ├─ Root: CIC
+    ├─ Gematria: 95
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CICLEMP
+    ├─ Meaning: air
+    ├─ Category: elements
+    ├─ Root: CIC
+    ├─ Gematria: 193
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → mysteries + understanding
+
+  CLA
+    ├─ Meaning: 456
+    ├─ Category: original
+    ├─ Root: CLA
+    ├─ Gematria: 31
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CLAAX
+    ├─ Meaning: breath
+    ├─ Category: body
+    ├─ Root: CLA
+    ├─ Gematria: 437
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → 456 + place/seat
+
+  CNIG
+    ├─ Meaning: fall (extended)
+    ├─ Category: extended
+    ├─ Root: CNI
+    ├─ Gematria: 121
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CNILA
+    ├─ Meaning: blood
+    ├─ Category: original
+    ├─ Root: CNI
+    ├─ Gematria: 141
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  COLLAL
+    ├─ Meaning: sleepers
+    ├─ Category: original
+    ├─ Root: COL
+    ├─ Gematria: 109
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  COMSELH
+    ├─ Meaning: circle
+    ├─ Category: original
+    ├─ Root: COM
+    ├─ Gematria: 159
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CORALZA
+    ├─ Meaning: speak (extended)
+    ├─ Category: extended
+    ├─ Root: COR
+    ├─ Gematria: 174
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CORDZIZ
+    ├─ Meaning: reason
+    ├─ Category: original
+    ├─ Root: COR
+    ├─ Gematria: 208
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CORS
+    ├─ Meaning: saying
+    ├─ Category: original
+    ├─ Root: COR
+    ├─ Gematria: 135
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CRG
+    ├─ Meaning: moon
+    ├─ Category: cosmic
+    ├─ Root: CRG
+    ├─ Gematria: 111
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  CRIP
+    ├─ Meaning: but
+    ├─ Category: original
+    ├─ Root: CRI
+    ├─ Gematria: 169
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CRIPAMAMIA
+    ├─ Meaning: power (extended)
+    ├─ Category: extended
+    ├─ Root: CRI
+    ├─ Gematria: 427
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CRO
+    ├─ Meaning: that
+    ├─ Category: original
+    ├─ Root: CRO
+    ├─ Gematria: 131
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CROM
+    ├─ Meaning: essence (extended)
+    ├─ Category: extended
+    ├─ Root: CRO
+    ├─ Gematria: 221
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CROOATRANP
+    ├─ Meaning: hand (extended)
+    ├─ Category: extended
+    ├─ Root: CRO
+    ├─ Gematria: 340
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  CROODZI
+    ├─ Meaning: wonder
+    ├─ Category: original
+    ├─ Root: CRO
+    ├─ Gematria: 231
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  CROSGIM
+    ├─ Meaning: move (extended)
+    ├─ Category: extended
+    ├─ Root: CRO
+    ├─ Gematria: 295
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+
+──────────────────────────────────────────────────────────────────────
+                              — D —
+──────────────────────────────────────────────────────────────────────
+
+  D
+    ├─ Meaning: third/of
+    ├─ Category: original
+    ├─ Root: D
+    ├─ Gematria: 3
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DAH
+    ├─ Meaning: wisdom (extended)
+    ├─ Category: extended
+    ├─ Root: DAH
+    ├─ Gematria: 10
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DAOILAPH
+    ├─ Meaning: heart (extended)
+    ├─ Category: extended
+    ├─ Root: DAO
+    ├─ Gematria: 138
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DAOSG
+    ├─ Meaning: desert
+    ├─ Category: places
+    ├─ Root: DAO
+    ├─ Gematria: 53
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  DAOX
+    ├─ Meaning: vexing
+    ├─ Category: original
+    ├─ Root: DAO
+    ├─ Gematria: 439
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DAOXRG
+    ├─ Meaning: serpent
+    ├─ Category: beings
+    ├─ Root: DAO
+    ├─ Gematria: 549
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → vexing + fire/reason
+
+  DARAH
+    ├─ Meaning: obey (perfect, general)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 116
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  DARAR
+    ├─ Meaning: obey (present, general)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 215
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  DARBS
+    ├─ Meaning: obey
+    ├─ Category: original
+    ├─ Root: DAR
+    ├─ Gematria: 118
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DARILAPA
+    ├─ Meaning: there abode
+    ├─ Category: original
+    ├─ Root: DAR
+    ├─ Gematria: 213
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DARIZI
+    ├─ Meaning: obey (past, general)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 236
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  DARM
+    ├─ Meaning: anger (extended)
+    ├─ Category: extended
+    ├─ Root: DAR
+    ├─ Gematria: 199
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DAROLU
+    ├─ Meaning: obey (future, general)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 165
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  DARSAR
+    ├─ Meaning: philosophy
+    ├─ Category: original
+    ├─ Root: DAR
+    ├─ Gematria: 219
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DARSARMARP
+    ├─ Meaning: heaven
+    ├─ Category: divine
+    ├─ Root: DAR
+    ├─ Gematria: 423
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  DAZ
+    ├─ Meaning: flesh (extended)
+    ├─ Category: extended
+    ├─ Root: DAZ
+    ├─ Gematria: 16
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DAZIS
+    ├─ Meaning: heads
+    ├─ Category: original
+    ├─ Root: DAZ
+    ├─ Gematria: 80
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DE
+    ├─ Meaning: of
+    ├─ Category: original
+    ├─ Root: DE
+    ├─ Gematria: 12
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DEARZM
+    ├─ Meaning: cave (extended)
+    ├─ Category: extended
+    ├─ Root: DEA
+    ├─ Gematria: 215
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DIV
+    ├─ Meaning: angle
+    ├─ Category: original
+    ├─ Root: DIV
+    ├─ Gematria: 65
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DIX
+    ├─ Meaning: hundred (extended)
+    ├─ Category: extended
+    ├─ Root: DIX
+    ├─ Gematria: 463
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DIZ
+    ├─ Meaning: desert (extended)
+    ├─ Category: extended
+    ├─ Root: DIZ
+    ├─ Gematria: 70
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DO
+    ├─ Meaning: name
+    ├─ Category: original
+    ├─ Root: DO
+    ├─ Gematria: 33
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DOOAIN
+    ├─ Meaning: name
+    ├─ Category: original
+    ├─ Root: DOO
+    ├─ Gematria: 179
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DOOIAP
+    ├─ Meaning: names
+    ├─ Category: original
+    ├─ Root: DOO
+    ├─ Gematria: 137
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DRI
+    ├─ Meaning: small (extended)
+    ├─ Category: extended
+    ├─ Root: DRI
+    ├─ Gematria: 163
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DRIAPLAIAD
+    ├─ Meaning: blood
+    ├─ Category: body
+    ├─ Root: DRI
+    ├─ Gematria: 276
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  DRILPA
+    ├─ Meaning: great
+    ├─ Category: original
+    ├─ Root: DRI
+    ├─ Gematria: 201
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DRIT
+    ├─ Meaning: eternal
+    ├─ Category: qualities
+    ├─ Root: DRI
+    ├─ Gematria: 172
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  DRIX
+    ├─ Meaning: bring down
+    ├─ Category: original
+    ├─ Root: DRI
+    ├─ Gematria: 563
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DRP
+    ├─ Meaning: wonder (extended)
+    ├─ Category: extended
+    ├─ Root: DRP
+    ├─ Gematria: 111
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DRPONS
+    ├─ Meaning: mind (extended)
+    ├─ Category: extended
+    ├─ Root: DRP
+    ├─ Gematria: 195
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DS
+    ├─ Meaning: which
+    ├─ Category: original
+    ├─ Root: DS
+    ├─ Gematria: 7
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DUAR
+    ├─ Meaning: corner
+    ├─ Category: original
+    ├─ Root: DUA
+    ├─ Gematria: 111
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  DUARM
+    ├─ Meaning: dream (extended)
+    ├─ Category: extended
+    ├─ Root: DUA
+    ├─ Gematria: 201
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  DUAZAR
+    ├─ Meaning: holy
+    ├─ Category: divine
+    ├─ Root: DUA
+    ├─ Gematria: 124
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → corner + garments
+
+
+──────────────────────────────────────────────────────────────────────
+                              — E —
+──────────────────────────────────────────────────────────────────────
+
+  ECRIN
+    ├─ Meaning: praise
+    ├─ Category: original
+    ├─ Root: ECR
+    ├─ Gematria: 220
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ECRIX
+    ├─ Meaning: star (extended)
+    ├─ Category: extended
+    ├─ Root: ECR
+    ├─ Gematria: 570
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ECRORS
+    ├─ Meaning: storm (extended)
+    ├─ Category: extended
+    ├─ Root: ECR
+    ├─ Gematria: 244
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  EFAFAFE
+    ├─ Meaning: visit
+    ├─ Category: original
+    ├─ Root: EFA
+    ├─ Gematria: 54
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  EL
+    ├─ Meaning: first
+    ├─ Category: original
+    ├─ Root: EL
+    ├─ Gematria: 33
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ELI
+    ├─ Meaning: fish (extended)
+    ├─ Category: extended
+    ├─ Root: ELI
+    ├─ Gematria: 93
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ELZAP
+    ├─ Meaning: course
+    ├─ Category: original
+    ├─ Root: ELZ
+    ├─ Gematria: 54
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  EM
+    ├─ Meaning: nine
+    ├─ Category: original
+    ├─ Root: EM
+    ├─ Gematria: 99
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  EMETGIS
+    ├─ Meaning: seal
+    ├─ Category: original
+    ├─ Root: EME
+    ├─ Gematria: 191
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  EMNA
+    ├─ Meaning: herein
+    ├─ Category: original
+    ├─ Root: EMN
+    ├─ Gematria: 155
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  EMNOR
+    ├─ Meaning: chaos (extended)
+    ├─ Category: extended
+    ├─ Root: EMN
+    ├─ Gematria: 279
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  EN
+    ├─ Meaning: of
+    ├─ Category: original
+    ├─ Root: EN
+    ├─ Gematria: 59
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  EOLIS
+    ├─ Meaning: make
+    ├─ Category: original
+    ├─ Root: EOL
+    ├─ Gematria: 127
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  EOR
+    ├─ Meaning: wood (extended)
+    ├─ Category: extended
+    ├─ Root: EOR
+    ├─ Gematria: 139
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  EORS
+    ├─ Meaning: ends
+    ├─ Category: original
+    ├─ Root: EOR
+    ├─ Gematria: 143
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ETH
+    ├─ Meaning: day (extended)
+    ├─ Category: extended
+    ├─ Root: ETH
+    ├─ Gematria: 19
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ETHAMICAOF
+    ├─ Meaning: transform (extended)
+    ├─ Category: extended
+    ├─ Root: ETH
+    ├─ Gematria: 220
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ETHARZI
+    ├─ Meaning: peace
+    ├─ Category: original
+    ├─ Root: ETH
+    ├─ Gematria: 192
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ETHOM
+    ├─ Meaning: matter (extended)
+    ├─ Category: extended
+    ├─ Root: ETH
+    ├─ Gematria: 139
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+
+──────────────────────────────────────────────────────────────────────
+                              — F —
+──────────────────────────────────────────────────────────────────────
+
+  F
+    ├─ Meaning: visit
+    ├─ Category: original
+    ├─ Root: F
+    ├─ Gematria: 8
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  FABOANU
+    ├─ Meaning: poison
+    ├─ Category: original
+    ├─ Root: FAB
+    ├─ Gematria: 107
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  FAFE
+    ├─ Meaning: spirit (extended)
+    ├─ Category: extended
+    ├─ Root: FAF
+    ├─ Gematria: 31
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  FAFEN
+    ├─ Meaning: dwelling
+    ├─ Category: original
+    ├─ Root: FAF
+    ├─ Gematria: 81
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  FAFFABOOAN
+    ├─ Meaning: law (extended)
+    ├─ Category: extended
+    ├─ Root: FAF
+    ├─ Gematria: 157
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  FARZM
+    ├─ Meaning: dwell
+    ├─ Category: original
+    ├─ Root: FAR
+    ├─ Gematria: 211
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — G —
+──────────────────────────────────────────────────────────────────────
+
+  GAH
+    ├─ Meaning: spirits
+    ├─ Category: original
+    ├─ Root: GAH
+    ├─ Gematria: 17
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GAHE
+    ├─ Meaning: spirits
+    ├─ Category: original
+    ├─ Root: GAH
+    ├─ Gematria: 26
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GEH
+    ├─ Meaning: not
+    ├─ Category: original
+    ├─ Root: GEH
+    ├─ Gematria: 20
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GIAH
+    ├─ Meaning: gold (extended)
+    ├─ Category: extended
+    ├─ Root: GIA
+    ├─ Gematria: 77
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  GIGIPAH
+    ├─ Meaning: living breath
+    ├─ Category: original
+    ├─ Root: GIG
+    ├─ Gematria: 155
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GISI
+    ├─ Meaning: mountain (extended)
+    ├─ Category: extended
+    ├─ Root: GIS
+    ├─ Gematria: 134
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  GNAY
+    ├─ Meaning: thou
+    ├─ Category: original
+    ├─ Root: GNA
+    ├─ Gematria: 126
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GOH
+    ├─ Meaning: say (imperative, general)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 41
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → general
+
+  GOHAH
+    ├─ Meaning: say (perfect, general)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 48
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  GOHAR
+    ├─ Meaning: say (present, general)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 147
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  GOHED
+    ├─ Meaning: saith
+    ├─ Category: original
+    ├─ Root: GOH
+    ├─ Gematria: 53
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GOHIS
+    ├─ Meaning: joy
+    ├─ Category: emotions
+    ├─ Root: GOH
+    ├─ Gematria: 105
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  GOHIZI
+    ├─ Meaning: say (past, general)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 168
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  GOHO
+    ├─ Meaning: saith
+    ├─ Category: original
+    ├─ Root: GOH
+    ├─ Gematria: 71
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GOHOLU
+    ├─ Meaning: say (future, general)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 97
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  GOHRZM
+    ├─ Meaning: sacred
+    ├─ Category: divine
+    ├─ Root: GOH
+    ├─ Gematria: 238
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → saith/I say + dwell
+
+  GOHUS
+    ├─ Meaning: saith/I say
+    ├─ Category: original
+    ├─ Root: GOH
+    ├─ Gematria: 47
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GONO
+    ├─ Meaning: faith
+    ├─ Category: original
+    ├─ Root: GON
+    ├─ Gematria: 120
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GONORSG
+    ├─ Meaning: mind (extended)
+    ├─ Category: extended
+    ├─ Root: GON
+    ├─ Gematria: 234
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  GRAA
+    ├─ Meaning: moon
+    ├─ Category: original
+    ├─ Root: GRA
+    ├─ Gematria: 122
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GRAPH
+    ├─ Meaning: gather
+    ├─ Category: original
+    ├─ Root: GRA
+    ├─ Gematria: 125
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  GRO
+    ├─ Meaning: cave (extended)
+    ├─ Category: extended
+    ├─ Root: GRO
+    ├─ Gematria: 140
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  GROSB
+    ├─ Meaning: bitter
+    ├─ Category: original
+    ├─ Root: GRO
+    ├─ Gematria: 149
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — H —
+──────────────────────────────────────────────────────────────────────
+
+  HAMERIPAMG
+    ├─ Meaning: universe (extended)
+    ├─ Category: extended
+    ├─ Root: HAM
+    ├─ Gematria: 380
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HAMI
+    ├─ Meaning: creatures
+    ├─ Category: original
+    ├─ Root: HAM
+    ├─ Gematria: 157
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  HOA
+    ├─ Meaning: age (extended)
+    ├─ Category: extended
+    ├─ Root: HOA
+    ├─ Gematria: 37
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HOAANPIRO
+    ├─ Meaning: destroy (extended)
+    ├─ Category: extended
+    ├─ Root: HOA
+    ├─ Gematria: 291
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HOAN
+    ├─ Meaning: dark (extended)
+    ├─ Category: extended
+    ├─ Root: HOA
+    ├─ Gematria: 87
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HOANBALZAM
+    ├─ Meaning: order (extended)
+    ├─ Category: extended
+    ├─ Root: HOA
+    ├─ Gematria: 225
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HOATH
+    ├─ Meaning: true worshipper
+    ├─ Category: original
+    ├─ Root: HOA
+    ├─ Gematria: 47
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  HOL
+    ├─ Meaning: essence
+    ├─ Category: existential
+    ├─ Root: HOL
+    ├─ Gematria: 55
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  HOLDO
+    ├─ Meaning: groan
+    ├─ Category: original
+    ├─ Root: HOL
+    ├─ Gematria: 88
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  HOLQ
+    ├─ Meaning: measure
+    ├─ Category: original
+    ├─ Root: HOL
+    ├─ Gematria: 95
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  HOM
+    ├─ Meaning: live
+    ├─ Category: original
+    ├─ Root: HOM
+    ├─ Gematria: 121
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  HOMARSAR
+    ├─ Meaning: hope (extended)
+    ├─ Category: extended
+    ├─ Root: HOM
+    ├─ Gematria: 337
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HOMICAO
+    ├─ Meaning: thousand (extended)
+    ├─ Category: extended
+    ├─ Root: HOM
+    ├─ Gematria: 218
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HOMIL
+    ├─ Meaning: live
+    ├─ Category: original
+    ├─ Root: HOM
+    ├─ Gematria: 205
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  HORZAMARIL
+    ├─ Meaning: serpent (extended)
+    ├─ Category: extended
+    ├─ Root: HOR
+    ├─ Gematria: 424
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  HOXMARCH
+    ├─ Meaning: bucklers
+    ├─ Category: original
+    ├─ Root: HOX
+    ├─ Gematria: 629
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — I —
+──────────────────────────────────────────────────────────────────────
+
+  I
+    ├─ Meaning: is/not
+    ├─ Category: original
+    ├─ Root: I
+    ├─ Gematria: 60
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IABA
+    ├─ Meaning: fall (extended)
+    ├─ Category: extended
+    ├─ Root: IAB
+    ├─ Gematria: 77
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IABES
+    ├─ Meaning: depths
+    ├─ Category: original
+    ├─ Root: IAB
+    ├─ Gematria: 84
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IAD
+    ├─ Meaning: God
+    ├─ Category: original
+    ├─ Root: IAD
+    ├─ Gematria: 69
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IADIX
+    ├─ Meaning: thunder (extended)
+    ├─ Category: extended
+    ├─ Root: IAD
+    ├─ Gematria: 529
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IADNAH
+    ├─ Meaning: knowledge
+    ├─ Category: original
+    ├─ Root: IAD
+    ├─ Gematria: 126
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IADNAIDARZ
+    ├─ Meaning: edge (extended)
+    ├─ Category: extended
+    ├─ Root: IAD
+    ├─ Gematria: 301
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IADPHE
+    ├─ Meaning: love (extended)
+    ├─ Category: extended
+    ├─ Root: IAD
+    ├─ Gematria: 87
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IADPIL
+    ├─ Meaning: the place of God
+    ├─ Category: original
+    ├─ Root: IAD
+    ├─ Gematria: 161
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IADRPOIB
+    ├─ Meaning: flesh (extended)
+    ├─ Category: extended
+    ├─ Root: IAD
+    ├─ Gematria: 272
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IAIADIX
+    ├─ Meaning: honour
+    ├─ Category: original
+    ├─ Root: IAI
+    ├─ Gematria: 595
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IAIAINTALX
+    ├─ Meaning: peace (extended)
+    ├─ Category: extended
+    ├─ Root: IAI
+    ├─ Gematria: 681
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IAIALTOLLA
+    ├─ Meaning: wonder (extended)
+    ├─ Category: extended
+    ├─ Root: IAI
+    ├─ Gematria: 249
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IAIDA
+    ├─ Meaning: the highest
+    ├─ Category: original
+    ├─ Root: IAI
+    ├─ Gematria: 135
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IAIDOHUSD
+    ├─ Meaning: light (extended)
+    ├─ Category: extended
+    ├─ Root: IAI
+    ├─ Gematria: 169
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IAIDON
+    ├─ Meaning: all-powerful
+    ├─ Category: original
+    ├─ Root: IAI
+    ├─ Gematria: 209
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IAIPAM
+    ├─ Meaning: abyss
+    ├─ Category: cosmic
+    ├─ Root: IAI
+    ├─ Gematria: 230
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → divine/god-related + beginning (the)
+
+  IAL
+    ├─ Meaning: moment (extended)
+    ├─ Category: extended
+    ├─ Root: IAL
+    ├─ Gematria: 90
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IALPIRGAH
+    ├─ Meaning: flames of first flame
+    ├─ Category: original
+    ├─ Root: IAL
+    ├─ Gematria: 275
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IALPON
+    ├─ Meaning: burn
+    ├─ Category: original
+    ├─ Root: IAL
+    ├─ Gematria: 178
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IALPOR
+    ├─ Meaning: burning flames
+    ├─ Category: original
+    ├─ Root: IAL
+    ├─ Gematria: 228
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IAMBT
+    ├─ Meaning: create (extended)
+    ├─ Category: extended
+    ├─ Root: IAM
+    ├─ Gematria: 170
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IANBA
+    ├─ Meaning: edge
+    ├─ Category: directions
+    ├─ Root: IAN
+    ├─ Gematria: 127
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  IANIISO
+    ├─ Meaning: throne
+    ├─ Category: places
+    ├─ Root: IAN
+    ├─ Gematria: 270
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → divine/god-related + come
+
+  IAOPEAM
+    ├─ Meaning: destroy
+    ├─ Category: actions
+    ├─ Root: IAO
+    ├─ Gematria: 209
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → divine/god-related + unto + beginning
+
+  IARGE
+    ├─ Meaning: dawn (extended)
+    ├─ Category: extended
+    ├─ Root: IAR
+    ├─ Gematria: 185
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IARILALZIE
+    ├─ Meaning: being (extended)
+    ├─ Category: extended
+    ├─ Root: IAR
+    ├─ Gematria: 356
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IARIP
+    ├─ Meaning: night (extended)
+    ├─ Category: extended
+    ├─ Root: IAR
+    ├─ Gematria: 234
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IARPH
+    ├─ Meaning: fall
+    ├─ Category: actions
+    ├─ Root: IAR
+    ├─ Gematria: 175
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  IAXS
+    ├─ Meaning: light (extended)
+    ├─ Category: extended
+    ├─ Root: IAX
+    ├─ Gematria: 470
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IEH
+    ├─ Meaning: joy (extended)
+    ├─ Category: extended
+    ├─ Root: IEH
+    ├─ Gematria: 70
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IEHUSOZ
+    ├─ Meaning: mercies
+    ├─ Category: original
+    ├─ Root: IEH
+    ├─ Gematria: 113
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IEN
+    ├─ Meaning: form
+    ├─ Category: existential
+    ├─ Root: IEN
+    ├─ Gematria: 119
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ILA
+    ├─ Meaning: pronoun form (IL)
+    ├─ Category: grammar
+    ├─ Root: IL
+    ├─ Gematria: 90
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ILAN
+    ├─ Meaning: pronoun form (IL)
+    ├─ Category: grammar
+    ├─ Root: IL
+    ├─ Gematria: 140
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ILAPANILOR
+    ├─ Meaning: harmony (extended)
+    ├─ Category: extended
+    ├─ Root: ILA
+    ├─ Gematria: 368
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ILBOG
+    ├─ Meaning: reign (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 129
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILBOGAH
+    ├─ Meaning: reign (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 136
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILBOGAR
+    ├─ Meaning: reign (present, second person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 235
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILBOGIZI
+    ├─ Meaning: reign (past, second person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 256
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILBOGOLU
+    ├─ Meaning: reign (future, second person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 185
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILDAR
+    ├─ Meaning: obey (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 193
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILDARAH
+    ├─ Meaning: obey (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 200
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILDARAR
+    ├─ Meaning: obey (present, second person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 299
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILDARIZI
+    ├─ Meaning: obey (past, second person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 320
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILDAROLU
+    ├─ Meaning: obey (future, second person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 249
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILGOH
+    ├─ Meaning: say (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 125
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILGOHAH
+    ├─ Meaning: say (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 132
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILGOHAR
+    ├─ Meaning: say (present, second person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 231
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILGOHIZI
+    ├─ Meaning: say (past, second person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 252
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILGOHOLU
+    ├─ Meaning: say (future, second person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 181
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILI
+    ├─ Meaning: pronoun form (IL)
+    ├─ Category: grammar
+    ├─ Root: IL
+    ├─ Gematria: 144
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ILIS
+    ├─ Meaning: pronoun form (IL)
+    ├─ Category: grammar
+    ├─ Root: IL
+    ├─ Gematria: 148
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ILMIC
+    ├─ Meaning: behold (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 235
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILMICAH
+    ├─ Meaning: behold (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 242
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILMICAR
+    ├─ Meaning: behold (present, second person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 341
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILMICIZI
+    ├─ Meaning: behold (past, second person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 362
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILMICOLU
+    ├─ Meaning: behold (future, second person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 291
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILNII
+    ├─ Meaning: come (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 254
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILNIIAH
+    ├─ Meaning: come (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 261
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILNIIAR
+    ├─ Meaning: come (present, second person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 360
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILNIIIZI
+    ├─ Meaning: come (past, second person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 381
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILNIIOLU
+    ├─ Meaning: come (future, second person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 310
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILO
+    ├─ Meaning: pronoun form (IL)
+    ├─ Category: grammar
+    ├─ Root: IL
+    ├─ Gematria: 114
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ILOMP
+    ├─ Meaning: understand (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 212
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILOMPAH
+    ├─ Meaning: understand (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 219
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILOMPAR
+    ├─ Meaning: understand (present, second person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 318
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILOMPIZI
+    ├─ Meaning: understand (past, second person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 339
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILOMPOLU
+    ├─ Meaning: understand (future, second person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 268
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILONON
+    ├─ Meaning: excelling
+    ├─ Category: original
+    ├─ Root: ILO
+    ├─ Gematria: 244
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ILQUA
+    ├─ Meaning: destroy (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 132
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILQUAAH
+    ├─ Meaning: destroy (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 139
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILQUAAR
+    ├─ Meaning: destroy (present, second person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 238
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILQUAIZI
+    ├─ Meaning: destroy (past, second person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 259
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILQUAOLU
+    ├─ Meaning: destroy (future, second person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 188
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILS
+    ├─ Meaning: thou
+    ├─ Category: original
+    ├─ Root: ILS
+    ├─ Gematria: 88
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ILTOR
+    ├─ Meaning: arise (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 223
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILTORAH
+    ├─ Meaning: arise (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 230
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILTORAR
+    ├─ Meaning: arise (present, second person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 329
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILTORIZI
+    ├─ Meaning: arise (past, second person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 350
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILTOROLU
+    ├─ Meaning: arise (future, second person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 279
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILZAC
+    ├─ Meaning: move (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 98
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILZACAH
+    ├─ Meaning: move (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 105
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILZACAR
+    ├─ Meaning: move (present, second person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 204
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILZACIZI
+    ├─ Meaning: move (past, second person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 225
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILZACOLU
+    ├─ Meaning: move (future, second person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 154
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  ILZAM
+    ├─ Meaning: appear (imperative, second person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 187
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → second person
+
+  ILZAMAH
+    ├─ Meaning: appear (perfect, second person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 194
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → second person
+
+  ILZAMAR
+    ├─ Meaning: appear (present, second person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 293
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → second person
+
+  ILZAMIZI
+    ├─ Meaning: appear (past, second person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 314
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → second person
+
+  ILZAMOLU
+    ├─ Meaning: appear (future, second person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 243
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → second person
+
+  IMLALZ
+    ├─ Meaning: lightning (extended)
+    ├─ Category: extended
+    ├─ Root: IML
+    ├─ Gematria: 211
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IMLAR
+    ├─ Meaning: wind (extended)
+    ├─ Category: extended
+    ├─ Root: IML
+    ├─ Gematria: 280
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IMPAN
+    ├─ Meaning: night
+    ├─ Category: temporal
+    ├─ Root: IMP
+    ├─ Gematria: 214
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → obedient + secret/truth
+
+  IMPIS
+    ├─ Meaning: obedient
+    ├─ Category: original
+    ├─ Root: IMP
+    ├─ Gematria: 222
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IP
+    ├─ Meaning: not
+    ├─ Category: original
+    ├─ Root: IP
+    ├─ Gematria: 68
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IPAM
+    ├─ Meaning: beginning
+    ├─ Category: original
+    ├─ Root: IPA
+    ├─ Gematria: 164
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IPAMIS
+    ├─ Meaning: beginning (the)
+    ├─ Category: original
+    ├─ Root: IPA
+    ├─ Gematria: 228
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IPAMZI
+    ├─ Meaning: dust
+    ├─ Category: materials
+    ├─ Root: IPA
+    ├─ Gematria: 231
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → beginning (the) + being/am
+
+  IPSARB
+    ├─ Meaning: perfect (extended)
+    ├─ Category: extended
+    ├─ Root: IPS
+    ├─ Gematria: 183
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IQUADAH
+    ├─ Meaning: creation
+    ├─ Category: original
+    ├─ Root: IQU
+    ├─ Gematria: 118
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IQUARM
+    ├─ Meaning: sea
+    ├─ Category: places
+    ├─ Root: IQU
+    ├─ Gematria: 298
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  IQUASA
+    ├─ Meaning: angel (extended)
+    ├─ Category: extended
+    ├─ Root: IQU
+    ├─ Gematria: 118
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  IQURD
+    ├─ Meaning: god (extended)
+    ├─ Category: extended
+    ├─ Root: IQU
+    ├─ Gematria: 205
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ISARA
+    ├─ Meaning: heaven (extended)
+    ├─ Category: extended
+    ├─ Root: ISA
+    ├─ Gematria: 176
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ISI
+    ├─ Meaning: promise
+    ├─ Category: original
+    ├─ Root: ISI
+    ├─ Gematria: 124
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  IT
+    ├─ Meaning: is
+    ├─ Category: original
+    ├─ Root: IT
+    ├─ Gematria: 69
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ITTABGES
+    ├─ Meaning: silver
+    ├─ Category: materials
+    ├─ Root: ITT
+    ├─ Gematria: 112
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → is + cave
+
+  IVMD
+    ├─ Meaning: called
+    ├─ Category: original
+    ├─ Root: IVM
+    ├─ Gematria: 155
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — L —
+──────────────────────────────────────────────────────────────────────
+
+  L
+    ├─ Meaning: first/one
+    ├─ Category: original
+    ├─ Root: L
+    ├─ Gematria: 24
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LA
+    ├─ Meaning: first/rich
+    ├─ Category: original
+    ├─ Root: LA
+    ├─ Gematria: 30
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LAIAD
+    ├─ Meaning: secrets of truth
+    ├─ Category: original
+    ├─ Root: LAI
+    ├─ Gematria: 99
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LAIAXS
+    ├─ Meaning: bright (extended)
+    ├─ Category: extended
+    ├─ Root: LAI
+    ├─ Gematria: 500
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LAIDOODZIZ
+    ├─ Meaning: chaos
+    ├─ Category: abstract
+    ├─ Root: LAI
+    ├─ Gematria: 230
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  LALIT
+    ├─ Meaning: south (extended)
+    ├─ Category: extended
+    ├─ Root: LAL
+    ├─ Gematria: 123
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LALTOL
+    ├─ Meaning: planet (extended)
+    ├─ Category: extended
+    ├─ Root: LAL
+    ├─ Gematria: 117
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LANONSH
+    ├─ Meaning: celestial
+    ├─ Category: divine
+    ├─ Root: LAN
+    ├─ Gematria: 165
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  LAP
+    ├─ Meaning: for the
+    ├─ Category: original
+    ├─ Root: LAP
+    ├─ Gematria: 38
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LAPAH
+    ├─ Meaning: strong (extended)
+    ├─ Category: extended
+    ├─ Root: LAP
+    ├─ Gematria: 45
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LAPATB
+    ├─ Meaning: transform (extended)
+    ├─ Category: extended
+    ├─ Root: LAP
+    ├─ Gematria: 58
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LARSAD
+    ├─ Meaning: disposed
+    ├─ Category: original
+    ├─ Root: LAR
+    ├─ Gematria: 143
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LAS
+    ├─ Meaning: rich
+    ├─ Category: original
+    ├─ Root: LAS
+    ├─ Gematria: 34
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LASOLPETH
+    ├─ Meaning: two
+    ├─ Category: numbers
+    ├─ Root: LAS
+    ├─ Gematria: 115
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → secrets of truth + hearken
+
+  LEVITHMONG
+    ├─ Meaning: beasts
+    ├─ Category: original
+    ├─ Root: LEV
+    ├─ Gematria: 285
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LIADEA
+    ├─ Meaning: flame (extended)
+    ├─ Category: extended
+    ├─ Root: LIA
+    ├─ Gematria: 108
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LIMLA
+    ├─ Meaning: abyss (extended)
+    ├─ Category: extended
+    ├─ Root: LIM
+    ├─ Gematria: 204
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LIMLAL
+    ├─ Meaning: treasure
+    ├─ Category: original
+    ├─ Root: LIM
+    ├─ Gematria: 228
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LIS
+    ├─ Meaning: god (extended)
+    ├─ Category: extended
+    ├─ Root: LIS
+    ├─ Gematria: 88
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LISARMG
+    ├─ Meaning: great
+    ├─ Category: qualities
+    ├─ Root: LIS
+    ├─ Gematria: 294
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  LIT
+    ├─ Meaning: with
+    ├─ Category: original
+    ├─ Root: LIT
+    ├─ Gematria: 93
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LITAN
+    ├─ Meaning: blessing
+    ├─ Category: divine
+    ├─ Root: LIT
+    ├─ Gematria: 149
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → with + secret/truth
+
+  LIZI
+    ├─ Meaning: giant
+    ├─ Category: beings
+    ├─ Root: LIZ
+    ├─ Gematria: 151
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → eyes + being/am
+
+  LOBIAB
+    ├─ Meaning: moment
+    ├─ Category: temporal
+    ├─ Root: LOB
+    ├─ Gematria: 130
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → power/first + stand
+
+  LOCH
+    ├─ Meaning: three (extended)
+    ├─ Category: extended
+    ├─ Root: LOC
+    ├─ Gematria: 56
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LOCHRIP
+    ├─ Meaning: dust (extended)
+    ├─ Category: extended
+    ├─ Root: LOC
+    ├─ Gematria: 224
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LOHOLO
+    ├─ Meaning: man/men
+    ├─ Category: original
+    ├─ Root: LOH
+    ├─ Gematria: 139
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LOHUSDIX
+    ├─ Meaning: voice (extended)
+    ├─ Category: extended
+    ├─ Root: LOH
+    ├─ Gematria: 524
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LON
+    ├─ Meaning: river (extended)
+    ├─ Category: extended
+    ├─ Root: LON
+    ├─ Gematria: 104
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LONDOH
+    ├─ Meaning: kingdom
+    ├─ Category: original
+    ├─ Root: LON
+    ├─ Gematria: 138
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LONG
+    ├─ Meaning: sea (extended)
+    ├─ Category: extended
+    ├─ Root: LON
+    ├─ Gematria: 114
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LONPILASAG
+    ├─ Meaning: awe (extended)
+    ├─ Category: extended
+    ├─ Root: LON
+    ├─ Gematria: 222
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LONSA
+    ├─ Meaning: power
+    ├─ Category: original
+    ├─ Root: LON
+    ├─ Gematria: 114
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LONSH
+    ├─ Meaning: power (short)
+    ├─ Category: original
+    ├─ Root: LON
+    ├─ Gematria: 109
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LONSHI
+    ├─ Meaning: power
+    ├─ Category: original
+    ├─ Root: LON
+    ├─ Gematria: 169
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LOR
+    ├─ Meaning: against
+    ├─ Category: preposition
+    ├─ Root: LOR
+    ├─ Gematria: 154
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  LORA
+    ├─ Meaning: against
+    ├─ Category: preposition
+    ├─ Root: LOR
+    ├─ Gematria: 160
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  LORI
+    ├─ Meaning: against
+    ├─ Category: preposition
+    ├─ Root: LOR
+    ├─ Gematria: 214
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  LORO
+    ├─ Meaning: against
+    ├─ Category: preposition
+    ├─ Root: LOR
+    ├─ Gematria: 184
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  LORSBA
+    ├─ Meaning: for their
+    ├─ Category: original
+    ├─ Root: LOR
+    ├─ Gematria: 169
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LOTURALB
+    ├─ Meaning: gate
+    ├─ Category: places
+    ├─ Root: LOT
+    ├─ Gematria: 200
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → power/first + beauty
+
+  LU
+    ├─ Meaning: first
+    ├─ Category: original
+    ├─ Root: LU
+    ├─ Gematria: 26
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LUCICLE
+    ├─ Meaning: mystery
+    ├─ Category: abstract
+    ├─ Root: LUC
+    ├─ Gematria: 121
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  LUCIFTIAN
+    ├─ Meaning: brightness
+    ├─ Category: original
+    ├─ Root: LUC
+    ├─ Gematria: 220
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LUCIFTIP
+    ├─ Meaning: creature (extended)
+    ├─ Category: extended
+    ├─ Root: LUC
+    ├─ Gematria: 172
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LUS
+    ├─ Meaning: thunder (extended)
+    ├─ Category: extended
+    ├─ Root: LUS
+    ├─ Gematria: 30
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  LUSDA
+    ├─ Meaning: feet
+    ├─ Category: original
+    ├─ Root: LUS
+    ├─ Gematria: 39
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LUSDAOD
+    ├─ Meaning: creature
+    ├─ Category: beings
+    ├─ Root: LUS
+    ├─ Gematria: 72
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → feet + and
+
+  LUSDI
+    ├─ Meaning: feet (variant)
+    ├─ Category: original
+    ├─ Root: LUS
+    ├─ Gematria: 93
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  LUSOLOGOND
+    ├─ Meaning: darkness
+    ├─ Category: elements
+    ├─ Root: LUS
+    ├─ Gematria: 207
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  LUSONPIRT
+    ├─ Meaning: throne (extended)
+    ├─ Category: extended
+    ├─ Root: LUS
+    ├─ Gematria: 287
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+
+──────────────────────────────────────────────────────────────────────
+                              — M —
+──────────────────────────────────────────────────────────────────────
+
+  M
+    ├─ Meaning: apply
+    ├─ Category: original
+    ├─ Root: M
+    ├─ Gematria: 90
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MAB
+    ├─ Meaning: spirit (extended)
+    ├─ Category: extended
+    ├─ Root: MAB
+    ├─ Gematria: 101
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MABZA
+    ├─ Meaning: garment
+    ├─ Category: original
+    ├─ Root: MAB
+    ├─ Gematria: 114
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MAD
+    ├─ Meaning: god/your god
+    ├─ Category: original
+    ├─ Root: MAD
+    ├─ Gematria: 99
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MADAMA
+    ├─ Meaning: forty (extended)
+    ├─ Category: extended
+    ├─ Root: MAD
+    ├─ Gematria: 201
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MADNA
+    ├─ Meaning: serpent (extended)
+    ├─ Category: extended
+    ├─ Root: MAD
+    ├─ Gematria: 155
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MADRIAX
+    ├─ Meaning: heavens
+    ├─ Category: original
+    ├─ Root: MAD
+    ├─ Gematria: 665
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MADRID
+    ├─ Meaning: iniquity
+    ├─ Category: original
+    ├─ Root: MAD
+    ├─ Gematria: 262
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MALAS
+    ├─ Meaning: wonder
+    ├─ Category: emotions
+    ├─ Root: MAL
+    ├─ Gematria: 130
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → continuation/god + rich
+
+  MALMABZAPH
+    ├─ Meaning: rest (extended)
+    ├─ Category: extended
+    ├─ Root: MAL
+    ├─ Gematria: 243
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MALOHOL
+    ├─ Meaning: infinite (extended)
+    ├─ Category: extended
+    ├─ Root: MAL
+    ├─ Gematria: 205
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MALPRG
+    ├─ Meaning: fire
+    ├─ Category: original
+    ├─ Root: MAL
+    ├─ Gematria: 238
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MALTIM
+    ├─ Meaning: cave
+    ├─ Category: places
+    ├─ Root: MAL
+    ├─ Gematria: 279
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → continuation/god + extreme justice
+
+  MALTOHOLNA
+    ├─ Meaning: darkness (extended)
+    ├─ Category: extended
+    ├─ Root: MAL
+    ├─ Gematria: 270
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MAMA
+    ├─ Meaning: continue
+    ├─ Category: original
+    ├─ Root: MAM
+    ├─ Gematria: 192
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MAN
+    ├─ Meaning: cycle (extended)
+    ├─ Category: extended
+    ├─ Root: MAN
+    ├─ Gematria: 146
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MANIN
+    ├─ Meaning: mind
+    ├─ Category: original
+    ├─ Root: MAN
+    ├─ Gematria: 256
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MANPH
+    ├─ Meaning: lightning (extended)
+    ├─ Category: extended
+    ├─ Root: MAN
+    ├─ Gematria: 155
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MAOFFAS
+    ├─ Meaning: garment
+    ├─ Category: original
+    ├─ Root: MAO
+    ├─ Gematria: 152
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MAOIBS
+    ├─ Meaning: spirit (extended)
+    ├─ Category: extended
+    ├─ Root: MAO
+    ├─ Gematria: 195
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MAR
+    ├─ Meaning: time (extended)
+    ├─ Category: extended
+    ├─ Root: MAR
+    ├─ Gematria: 196
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MARB
+    ├─ Meaning: half
+    ├─ Category: original
+    ├─ Root: MAR
+    ├─ Gematria: 201
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MASARMA
+    ├─ Meaning: pure
+    ├─ Category: qualities
+    ├─ Root: MAS
+    ├─ Gematria: 302
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → continuation/god + whom
+
+  MASOBA
+    ├─ Meaning: north
+    ├─ Category: directions
+    ├─ Root: MAS
+    ├─ Gematria: 141
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → continuation/god + whose
+
+  MATB
+    ├─ Meaning: nine
+    ├─ Category: original
+    ├─ Root: MAT
+    ├─ Gematria: 110
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MAX
+    ├─ Meaning: wise
+    ├─ Category: qualities
+    ├─ Root: MAX
+    ├─ Gematria: 496
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  MER
+    ├─ Meaning: upon
+    ├─ Category: original
+    ├─ Root: MER
+    ├─ Gematria: 199
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MERADIX
+    ├─ Meaning: worship
+    ├─ Category: divine
+    ├─ Root: MER
+    ├─ Gematria: 668
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  MIAIDAZ
+    ├─ Meaning: silver (extended)
+    ├─ Category: extended
+    ├─ Root: MIA
+    ├─ Gematria: 232
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MIAM
+    ├─ Meaning: continuance
+    ├─ Category: original
+    ├─ Root: MIA
+    ├─ Gematria: 246
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MIC
+    ├─ Meaning: behold (imperative, general)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 151
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → general
+
+  MICAH
+    ├─ Meaning: behold (perfect, general)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 158
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  MICALP
+    ├─ Meaning: might
+    ├─ Category: original
+    ├─ Root: MIC
+    ├─ Gematria: 189
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MICALZ
+    ├─ Meaning: mighty
+    ├─ Category: original
+    ├─ Root: MIC
+    ├─ Gematria: 188
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MICALZO
+    ├─ Meaning: mighty
+    ├─ Category: original
+    ├─ Root: MIC
+    ├─ Gematria: 218
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MICAR
+    ├─ Meaning: behold (present, general)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 257
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  MICIZI
+    ├─ Meaning: behold (past, general)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 278
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  MICLAPIRGE
+    ├─ Meaning: speak
+    ├─ Category: actions
+    ├─ Root: MIC
+    ├─ Gematria: 368
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  MICMA
+    ├─ Meaning: behold
+    ├─ Category: original
+    ├─ Root: MIC
+    ├─ Gematria: 247
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MICMAIR
+    ├─ Meaning: spirit
+    ├─ Category: divine
+    ├─ Root: MIC
+    ├─ Gematria: 407
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → behold + mercy/peace
+
+  MICOLU
+    ├─ Meaning: behold (future, general)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 207
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  MILA
+    ├─ Meaning: spirit (extended)
+    ├─ Category: extended
+    ├─ Root: MIL
+    ├─ Gematria: 180
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MILASAANII
+    ├─ Meaning: becoming (extended)
+    ├─ Category: extended
+    ├─ Root: MIL
+    ├─ Gematria: 366
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MILODZIR
+    ├─ Meaning: peace
+    ├─ Category: emotions
+    ├─ Root: MIL
+    ├─ Gematria: 374
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  MIRC
+    ├─ Meaning: upon
+    ├─ Category: original
+    ├─ Root: MIR
+    ├─ Gematria: 251
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MNA
+    ├─ Meaning: worship (extended)
+    ├─ Category: extended
+    ├─ Root: MNA
+    ├─ Gematria: 146
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MNAH
+    ├─ Meaning: south
+    ├─ Category: directions
+    ├─ Root: MNA
+    ├─ Gematria: 147
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  MNONONS
+    ├─ Meaning: think
+    ├─ Category: original
+    ├─ Root: MNO
+    ├─ Gematria: 304
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MNOTH
+    ├─ Meaning: create
+    ├─ Category: actions
+    ├─ Root: MNO
+    ├─ Gematria: 180
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  MOMA
+    ├─ Meaning: mystery (extended)
+    ├─ Category: extended
+    ├─ Root: MOM
+    ├─ Gematria: 216
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MOMAN
+    ├─ Meaning: becoming (extended)
+    ├─ Category: extended
+    ├─ Root: MOM
+    ├─ Gematria: 266
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MOMAR
+    ├─ Meaning: crown
+    ├─ Category: original
+    ├─ Root: MOM
+    ├─ Gematria: 316
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  MOMICMADAH
+    ├─ Meaning: infinite
+    ├─ Category: numbers
+    ├─ Root: MOM
+    ├─ Gematria: 377
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  MOMS
+    ├─ Meaning: creature (extended)
+    ├─ Category: extended
+    ├─ Root: MOM
+    ├─ Gematria: 214
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MONODARZM
+    ├─ Meaning: above (extended)
+    ├─ Category: extended
+    ├─ Root: MON
+    ├─ Gematria: 406
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  MOZ
+    ├─ Meaning: joy
+    ├─ Category: original
+    ├─ Root: MOZ
+    ├─ Gematria: 127
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — N —
+──────────────────────────────────────────────────────────────────────
+
+  NACO
+    ├─ Meaning: servant
+    ├─ Category: original
+    ├─ Root: NAC
+    ├─ Gematria: 87
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NAELHOLN
+    ├─ Meaning: rise (extended)
+    ├─ Category: extended
+    ├─ Root: NAE
+    ├─ Gematria: 194
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NAELISI
+    ├─ Meaning: rise (extended)
+    ├─ Category: extended
+    ├─ Root: NAE
+    ├─ Gematria: 213
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NANBA
+    ├─ Meaning: thorns
+    ├─ Category: original
+    ├─ Root: NAN
+    ├─ Gematria: 117
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NAZPSAD
+    ├─ Meaning: sword
+    ├─ Category: original
+    ├─ Root: NAZ
+    ├─ Gematria: 84
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NI
+    ├─ Meaning: twenty-eight
+    ├─ Category: original
+    ├─ Root: NI
+    ├─ Gematria: 110
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NII
+    ├─ Meaning: come (imperative, general)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 170
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → general
+
+  NIIAH
+    ├─ Meaning: come (perfect, general)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 177
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  NIIAR
+    ├─ Meaning: come (present, general)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 276
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  NIIIZI
+    ├─ Meaning: come (past, general)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 297
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  NIIOLU
+    ├─ Meaning: come (future, general)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 226
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  NIIS
+    ├─ Meaning: come (variant)
+    ├─ Category: original
+    ├─ Root: NII
+    ├─ Gematria: 174
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NIISO
+    ├─ Meaning: come
+    ├─ Category: original
+    ├─ Root: NII
+    ├─ Gematria: 204
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NILS
+    ├─ Meaning: human (extended)
+    ├─ Category: extended
+    ├─ Root: NIL
+    ├─ Gematria: 138
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NINOS
+    ├─ Meaning: fear
+    ├─ Category: emotions
+    ├─ Root: NIN
+    ├─ Gematria: 194
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → mind + made/twelve
+
+  NOA
+    ├─ Meaning: pronoun form (NO)
+    ├─ Category: grammar
+    ├─ Root: NO
+    ├─ Gematria: 86
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  NOAA
+    ├─ Meaning: harmony
+    ├─ Category: abstract
+    ├─ Root: NOA
+    ├─ Gematria: 92
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  NOAN
+    ├─ Meaning: become
+    ├─ Category: original
+    ├─ Root: NOA
+    ├─ Gematria: 136
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NOASMI
+    ├─ Meaning: ministers
+    ├─ Category: original
+    ├─ Root: NOA
+    ├─ Gematria: 240
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NOATB
+    ├─ Meaning: age
+    ├─ Category: temporal
+    ├─ Root: NOA
+    ├─ Gematria: 100
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  NOATHISAG
+    ├─ Meaning: head (extended)
+    ├─ Category: extended
+    ├─ Root: NOA
+    ├─ Gematria: 176
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NOBAL
+    ├─ Meaning: ice (extended)
+    ├─ Category: extended
+    ├─ Root: NOB
+    ├─ Gematria: 115
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NOBLOH
+    ├─ Meaning: palaces
+    ├─ Category: original
+    ├─ Root: NOB
+    ├─ Gematria: 140
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NOBOANETHA
+    ├─ Meaning: tower (extended)
+    ├─ Category: extended
+    ├─ Root: NOB
+    ├─ Gematria: 196
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NOBOODAM
+    ├─ Meaning: illuminate (extended)
+    ├─ Category: extended
+    ├─ Root: NOB
+    ├─ Gematria: 244
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NOCORDZIZON
+    ├─ Meaning: void
+    ├─ Category: cosmic
+    ├─ Root: NOC
+    ├─ Gematria: 368
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → negation/servant + reason + appearing/faith
+
+  NOI
+    ├─ Meaning: pronoun form (NO)
+    ├─ Category: grammar
+    ├─ Root: NO
+    ├─ Gematria: 140
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  NOIB
+    ├─ Meaning: yoke
+    ├─ Category: original
+    ├─ Root: NOI
+    ├─ Gematria: 145
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NOIS
+    ├─ Meaning: pronoun form (NO)
+    ├─ Category: grammar
+    ├─ Root: NO
+    ├─ Gematria: 144
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  NON
+    ├─ Meaning: dark
+    ├─ Category: qualities
+    ├─ Root: NON
+    ├─ Gematria: 130
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  NONCA
+    ├─ Meaning: you
+    ├─ Category: original
+    ├─ Root: NON
+    ├─ Gematria: 137
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NONCASMIAD
+    ├─ Meaning: fire (extended)
+    ├─ Category: extended
+    ├─ Root: NON
+    ├─ Gematria: 300
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NONCF
+    ├─ Meaning: you (variant)
+    ├─ Category: original
+    ├─ Root: NON
+    ├─ Gematria: 139
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NOND
+    ├─ Meaning: love (extended)
+    ├─ Category: extended
+    ├─ Root: NON
+    ├─ Gematria: 133
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NONG
+    ├─ Meaning: becoming
+    ├─ Category: existential
+    ├─ Root: NON
+    ├─ Gematria: 140
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  NONSH
+    ├─ Meaning: listen (extended)
+    ├─ Category: extended
+    ├─ Root: NON
+    ├─ Gematria: 135
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NOO
+    ├─ Meaning: pronoun form (NO)
+    ├─ Category: grammar
+    ├─ Root: NO
+    ├─ Gematria: 110
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  NOR
+    ├─ Meaning: despair (extended)
+    ├─ Category: extended
+    ├─ Root: NOR
+    ├─ Gematria: 180
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  NORZ
+    ├─ Meaning: six
+    ├─ Category: original
+    ├─ Root: NOR
+    ├─ Gematria: 187
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NOTHO
+    ├─ Meaning: within
+    ├─ Category: directions
+    ├─ Root: NOT
+    ├─ Gematria: 120
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  NOTHOA
+    ├─ Meaning: south
+    ├─ Category: original
+    ├─ Root: NOT
+    ├─ Gematria: 126
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  NOV
+    ├─ Meaning: through
+    ├─ Category: preposition
+    ├─ Root: NOV
+    ├─ Gematria: 82
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  NOVA
+    ├─ Meaning: through
+    ├─ Category: preposition
+    ├─ Root: NOV
+    ├─ Gematria: 88
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  NOVI
+    ├─ Meaning: through
+    ├─ Category: preposition
+    ├─ Root: NOV
+    ├─ Gematria: 142
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  NOVO
+    ├─ Meaning: through
+    ├─ Category: preposition
+    ├─ Root: NOV
+    ├─ Gematria: 112
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  NOZCHAN
+    ├─ Meaning: dawn
+    ├─ Category: temporal
+    ├─ Root: NOZ
+    ├─ Gematria: 145
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → negation/servant + are + secret/truth
+
+  NOZEN
+    ├─ Meaning: matter
+    ├─ Category: existential
+    ├─ Root: NOZ
+    ├─ Gematria: 146
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → negation/servant + sacrifice
+
+
+──────────────────────────────────────────────────────────────────────
+                              — O —
+──────────────────────────────────────────────────────────────────────
+
+  O
+    ├─ Meaning: five/of
+    ├─ Category: original
+    ├─ Root: O
+    ├─ Gematria: 30
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OAGOHED
+    ├─ Meaning: mind
+    ├─ Category: existential
+    ├─ Root: OAG
+    ├─ Gematria: 89
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → great/mighty + saith
+
+  OALI
+    ├─ Meaning: eyes
+    ├─ Category: original
+    ├─ Root: OAL
+    ├─ Gematria: 120
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OAN
+    ├─ Meaning: awe (extended)
+    ├─ Category: extended
+    ├─ Root: OAN
+    ├─ Gematria: 86
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OANU
+    ├─ Meaning: infinite (extended)
+    ├─ Category: extended
+    ├─ Root: OAN
+    ├─ Gematria: 88
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OAOOAOAIR
+    ├─ Meaning: anger
+    ├─ Category: emotions
+    ├─ Root: OAO
+    ├─ Gematria: 298
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → great/mighty + eye + mercy/peace
+
+  OAOXEX
+    ├─ Meaning: listen
+    ├─ Category: actions
+    ├─ Root: OAO
+    ├─ Gematria: 875
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OAS
+    ├─ Meaning: giant (extended)
+    ├─ Category: extended
+    ├─ Root: OAS
+    ├─ Gematria: 40
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OATURBS
+    ├─ Meaning: above
+    ├─ Category: directions
+    ├─ Root: OAT
+    ├─ Gematria: 156
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → great/mighty + beauty (variant)
+
+  OAZONRENSGZI
+    ├─ Meaning: hand
+    ├─ Category: body
+    ├─ Root: OAZ
+    ├─ Gematria: 363
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → great/mighty + deliver + being/am
+
+  OBALB
+    ├─ Meaning: awe
+    ├─ Category: emotions
+    ├─ Root: OBA
+    ├─ Gematria: 70
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OBELISONG
+    ├─ Meaning: marble
+    ├─ Category: original
+    ├─ Root: OBE
+    ├─ Gematria: 222
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OBZA
+    ├─ Meaning: robe
+    ├─ Category: original
+    ├─ Root: OBZ
+    ├─ Gematria: 48
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OBZACRIPSO
+    ├─ Meaning: season (extended)
+    ├─ Category: extended
+    ├─ Root: OBZ
+    ├─ Gematria: 251
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OD
+    ├─ Meaning: and
+    ├─ Category: original
+    ├─ Root: OD
+    ├─ Gematria: 33
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ODAHALPAAN
+    ├─ Meaning: center (extended)
+    ├─ Category: extended
+    ├─ Root: ODA
+    ├─ Gematria: 140
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ODO
+    ├─ Meaning: power (extended)
+    ├─ Category: extended
+    ├─ Root: ODO
+    ├─ Gematria: 63
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OHIO
+    ├─ Meaning: woe
+    ├─ Category: original
+    ├─ Root: OHI
+    ├─ Gematria: 121
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OHIORA
+    ├─ Meaning: center
+    ├─ Category: directions
+    ├─ Root: OHI
+    ├─ Gematria: 227
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → woe + bride
+
+  OHOAS
+    ├─ Meaning: bird (extended)
+    ├─ Category: extended
+    ├─ Root: OHO
+    ├─ Gematria: 71
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OHOLOGONON
+    ├─ Meaning: iron
+    ├─ Category: materials
+    ├─ Root: OHO
+    ├─ Gematria: 285
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OHOLP
+    ├─ Meaning: order (extended)
+    ├─ Category: extended
+    ├─ Root: OHO
+    ├─ Gematria: 93
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OHORELA
+    ├─ Meaning: made
+    ├─ Category: original
+    ├─ Root: OHO
+    ├─ Gematria: 200
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OHUSD
+    ├─ Meaning: thunder
+    ├─ Category: elements
+    ├─ Root: OHU
+    ├─ Gematria: 40
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OI
+    ├─ Meaning: this
+    ├─ Category: original
+    ├─ Root: OI
+    ├─ Gematria: 90
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OIAD
+    ├─ Meaning: God (variant)
+    ├─ Category: original
+    ├─ Root: OIA
+    ├─ Gematria: 99
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OIARZM
+    ├─ Meaning: east (extended)
+    ├─ Category: extended
+    ├─ Root: OIA
+    ├─ Gematria: 293
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OIV
+    ├─ Meaning: knowledge (extended)
+    ├─ Category: extended
+    ├─ Root: OIV
+    ├─ Gematria: 92
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OL
+    ├─ Meaning: I/me
+    ├─ Category: original
+    ├─ Root: OL
+    ├─ Gematria: 54
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OLA
+    ├─ Meaning: pronoun form (OL)
+    ├─ Category: grammar
+    ├─ Root: OL
+    ├─ Gematria: 60
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  OLAN
+    ├─ Meaning: pronoun form (OL)
+    ├─ Category: grammar
+    ├─ Root: OL
+    ├─ Gematria: 110
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  OLBOG
+    ├─ Meaning: reign (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 99
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLBOGAH
+    ├─ Meaning: reign (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 106
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLBOGAR
+    ├─ Meaning: reign (present, first person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 205
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLBOGIZI
+    ├─ Meaning: reign (past, first person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 226
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLBOGOLU
+    ├─ Meaning: reign (future, first person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 155
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLD
+    ├─ Meaning: water (extended)
+    ├─ Category: extended
+    ├─ Root: OLD
+    ├─ Gematria: 57
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OLDAR
+    ├─ Meaning: obey (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 163
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLDARAH
+    ├─ Meaning: obey (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 170
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLDARAR
+    ├─ Meaning: obey (present, first person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 269
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLDARIZI
+    ├─ Meaning: obey (past, first person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 290
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLDAROLU
+    ├─ Meaning: obey (future, first person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 219
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLGOH
+    ├─ Meaning: say (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 95
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLGOHAH
+    ├─ Meaning: say (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 102
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLGOHAR
+    ├─ Meaning: say (present, first person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 201
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLGOHIZI
+    ├─ Meaning: say (past, first person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 222
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLGOHOLU
+    ├─ Meaning: say (future, first person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 151
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLI
+    ├─ Meaning: pronoun form (OL)
+    ├─ Category: grammar
+    ├─ Root: OL
+    ├─ Gematria: 114
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  OLIS
+    ├─ Meaning: pronoun form (OL)
+    ├─ Category: grammar
+    ├─ Root: OL
+    ├─ Gematria: 118
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  OLLAPH
+    ├─ Meaning: moon (extended)
+    ├─ Category: extended
+    ├─ Root: OLL
+    ├─ Gematria: 93
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OLMIC
+    ├─ Meaning: behold (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 205
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLMICAH
+    ├─ Meaning: behold (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 212
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLMICAR
+    ├─ Meaning: behold (present, first person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 311
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLMICIZI
+    ├─ Meaning: behold (past, first person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 332
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLMICOLU
+    ├─ Meaning: behold (future, first person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 261
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLN
+    ├─ Meaning: make
+    ├─ Category: original
+    ├─ Root: OLN
+    ├─ Gematria: 104
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OLNII
+    ├─ Meaning: come (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 224
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLNIIAH
+    ├─ Meaning: come (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 231
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLNIIAR
+    ├─ Meaning: come (present, first person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 330
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLNIIIZI
+    ├─ Meaning: come (past, first person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 351
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLNIIOLU
+    ├─ Meaning: come (future, first person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 280
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLO
+    ├─ Meaning: flesh
+    ├─ Category: body
+    ├─ Root: OLO
+    ├─ Gematria: 84
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OLOGO
+    ├─ Meaning: man
+    ├─ Category: original
+    ├─ Root: OLO
+    ├─ Gematria: 124
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OLOMP
+    ├─ Meaning: understand (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 182
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLOMPAH
+    ├─ Meaning: understand (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 189
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLOMPAR
+    ├─ Meaning: understand (present, first person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 288
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLOMPIZI
+    ├─ Meaning: understand (past, first person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 309
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLOMPOLU
+    ├─ Meaning: understand (future, first person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 238
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLORA
+    ├─ Meaning: man (variant)
+    ├─ Category: original
+    ├─ Root: OLO
+    ├─ Gematria: 190
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OLP
+    ├─ Meaning: strong
+    ├─ Category: qualities
+    ├─ Root: OLP
+    ├─ Gematria: 62
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OLPAID
+    ├─ Meaning: breath (extended)
+    ├─ Category: extended
+    ├─ Root: OLP
+    ├─ Gematria: 131
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OLPETA
+    ├─ Meaning: fire (extended)
+    ├─ Category: extended
+    ├─ Root: OLP
+    ├─ Gematria: 86
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OLPIRT
+    ├─ Meaning: light
+    ├─ Category: original
+    ├─ Root: OLP
+    ├─ Gematria: 231
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OLPONF
+    ├─ Meaning: sky (extended)
+    ├─ Category: extended
+    ├─ Root: OLP
+    ├─ Gematria: 150
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OLQUA
+    ├─ Meaning: destroy (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 102
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLQUAAH
+    ├─ Meaning: destroy (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 109
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLQUAAR
+    ├─ Meaning: destroy (present, first person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 208
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLQUAIZI
+    ├─ Meaning: destroy (past, first person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 229
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLQUAOLU
+    ├─ Meaning: destroy (future, first person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 158
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLTOR
+    ├─ Meaning: arise (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 193
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLTORAH
+    ├─ Meaning: arise (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 200
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLTORAR
+    ├─ Meaning: arise (present, first person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 299
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLTORIZI
+    ├─ Meaning: arise (past, first person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 320
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLTOROLU
+    ├─ Meaning: arise (future, first person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 249
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLZAC
+    ├─ Meaning: move (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 68
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLZACAH
+    ├─ Meaning: move (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 75
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLZACAR
+    ├─ Meaning: move (present, first person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 174
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLZACIZI
+    ├─ Meaning: move (past, first person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 195
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLZACOLU
+    ├─ Meaning: move (future, first person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 124
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OLZAM
+    ├─ Meaning: appear (imperative, first person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 157
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → first person
+
+  OLZAMAH
+    ├─ Meaning: appear (perfect, first person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 164
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → first person
+
+  OLZAMAR
+    ├─ Meaning: appear (present, first person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 263
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → first person
+
+  OLZAMIZI
+    ├─ Meaning: appear (past, first person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 284
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → first person
+
+  OLZAMOLU
+    ├─ Meaning: appear (future, first person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 213
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → first person
+
+  OMADAMI
+    ├─ Meaning: blessing (extended)
+    ├─ Category: extended
+    ├─ Root: OMA
+    ├─ Gematria: 285
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OMARS
+    ├─ Meaning: blood (extended)
+    ├─ Category: extended
+    ├─ Root: OMA
+    ├─ Gematria: 230
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OMAX
+    ├─ Meaning: know
+    ├─ Category: original
+    ├─ Root: OMA
+    ├─ Gematria: 526
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OMP
+    ├─ Meaning: understand
+    ├─ Category: original
+    ├─ Root: OMP
+    ├─ Gematria: 128
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OMPAH
+    ├─ Meaning: understand (perfect, general)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 135
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  OMPAR
+    ├─ Meaning: understand (present, general)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 234
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  OMPIZI
+    ├─ Meaning: understand (past, general)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 255
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  OMPOLU
+    ├─ Meaning: understand (future, general)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 184
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  OOAANU
+    ├─ Meaning: eternal (extended)
+    ├─ Category: extended
+    ├─ Root: OOA
+    ├─ Gematria: 124
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OOANAN
+    ├─ Meaning: west
+    ├─ Category: directions
+    ├─ Root: OOA
+    ├─ Gematria: 172
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → one eye + secret/truth
+
+  OOANETABOL
+    ├─ Meaning: sorrow (extended)
+    ├─ Category: extended
+    ├─ Root: OOA
+    ├─ Gematria: 199
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OOANOAN
+    ├─ Meaning: one eye
+    ├─ Category: original
+    ├─ Root: OOA
+    ├─ Gematria: 202
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OOAOAAN
+    ├─ Meaning: eye
+    ├─ Category: original
+    ├─ Root: OOA
+    ├─ Gematria: 158
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OPE
+    ├─ Meaning: unto
+    ├─ Category: original
+    ├─ Root: OPE
+    ├─ Gematria: 47
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OPETHILZAC
+    ├─ Meaning: wisdom
+    ├─ Category: abstract
+    ├─ Root: OPE
+    ├─ Gematria: 155
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OR
+    ├─ Meaning: twelve
+    ├─ Category: original
+    ├─ Root: OR
+    ├─ Gematria: 130
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ORAL
+    ├─ Meaning: illuminate (extended)
+    ├─ Category: extended
+    ├─ Root: ORA
+    ├─ Gematria: 160
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ORDZIAIALP
+    ├─ Meaning: sky
+    ├─ Category: cosmic
+    ├─ Root: ORD
+    ├─ Gematria: 304
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ORG
+    ├─ Meaning: worship (extended)
+    ├─ Category: extended
+    ├─ Root: ORG
+    ├─ Gematria: 140
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ORRI
+    ├─ Meaning: bark
+    ├─ Category: original
+    ├─ Root: ORR
+    ├─ Gematria: 290
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ORRIAH
+    ├─ Meaning: thousand
+    ├─ Category: numbers
+    ├─ Root: ORR
+    ├─ Gematria: 297
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → bark + creation/works
+
+  ORS
+    ├─ Meaning: darkness
+    ├─ Category: original
+    ├─ Root: ORS
+    ├─ Gematria: 134
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ORSAANETH
+    ├─ Meaning: night (extended)
+    ├─ Category: extended
+    ├─ Root: ORS
+    ├─ Gematria: 215
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ORSAGIAIAL
+    ├─ Meaning: hope (extended)
+    ├─ Category: extended
+    ├─ Root: ORS
+    ├─ Gematria: 306
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ORSCOR
+    ├─ Meaning: drunken
+    ├─ Category: original
+    ├─ Root: ORS
+    ├─ Gematria: 265
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ORZ
+    ├─ Meaning: perfect
+    ├─ Category: qualities
+    ├─ Root: ORZ
+    ├─ Gematria: 137
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ORZULP
+    ├─ Meaning: bone (extended)
+    ├─ Category: extended
+    ├─ Root: ORZ
+    ├─ Gematria: 171
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ORZULPON
+    ├─ Meaning: fear (extended)
+    ├─ Category: extended
+    ├─ Root: ORZ
+    ├─ Gematria: 251
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OS
+    ├─ Meaning: twelve (variant)
+    ├─ Category: original
+    ├─ Root: OS
+    ├─ Gematria: 34
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OSGI
+    ├─ Meaning: day
+    ├─ Category: temporal
+    ├─ Root: OSG
+    ├─ Gematria: 104
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OSGIPAAN
+    ├─ Meaning: pure (extended)
+    ├─ Category: extended
+    ├─ Root: OSG
+    ├─ Gematria: 174
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OSGONCF
+    ├─ Meaning: form (extended)
+    ├─ Category: extended
+    ├─ Root: OSG
+    ├─ Gematria: 133
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OSORE
+    ├─ Meaning: twelve
+    ├─ Category: original
+    ├─ Root: OSO
+    ├─ Gematria: 173
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OTH
+    ├─ Meaning: season (extended)
+    ├─ Category: extended
+    ├─ Root: OTH
+    ├─ Gematria: 40
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OTHI
+    ├─ Meaning: one (extended)
+    ├─ Category: extended
+    ├─ Root: OTH
+    ├─ Gematria: 100
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  OTHIL
+    ├─ Meaning: seat
+    ├─ Category: original
+    ├─ Root: OTH
+    ├─ Gematria: 124
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OV
+    ├─ Meaning: between
+    ├─ Category: preposition
+    ├─ Root: OV
+    ├─ Gematria: 32
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  OVA
+    ├─ Meaning: between
+    ├─ Category: preposition
+    ├─ Root: OV
+    ├─ Gematria: 38
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  OVI
+    ├─ Meaning: between
+    ├─ Category: preposition
+    ├─ Root: OV
+    ├─ Gematria: 92
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  OVO
+    ├─ Meaning: between
+    ├─ Category: preposition
+    ├─ Root: OV
+    ├─ Gematria: 62
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  OVOF
+    ├─ Meaning: magnified
+    ├─ Category: original
+    ├─ Root: OVO
+    ├─ Gematria: 70
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OXEX
+    ├─ Meaning: vex
+    ├─ Category: original
+    ├─ Root: OXE
+    ├─ Gematria: 839
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OXIAIDA
+    ├─ Meaning: order
+    ├─ Category: abstract
+    ├─ Root: OXI
+    ├─ Gematria: 565
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  OXIAYAL
+    ├─ Meaning: mighty seat
+    ├─ Category: original
+    ├─ Root: OXI
+    ├─ Gematria: 586
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OXO
+    ├─ Meaning: twenty-six
+    ├─ Category: original
+    ├─ Root: OXO
+    ├─ Gematria: 460
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  OXOETG
+    ├─ Meaning: head
+    ├─ Category: body
+    ├─ Root: OXO
+    ├─ Gematria: 488
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → twenty-six + seal
+
+  OYVB
+    ├─ Meaning: truth
+    ├─ Category: original
+    ├─ Root: OYV
+    ├─ Gematria: 97
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — P —
+──────────────────────────────────────────────────────────────────────
+
+  P
+    ├─ Meaning: eight
+    ├─ Category: original
+    ├─ Root: P
+    ├─ Gematria: 8
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PAAOX
+    ├─ Meaning: always
+    ├─ Category: original
+    ├─ Root: PAA
+    ├─ Gematria: 450
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PAEB
+    ├─ Meaning: marry
+    ├─ Category: original
+    ├─ Root: PAE
+    ├─ Gematria: 28
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PAH
+    ├─ Meaning: thought (extended)
+    ├─ Category: extended
+    ├─ Root: PAH
+    ├─ Gematria: 15
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PAID
+    ├─ Meaning: always
+    ├─ Category: original
+    ├─ Root: PAI
+    ├─ Gematria: 77
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PAMBT
+    ├─ Meaning: unto me
+    ├─ Category: original
+    ├─ Root: PAM
+    ├─ Gematria: 118
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PAMI
+    ├─ Meaning: dawn (extended)
+    ├─ Category: extended
+    ├─ Root: PAM
+    ├─ Gematria: 164
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PAMSAD
+    ├─ Meaning: beast (extended)
+    ├─ Category: extended
+    ├─ Root: PAM
+    ├─ Gematria: 117
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PANIIS
+    ├─ Meaning: celestial (extended)
+    ├─ Category: extended
+    ├─ Root: PAN
+    ├─ Gematria: 188
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PANPIR
+    ├─ Meaning: continual
+    ├─ Category: original
+    ├─ Root: PAN
+    ├─ Gematria: 232
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PAR
+    ├─ Meaning: in them
+    ├─ Category: original
+    ├─ Root: PAR
+    ├─ Gematria: 114
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PARA
+    ├─ Meaning: around
+    ├─ Category: preposition
+    ├─ Root: PAR
+    ├─ Gematria: 120
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  PARADIZ
+    ├─ Meaning: virgins
+    ├─ Category: original
+    ├─ Root: PAR
+    ├─ Gematria: 190
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PARAOAN
+    ├─ Meaning: bride
+    ├─ Category: original
+    ├─ Root: PAR
+    ├─ Gematria: 206
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PARGEH
+    ├─ Meaning: hand (extended)
+    ├─ Category: extended
+    ├─ Root: PAR
+    ├─ Gematria: 134
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PARI
+    ├─ Meaning: around
+    ├─ Category: preposition
+    ├─ Root: PAR
+    ├─ Gematria: 174
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  PARMADIX
+    ├─ Meaning: wise (extended)
+    ├─ Category: extended
+    ├─ Root: PAR
+    ├─ Gematria: 673
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PARO
+    ├─ Meaning: around
+    ├─ Category: preposition
+    ├─ Root: PAR
+    ├─ Gematria: 144
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  PATHMOZ
+    ├─ Meaning: river (extended)
+    ├─ Category: extended
+    ├─ Root: PAT
+    ├─ Gematria: 151
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PATRALX
+    ├─ Meaning: rock
+    ├─ Category: original
+    ├─ Root: PAT
+    ├─ Gematria: 553
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PATRINU
+    ├─ Meaning: west (extended)
+    ├─ Category: extended
+    ├─ Root: PAT
+    ├─ Gematria: 235
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PATRIP
+    ├─ Meaning: mouth (extended)
+    ├─ Category: extended
+    ├─ Root: PAT
+    ├─ Gematria: 191
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PAZ
+    ├─ Meaning: number
+    ├─ Category: original
+    ├─ Root: PAZ
+    ├─ Gematria: 21
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PERIPSOL
+    ├─ Meaning: heavens
+    ├─ Category: original
+    ├─ Root: PER
+    ├─ Gematria: 243
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PIADPH
+    ├─ Meaning: virgins
+    ├─ Category: original
+    ├─ Root: PIA
+    ├─ Gematria: 86
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PIL
+    ├─ Meaning: water (extended)
+    ├─ Category: extended
+    ├─ Root: PIL
+    ├─ Gematria: 92
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PILA
+    ├─ Meaning: great (extended)
+    ├─ Category: extended
+    ├─ Root: PIL
+    ├─ Gematria: 98
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PILD
+    ├─ Meaning: place
+    ├─ Category: original
+    ├─ Root: PIL
+    ├─ Gematria: 95
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PILONOD
+    ├─ Meaning: small (extended)
+    ├─ Category: extended
+    ├─ Root: PIL
+    ├─ Gematria: 205
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PILP
+    ├─ Meaning: angel
+    ├─ Category: beings
+    ├─ Root: PIL
+    ├─ Gematria: 100
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  PILZIN
+    ├─ Meaning: right
+    ├─ Category: original
+    ├─ Root: PIL
+    ├─ Gematria: 209
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PIRIPSOL
+    ├─ Meaning: heavens (firmament)
+    ├─ Category: original
+    ├─ Root: PIR
+    ├─ Gematria: 294
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PIRZU
+    ├─ Meaning: gate (extended)
+    ├─ Category: extended
+    ├─ Root: PIR
+    ├─ Gematria: 177
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PIS
+    ├─ Meaning: illuminate
+    ├─ Category: actions
+    ├─ Root: PIS
+    ├─ Gematria: 72
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  PLAPLI
+    ├─ Meaning: parts
+    ├─ Category: original
+    ├─ Root: PLA
+    ├─ Gematria: 130
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  POI
+    ├─ Meaning: sorrow
+    ├─ Category: emotions
+    ├─ Root: POI
+    ├─ Gematria: 98
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  POILP
+    ├─ Meaning: divide
+    ├─ Category: original
+    ├─ Root: POI
+    ├─ Gematria: 130
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PONDOLOHUS
+    ├─ Meaning: gold
+    ├─ Category: materials
+    ├─ Root: PON
+    ├─ Gematria: 182
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  PONODOL
+    ├─ Meaning: despair
+    ├─ Category: original
+    ├─ Root: PON
+    ├─ Gematria: 175
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PRD
+    ├─ Meaning: dusk (extended)
+    ├─ Category: extended
+    ├─ Root: PRD
+    ├─ Gematria: 111
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PRDOOAN
+    ├─ Meaning: eye (extended)
+    ├─ Category: extended
+    ├─ Root: PRD
+    ├─ Gematria: 227
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PRDZAR
+    ├─ Meaning: garments
+    ├─ Category: original
+    ├─ Root: PRD
+    ├─ Gematria: 224
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PRDZIL
+    ├─ Meaning: angel (extended)
+    ├─ Category: extended
+    ├─ Root: PRD
+    ├─ Gematria: 202
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PRDZIRDZIR
+    ├─ Meaning: angel (extended)
+    ├─ Category: extended
+    ├─ Root: PRD
+    ├─ Gematria: 448
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PRGE
+    ├─ Meaning: fire
+    ├─ Category: original
+    ├─ Root: PRG
+    ├─ Gematria: 127
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PRIAZIAR
+    ├─ Meaning: feast
+    ├─ Category: original
+    ├─ Root: PRI
+    ├─ Gematria: 347
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  PRITAX
+    ├─ Meaning: matter (extended)
+    ├─ Category: extended
+    ├─ Root: PRI
+    ├─ Gematria: 583
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  PUIM
+    ├─ Meaning: marriage
+    ├─ Category: original
+    ├─ Root: PUI
+    ├─ Gematria: 160
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — Q —
+──────────────────────────────────────────────────────────────────────
+
+  Q
+    ├─ Meaning: thy
+    ├─ Category: original
+    ├─ Root: Q
+    ├─ Gematria: 40
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  QAAH
+    ├─ Meaning: angel
+    ├─ Category: divine
+    ├─ Root: QAA
+    ├─ Gematria: 53
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  QAAL
+    ├─ Meaning: creatures
+    ├─ Category: original
+    ├─ Root: QAA
+    ├─ Gematria: 76
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  QAAN
+    ├─ Meaning: temple
+    ├─ Category: places
+    ├─ Root: QAA
+    ├─ Gematria: 102
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  QAAS
+    ├─ Meaning: said
+    ├─ Category: original
+    ├─ Root: QAA
+    ├─ Gematria: 56
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  QTING
+    ├─ Meaning: the
+    ├─ Category: original
+    ├─ Root: QTI
+    ├─ Gematria: 169
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  QTINGAX
+    ├─ Meaning: sand
+    ├─ Category: materials
+    ├─ Root: QTI
+    ├─ Gematria: 575
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → the + place/seat
+
+  QUA
+    ├─ Meaning: destroy (imperative, general)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 48
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → general
+
+  QUAAH
+    ├─ Meaning: destroy (perfect, general)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 55
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  QUAAR
+    ├─ Meaning: destroy (present, general)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 154
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  QUAD
+    ├─ Meaning: dream (extended)
+    ├─ Category: extended
+    ├─ Root: QUA
+    ├─ Gematria: 51
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  QUAETH
+    ├─ Meaning: infinite
+    ├─ Category: qualities
+    ├─ Root: QUA
+    ├─ Gematria: 67
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → please + hearken
+
+  QUAIZI
+    ├─ Meaning: destroy (past, general)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 175
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  QUAOLU
+    ├─ Meaning: destroy (future, general)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 104
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  QUARSAG
+    ├─ Meaning: void (extended)
+    ├─ Category: extended
+    ├─ Root: QUA
+    ├─ Gematria: 168
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  QUASAHI
+    ├─ Meaning: please
+    ├─ Category: original
+    ├─ Root: QUA
+    ├─ Gematria: 119
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  QUASB
+    ├─ Meaning: destroy
+    ├─ Category: original
+    ├─ Root: QUA
+    ├─ Gematria: 57
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  QUASGONPIL
+    ├─ Meaning: sorrow (extended)
+    ├─ Category: extended
+    ├─ Root: QUA
+    ├─ Gematria: 234
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  QUIIN
+    ├─ Meaning: all
+    ├─ Category: original
+    ├─ Root: QUI
+    ├─ Gematria: 212
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  QUIINIRT
+    ├─ Meaning: prayer (extended)
+    ├─ Category: extended
+    ├─ Root: QUI
+    ├─ Gematria: 381
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  QUIIS
+    ├─ Meaning: essence (extended)
+    ├─ Category: extended
+    ├─ Root: QUI
+    ├─ Gematria: 166
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  QUIISAMICM
+    ├─ Meaning: chaos (extended)
+    ├─ Category: extended
+    ├─ Root: QUI
+    ├─ Gematria: 413
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  QURANU
+    ├─ Meaning: dark (extended)
+    ├─ Category: extended
+    ├─ Root: QUR
+    ├─ Gematria: 200
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  QURLST
+    ├─ Meaning: handmaidens
+    ├─ Category: original
+    ├─ Root: QUR
+    ├─ Gematria: 179
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — R —
+──────────────────────────────────────────────────────────────────────
+
+  R
+    ├─ Meaning: twelve
+    ├─ Category: original
+    ├─ Root: R
+    ├─ Gematria: 100
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  RID
+    ├─ Meaning: infinite (extended)
+    ├─ Category: extended
+    ├─ Root: RID
+    ├─ Gematria: 163
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  RIPSAH
+    ├─ Meaning: star
+    ├─ Category: cosmic
+    ├─ Root: RIP
+    ├─ Gematria: 179
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  RIT
+    ├─ Meaning: mercy
+    ├─ Category: original
+    ├─ Root: RIT
+    ├─ Gematria: 169
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ROR
+    ├─ Meaning: sun
+    ├─ Category: original
+    ├─ Root: ROR
+    ├─ Gematria: 230
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ROSOBA
+    ├─ Meaning: forest
+    ├─ Category: places
+    ├─ Root: ROS
+    ├─ Gematria: 175
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  RSAM
+    ├─ Meaning: prepare
+    ├─ Category: original
+    ├─ Root: RSA
+    ├─ Gematria: 200
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  RSAPMI
+    ├─ Meaning: heaven (extended)
+    ├─ Category: extended
+    ├─ Root: RSA
+    ├─ Gematria: 268
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  RSORSCOR
+    ├─ Meaning: wood
+    ├─ Category: materials
+    ├─ Root: RSO
+    ├─ Gematria: 369
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → prepare + drunken
+
+  RURD
+    ├─ Meaning: run
+    ├─ Category: original
+    ├─ Root: RUR
+    ├─ Gematria: 205
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  RURDZAR
+    ├─ Meaning: planet (extended)
+    ├─ Category: extended
+    ├─ Root: RUR
+    ├─ Gematria: 318
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  RZUZI
+    ├─ Meaning: being
+    ├─ Category: existential
+    ├─ Root: RZU
+    ├─ Gematria: 176
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → arise + being/am
+
+
+──────────────────────────────────────────────────────────────────────
+                              — S —
+──────────────────────────────────────────────────────────────────────
+
+  S
+    ├─ Meaning: fourth
+    ├─ Category: original
+    ├─ Root: S
+    ├─ Gematria: 4
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SAALX
+    ├─ Meaning: mouth
+    ├─ Category: body
+    ├─ Root: SAA
+    ├─ Gematria: 440
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  SAANIR
+    ├─ Meaning: parts
+    ├─ Category: original
+    ├─ Root: SAA
+    ├─ Gematria: 226
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SAD
+    ├─ Meaning: heart (extended)
+    ├─ Category: extended
+    ├─ Root: SAD
+    ├─ Gematria: 13
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SADIX
+    ├─ Meaning: beast
+    ├─ Category: beings
+    ├─ Root: SAD
+    ├─ Gematria: 473
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  SAGLE
+    ├─ Meaning: twelve (extended)
+    ├─ Category: extended
+    ├─ Root: SAG
+    ├─ Gematria: 53
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SALD
+    ├─ Meaning: divided
+    ├─ Category: original
+    ├─ Root: SAL
+    ├─ Gematria: 37
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SALDUL
+    ├─ Meaning: crystal
+    ├─ Category: materials
+    ├─ Root: SAL
+    ├─ Gematria: 63
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → divided + end/rising
+
+  SALMAN
+    ├─ Meaning: house
+    ├─ Category: original
+    ├─ Root: SAL
+    ├─ Gematria: 180
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SAPAH
+    ├─ Meaning: mighty sounds
+    ├─ Category: original
+    ├─ Root: SAP
+    ├─ Gematria: 25
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SAR
+    ├─ Meaning: form (extended)
+    ├─ Category: extended
+    ├─ Root: SAR
+    ├─ Gematria: 110
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SIBSI
+    ├─ Meaning: covenant
+    ├─ Category: original
+    ├─ Root: SIB
+    ├─ Gematria: 133
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SOBA
+    ├─ Meaning: whose
+    ├─ Category: original
+    ├─ Root: SOB
+    ├─ Gematria: 45
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SOBAL
+    ├─ Meaning: whose
+    ├─ Category: original
+    ├─ Root: SOB
+    ├─ Gematria: 69
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SOBALP
+    ├─ Meaning: rest (extended)
+    ├─ Category: extended
+    ├─ Root: SOB
+    ├─ Gematria: 77
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOBALZORSA
+    ├─ Meaning: day (extended)
+    ├─ Category: extended
+    ├─ Root: SOB
+    ├─ Gematria: 216
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOBAM
+    ├─ Meaning: whose
+    ├─ Category: original
+    ├─ Root: SOB
+    ├─ Gematria: 135
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SOBCA
+    ├─ Meaning: whose (variant)
+    ├─ Category: original
+    ├─ Root: SOB
+    ├─ Gematria: 46
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SOBCAILT
+    ├─ Meaning: without
+    ├─ Category: directions
+    ├─ Root: SOB
+    ├─ Gematria: 139
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → whose (variant) + seat/place
+
+  SOBELZA
+    ├─ Meaning: law (extended)
+    ├─ Category: extended
+    ├─ Root: SOB
+    ├─ Gematria: 85
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOBL
+    ├─ Meaning: crystal (extended)
+    ├─ Category: extended
+    ├─ Root: SOB
+    ├─ Gematria: 63
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOBLIANU
+    ├─ Meaning: time
+    ├─ Category: temporal
+    ├─ Root: SOB
+    ├─ Gematria: 181
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  SOBOLD
+    ├─ Meaning: sacred (extended)
+    ├─ Category: extended
+    ├─ Root: SOB
+    ├─ Gematria: 96
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOBOLN
+    ├─ Meaning: the west
+    ├─ Category: original
+    ├─ Root: SOB
+    ├─ Gematria: 143
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SOBOOANU
+    ├─ Meaning: despair (extended)
+    ├─ Category: extended
+    ├─ Root: SOB
+    ├─ Gematria: 157
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOBZI
+    ├─ Meaning: hundred
+    ├─ Category: numbers
+    ├─ Root: SOB
+    ├─ Gematria: 106
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → whose + being/am
+
+  SOLISAAN
+    ├─ Meaning: wise (extended)
+    ├─ Category: extended
+    ├─ Root: SOL
+    ├─ Gematria: 184
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOLNAZ
+    ├─ Meaning: iron (extended)
+    ├─ Category: extended
+    ├─ Root: SOL
+    ├─ Gematria: 121
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOLOCH
+    ├─ Meaning: throne (extended)
+    ├─ Category: extended
+    ├─ Root: SOL
+    ├─ Gematria: 90
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOLOGPAMIC
+    ├─ Meaning: blood (extended)
+    ├─ Category: extended
+    ├─ Root: SOL
+    ├─ Gematria: 263
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOLPETH
+    ├─ Meaning: hearken
+    ├─ Category: original
+    ├─ Root: SOL
+    ├─ Gematria: 85
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SOLPIAH
+    ├─ Meaning: bright (extended)
+    ├─ Category: extended
+    ├─ Root: SOL
+    ├─ Gematria: 133
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOND
+    ├─ Meaning: mouth (extended)
+    ├─ Category: extended
+    ├─ Root: SON
+    ├─ Gematria: 87
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SONF
+    ├─ Meaning: reign
+    ├─ Category: original
+    ├─ Root: SON
+    ├─ Gematria: 92
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  SONRELZIRE
+    ├─ Meaning: angel (extended)
+    ├─ Category: extended
+    ├─ Root: SON
+    ├─ Gematria: 393
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  SOZ
+    ├─ Meaning: truth (extended)
+    ├─ Category: extended
+    ├─ Root: SOZ
+    ├─ Gematria: 41
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+
+──────────────────────────────────────────────────────────────────────
+                              — T —
+──────────────────────────────────────────────────────────────────────
+
+  T
+    ├─ Meaning: it
+    ├─ Category: original
+    ├─ Root: T
+    ├─ Gematria: 9
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TA
+    ├─ Meaning: as
+    ├─ Category: original
+    ├─ Root: TA
+    ├─ Gematria: 15
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TAA
+    ├─ Meaning: pronoun form (TA)
+    ├─ Category: grammar
+    ├─ Root: TA
+    ├─ Gematria: 21
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  TAAN
+    ├─ Meaning: pronoun form (TA)
+    ├─ Category: grammar
+    ├─ Root: TA
+    ├─ Gematria: 71
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  TAB
+    ├─ Meaning: bird (extended)
+    ├─ Category: extended
+    ├─ Root: TAB
+    ├─ Gematria: 20
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TABAAN
+    ├─ Meaning: governor
+    ├─ Category: original
+    ├─ Root: TAB
+    ├─ Gematria: 82
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TABALPOIAI
+    ├─ Meaning: forest (extended)
+    ├─ Category: extended
+    ├─ Root: TAB
+    ├─ Gematria: 214
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TABGES
+    ├─ Meaning: cave
+    ├─ Category: original
+    ├─ Root: TAB
+    ├─ Gematria: 43
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TABRALTOL
+    ├─ Meaning: head (extended)
+    ├─ Category: extended
+    ├─ Root: TAB
+    ├─ Gematria: 213
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TAI
+    ├─ Meaning: pronoun form (TA)
+    ├─ Category: grammar
+    ├─ Root: TA
+    ├─ Gematria: 75
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  TAIS
+    ├─ Meaning: pronoun form (TA)
+    ├─ Category: grammar
+    ├─ Root: TA
+    ├─ Gematria: 79
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  TALHO
+    ├─ Meaning: cups
+    ├─ Category: original
+    ├─ Root: TAL
+    ├─ Gematria: 70
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TALZACORSA
+    ├─ Meaning: giant (extended)
+    ├─ Category: extended
+    ├─ Root: TAL
+    ├─ Gematria: 193
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TAO
+    ├─ Meaning: pronoun form (TA)
+    ├─ Category: grammar
+    ├─ Root: TA
+    ├─ Gematria: 45
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  TAX
+    ├─ Meaning: spirit (extended)
+    ├─ Category: extended
+    ├─ Root: TAX
+    ├─ Gematria: 415
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TAXS
+    ├─ Meaning: twenty-two
+    ├─ Category: original
+    ├─ Root: TAX
+    ├─ Gematria: 419
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TBOG
+    ├─ Meaning: reign (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 54
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TBOGAH
+    ├─ Meaning: reign (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 61
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TBOGAR
+    ├─ Meaning: reign (present, third person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 160
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TBOGIZI
+    ├─ Meaning: reign (past, third person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 181
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TBOGOLU
+    ├─ Meaning: reign (future, third person)
+    ├─ Category: verb
+    ├─ Root: BOG
+    ├─ Gematria: 110
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TDAR
+    ├─ Meaning: obey (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 118
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TDARAH
+    ├─ Meaning: obey (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 125
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TDARAR
+    ├─ Meaning: obey (present, third person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 224
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TDARIZI
+    ├─ Meaning: obey (past, third person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 245
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TDAROLU
+    ├─ Meaning: obey (future, third person)
+    ├─ Category: verb
+    ├─ Root: DAR
+    ├─ Gematria: 174
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TEL
+    ├─ Meaning: eternity (extended)
+    ├─ Category: extended
+    ├─ Root: TEL
+    ├─ Gematria: 42
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TELH
+    ├─ Meaning: bone (extended)
+    ├─ Category: extended
+    ├─ Root: TEL
+    ├─ Gematria: 43
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TELOC
+    ├─ Meaning: death
+    ├─ Category: original
+    ├─ Root: TEL
+    ├─ Gematria: 73
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TELOCH
+    ├─ Meaning: him that is fallen
+    ├─ Category: original
+    ├─ Root: TEL
+    ├─ Gematria: 74
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TELODO
+    ├─ Meaning: two (extended)
+    ├─ Category: extended
+    ├─ Root: TEL
+    ├─ Gematria: 105
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TEOR
+    ├─ Meaning: planet
+    ├─ Category: cosmic
+    ├─ Root: TEO
+    ├─ Gematria: 148
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TGOH
+    ├─ Meaning: say (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 50
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TGOHAH
+    ├─ Meaning: say (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 57
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TGOHAR
+    ├─ Meaning: say (present, third person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 156
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TGOHIZI
+    ├─ Meaning: say (past, third person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 177
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TGOHOLU
+    ├─ Meaning: say (future, third person)
+    ├─ Category: verb
+    ├─ Root: GOH
+    ├─ Gematria: 106
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  THICOR
+    ├─ Meaning: earth
+    ├─ Category: elements
+    ├─ Root: THI
+    ├─ Gematria: 201
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → seat + drunken
+
+  THIL
+    ├─ Meaning: seat
+    ├─ Category: original
+    ├─ Root: THI
+    ├─ Gematria: 94
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  THOMA
+    ├─ Meaning: without (extended)
+    ├─ Category: extended
+    ├─ Root: THO
+    ├─ Gematria: 136
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TIAG
+    ├─ Meaning: twelve
+    ├─ Category: numbers
+    ├─ Root: TIA
+    ├─ Gematria: 85
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TIAGIMP
+    ├─ Meaning: speak (extended)
+    ├─ Category: extended
+    ├─ Root: TIA
+    ├─ Gematria: 243
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TIANTA
+    ├─ Meaning: bed of
+    ├─ Category: original
+    ├─ Root: TIA
+    ├─ Gematria: 140
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TIN
+    ├─ Meaning: east
+    ├─ Category: directions
+    ├─ Root: TIN
+    ├─ Gematria: 119
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TIOBL
+    ├─ Meaning: bed
+    ├─ Category: original
+    ├─ Root: TIO
+    ├─ Gematria: 128
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TIP
+    ├─ Meaning: it
+    ├─ Category: original
+    ├─ Root: TIP
+    ├─ Gematria: 77
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TIPIR
+    ├─ Meaning: wind
+    ├─ Category: elements
+    ├─ Root: TIP
+    ├─ Gematria: 237
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → it + mercy/peace
+
+  TIPSAM
+    ├─ Meaning: listen (extended)
+    ├─ Category: extended
+    ├─ Root: TIP
+    ├─ Gematria: 177
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TMIC
+    ├─ Meaning: behold (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 160
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TMICAH
+    ├─ Meaning: behold (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 167
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TMICAR
+    ├─ Meaning: behold (present, third person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 266
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TMICIZI
+    ├─ Meaning: behold (past, third person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 287
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TMICOLU
+    ├─ Meaning: behold (future, third person)
+    ├─ Category: verb
+    ├─ Root: MIC
+    ├─ Gematria: 216
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TNII
+    ├─ Meaning: come (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 179
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TNIIAH
+    ├─ Meaning: come (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 186
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TNIIAR
+    ├─ Meaning: come (present, third person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 285
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TNIIIZI
+    ├─ Meaning: come (past, third person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 306
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TNIIOLU
+    ├─ Meaning: come (future, third person)
+    ├─ Category: verb
+    ├─ Root: NII
+    ├─ Gematria: 235
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TOH
+    ├─ Meaning: transform
+    ├─ Category: actions
+    ├─ Root: TOH
+    ├─ Gematria: 40
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TOHE
+    ├─ Meaning: law
+    ├─ Category: abstract
+    ├─ Root: TOH
+    ├─ Gematria: 49
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TOHOLN
+    ├─ Meaning: eternity
+    ├─ Category: temporal
+    ├─ Root: TOH
+    ├─ Gematria: 144
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TOL
+    ├─ Meaning: all
+    ├─ Category: original
+    ├─ Root: TOL
+    ├─ Gematria: 63
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TOLD
+    ├─ Meaning: zero (extended)
+    ├─ Category: extended
+    ├─ Root: TOL
+    ├─ Gematria: 66
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TOLONSG
+    ├─ Meaning: peace (extended)
+    ├─ Category: extended
+    ├─ Root: TOL
+    ├─ Gematria: 157
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TOLORG
+    ├─ Meaning: age (extended)
+    ├─ Category: extended
+    ├─ Root: TOL
+    ├─ Gematria: 203
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TOLPONPH
+    ├─ Meaning: water
+    ├─ Category: elements
+    ├─ Root: TOL
+    ├─ Gematria: 160
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TOLTORG
+    ├─ Meaning: all creatures
+    ├─ Category: original
+    ├─ Root: TOL
+    ├─ Gematria: 212
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TOMP
+    ├─ Meaning: understand (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 137
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TOMPAH
+    ├─ Meaning: understand (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 144
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TOMPAR
+    ├─ Meaning: understand (present, third person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 243
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TOMPIZI
+    ├─ Meaning: understand (past, third person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 264
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TOMPOLU
+    ├─ Meaning: understand (future, third person)
+    ├─ Category: verb
+    ├─ Root: OMP
+    ├─ Gematria: 193
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TOOAT
+    ├─ Meaning: furnish
+    ├─ Category: original
+    ├─ Root: TOO
+    ├─ Gematria: 84
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TORAH
+    ├─ Meaning: arise (perfect, general)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 146
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  TORANAINTS
+    ├─ Meaning: spirit (extended)
+    ├─ Category: extended
+    ├─ Root: TOR
+    ├─ Gematria: 324
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TORAR
+    ├─ Meaning: arise (present, general)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 245
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  TORIZI
+    ├─ Meaning: arise (past, general)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 266
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  TOROLU
+    ├─ Meaning: arise (future, general)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 195
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  TORSA
+    ├─ Meaning: sun
+    ├─ Category: cosmic
+    ├─ Root: TOR
+    ├─ Gematria: 149
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TORSADIX
+    ├─ Meaning: storm
+    ├─ Category: elements
+    ├─ Root: TOR
+    ├─ Gematria: 612
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TORSADNANI
+    ├─ Meaning: eternal (extended)
+    ├─ Category: extended
+    ├─ Root: TOR
+    ├─ Gematria: 318
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TORSB
+    ├─ Meaning: rise
+    ├─ Category: actions
+    ├─ Root: TOR
+    ├─ Gematria: 148
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TORZU
+    ├─ Meaning: arise
+    ├─ Category: original
+    ├─ Root: TOR
+    ├─ Gematria: 148
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TORZUL
+    ├─ Meaning: risen
+    ├─ Category: original
+    ├─ Root: TOR
+    ├─ Gematria: 172
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TORZULP
+    ├─ Meaning: arise unto
+    ├─ Category: original
+    ├─ Root: TOR
+    ├─ Gematria: 180
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TOSGIMARG
+    ├─ Meaning: bright
+    ├─ Category: qualities
+    ├─ Root: TOS
+    ├─ Gematria: 319
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → all/arising + day + steward/keeper
+
+  TOTHOA
+    ├─ Meaning: bone
+    ├─ Category: body
+    ├─ Root: TOT
+    ├─ Gematria: 85
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → all/arising + south
+
+  TQUA
+    ├─ Meaning: destroy (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 57
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TQUAAH
+    ├─ Meaning: destroy (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 64
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TQUAAR
+    ├─ Meaning: destroy (present, third person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 163
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TQUAIZI
+    ├─ Meaning: destroy (past, third person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 184
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TQUAOLU
+    ├─ Meaning: destroy (future, third person)
+    ├─ Category: verb
+    ├─ Root: QUA
+    ├─ Gematria: 113
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TRANSH
+    ├─ Meaning: seven
+    ├─ Category: numbers
+    ├─ Root: TRA
+    ├─ Gematria: 170
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TRIAN
+    ├─ Meaning: appear
+    ├─ Category: original
+    ├─ Root: TRI
+    ├─ Gematria: 225
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TRIDA
+    ├─ Meaning: thought
+    ├─ Category: existential
+    ├─ Root: TRI
+    ├─ Gematria: 178
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TTOR
+    ├─ Meaning: arise (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 148
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TTORAH
+    ├─ Meaning: arise (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 155
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TTORAR
+    ├─ Meaning: arise (present, third person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 254
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TTORIZI
+    ├─ Meaning: arise (past, third person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 275
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TTOROLU
+    ├─ Meaning: arise (future, third person)
+    ├─ Category: verb
+    ├─ Root: TOR
+    ├─ Gematria: 204
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TURA
+    ├─ Meaning: within (extended)
+    ├─ Category: extended
+    ├─ Root: TUR
+    ├─ Gematria: 117
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TURAL
+    ├─ Meaning: temple (extended)
+    ├─ Category: extended
+    ├─ Root: TUR
+    ├─ Gematria: 141
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TURALB
+    ├─ Meaning: beauty
+    ├─ Category: original
+    ├─ Root: TUR
+    ├─ Gematria: 146
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TURALBUL
+    ├─ Meaning: cycle
+    ├─ Category: temporal
+    ├─ Root: TUR
+    ├─ Gematria: 172
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → beauty + end/rising
+
+  TURANU
+    ├─ Meaning: void (extended)
+    ├─ Category: extended
+    ├─ Root: TUR
+    ├─ Gematria: 169
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TURAOAN
+    ├─ Meaning: create (extended)
+    ├─ Category: extended
+    ├─ Root: TUR
+    ├─ Gematria: 203
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TURBS
+    ├─ Meaning: beauty (variant)
+    ├─ Category: original
+    ├─ Root: TUR
+    ├─ Gematria: 120
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  TURD
+    ├─ Meaning: joy (extended)
+    ├─ Category: extended
+    ├─ Root: TUR
+    ├─ Gematria: 114
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TURDO
+    ├─ Meaning: temple (extended)
+    ├─ Category: extended
+    ├─ Root: TUR
+    ├─ Gematria: 144
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  TURLS
+    ├─ Meaning: lightning
+    ├─ Category: elements
+    ├─ Root: TUR
+    ├─ Gematria: 139
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  TZAC
+    ├─ Meaning: move (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 23
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TZACAH
+    ├─ Meaning: move (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 30
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TZACAR
+    ├─ Meaning: move (present, third person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 129
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TZACIZI
+    ├─ Meaning: move (past, third person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 150
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TZACOLU
+    ├─ Meaning: move (future, third person)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 79
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+  TZAM
+    ├─ Meaning: appear (imperative, third person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 112
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → third person
+
+  TZAMAH
+    ├─ Meaning: appear (perfect, third person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 119
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → third person
+
+  TZAMAR
+    ├─ Meaning: appear (present, third person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 218
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → third person
+
+  TZAMIZI
+    ├─ Meaning: appear (past, third person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 239
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → third person
+
+  TZAMOLU
+    ├─ Meaning: appear (future, third person)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 168
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → third person
+
+
+──────────────────────────────────────────────────────────────────────
+                              — U —
+──────────────────────────────────────────────────────────────────────
+
+  U
+    ├─ Meaning: strength
+    ├─ Category: original
+    ├─ Root: U
+    ├─ Gematria: 2
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — V —
+──────────────────────────────────────────────────────────────────────
+
+  V
+    ├─ Meaning: toward
+    ├─ Category: preposition
+    ├─ Root: V
+    ├─ Gematria: 2
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  VA
+    ├─ Meaning: toward
+    ├─ Category: preposition
+    ├─ Root: V
+    ├─ Gematria: 8
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  VAOAN
+    ├─ Meaning: truth
+    ├─ Category: original
+    ├─ Root: VAO
+    ├─ Gematria: 94
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VAOFFAFFAS
+    ├─ Meaning: sun (extended)
+    ├─ Category: extended
+    ├─ Root: VAO
+    ├─ Gematria: 86
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VAUL
+    ├─ Meaning: work
+    ├─ Category: original
+    ├─ Root: VAU
+    ├─ Gematria: 34
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VEA
+    ├─ Meaning: secret (extended)
+    ├─ Category: extended
+    ├─ Root: VEA
+    ├─ Gematria: 17
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VEAELA
+    ├─ Meaning: great (extended)
+    ├─ Category: extended
+    ├─ Root: VEA
+    ├─ Gematria: 56
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VEARANIISI
+    ├─ Meaning: pure (extended)
+    ├─ Category: extended
+    ├─ Root: VEA
+    ├─ Gematria: 357
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VEARZIRT
+    ├─ Meaning: gate (extended)
+    ├─ Category: extended
+    ├─ Root: VEA
+    ├─ Gematria: 293
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VEP
+    ├─ Meaning: lament
+    ├─ Category: original
+    ├─ Root: VEP
+    ├─ Gematria: 19
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VGEAR
+    ├─ Meaning: strengthen
+    ├─ Category: original
+    ├─ Root: VGE
+    ├─ Gematria: 127
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VGES
+    ├─ Meaning: tower (extended)
+    ├─ Category: extended
+    ├─ Root: VGE
+    ├─ Gematria: 25
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VI
+    ├─ Meaning: toward
+    ├─ Category: preposition
+    ├─ Root: V
+    ├─ Gematria: 62
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  VIN
+    ├─ Meaning: of/from
+    ├─ Category: original
+    ├─ Root: VIN
+    ├─ Gematria: 112
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VINID
+    ├─ Meaning: from the
+    ├─ Category: original
+    ├─ Root: VIN
+    ├─ Gematria: 175
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VINU
+    ├─ Meaning: wrath
+    ├─ Category: original
+    ├─ Root: VIN
+    ├─ Gematria: 114
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VIS
+    ├─ Meaning: sky (extended)
+    ├─ Category: extended
+    ├─ Root: VIS
+    ├─ Gematria: 66
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VISAD
+    ├─ Meaning: poison
+    ├─ Category: original
+    ├─ Root: VIS
+    ├─ Gematria: 75
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VIT
+    ├─ Meaning: one
+    ├─ Category: numbers
+    ├─ Root: VIT
+    ├─ Gematria: 71
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  VMAD
+    ├─ Meaning: voice (extended)
+    ├─ Category: extended
+    ├─ Root: VMA
+    ├─ Gematria: 101
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VMADEA
+    ├─ Meaning: continueth
+    ├─ Category: original
+    ├─ Root: VMA
+    ├─ Gematria: 116
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VMD
+    ├─ Meaning: moon (extended)
+    ├─ Category: extended
+    ├─ Root: VMD
+    ├─ Gematria: 95
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VNIG
+    ├─ Meaning: necessity
+    ├─ Category: original
+    ├─ Root: VNI
+    ├─ Gematria: 122
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VO
+    ├─ Meaning: toward
+    ├─ Category: preposition
+    ├─ Root: V
+    ├─ Gematria: 32
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  VOFFAFE
+    ├─ Meaning: cycle (extended)
+    ├─ Category: extended
+    ├─ Root: VOF
+    ├─ Gematria: 71
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VOMSARG
+    ├─ Meaning: whom
+    ├─ Category: original
+    ├─ Root: VOM
+    ├─ Gematria: 242
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VON
+    ├─ Meaning: eye (extended)
+    ├─ Category: extended
+    ├─ Root: VON
+    ├─ Gematria: 82
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VONA
+    ├─ Meaning: weep
+    ├─ Category: original
+    ├─ Root: VON
+    ├─ Gematria: 88
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VONPH
+    ├─ Meaning: anger
+    ├─ Category: original
+    ├─ Root: VON
+    ├─ Gematria: 91
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VONS
+    ├─ Meaning: rest
+    ├─ Category: actions
+    ├─ Root: VON
+    ├─ Gematria: 86
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  VOOAN
+    ├─ Meaning: truth (variant)
+    ├─ Category: original
+    ├─ Root: VOO
+    ├─ Gematria: 118
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VOOANONOBA
+    ├─ Meaning: truth (extended)
+    ├─ Category: extended
+    ├─ Root: VOO
+    ├─ Gematria: 239
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VORD
+    ├─ Meaning: soul
+    ├─ Category: existential
+    ├─ Root: VOR
+    ├─ Gematria: 135
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  VORRITABOL
+    ├─ Meaning: dusk (extended)
+    ├─ Category: extended
+    ├─ Root: VOR
+    ├─ Gematria: 366
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VORS
+    ├─ Meaning: over
+    ├─ Category: original
+    ├─ Root: VOR
+    ├─ Gematria: 136
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VORSAG
+    ├─ Meaning: over
+    ├─ Category: original
+    ├─ Root: VOR
+    ├─ Gematria: 152
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VORSAM
+    ├─ Meaning: ether (extended)
+    ├─ Category: extended
+    ├─ Root: VOR
+    ├─ Gematria: 232
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  VORSG
+    ├─ Meaning: over (variant)
+    ├─ Category: original
+    ├─ Root: VOR
+    ├─ Gematria: 146
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VORSGILT
+    ├─ Meaning: despair
+    ├─ Category: emotions
+    ├─ Root: VOR
+    ├─ Gematria: 239
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → over (variant) + seat/place
+
+  VRAN
+    ├─ Meaning: dispose
+    ├─ Category: original
+    ├─ Root: VRA
+    ├─ Gematria: 158
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  VX
+    ├─ Meaning: forty-two
+    ├─ Category: original
+    ├─ Root: VX
+    ├─ Gematria: 402
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — X —
+──────────────────────────────────────────────────────────────────────
+
+  X
+    ├─ Meaning: thou
+    ├─ Category: original
+    ├─ Root: X
+    ├─ Gematria: 400
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — Y —
+──────────────────────────────────────────────────────────────────────
+
+  YRPOIL
+    ├─ Meaning: divide
+    ├─ Category: original
+    ├─ Root: YRP
+    ├─ Gematria: 282
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+──────────────────────────────────────────────────────────────────────
+                              — Z —
+──────────────────────────────────────────────────────────────────────
+
+  Z
+    ├─ Meaning: they
+    ├─ Category: original
+    ├─ Root: Z
+    ├─ Gematria: 7
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZAC
+    ├─ Meaning: move (imperative, general)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 14
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → imperative → general
+
+  ZACAH
+    ├─ Meaning: move (perfect, general)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 21
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  ZACAR
+    ├─ Meaning: move
+    ├─ Category: original
+    ├─ Root: ZAC
+    ├─ Gematria: 120
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZACIZI
+    ├─ Meaning: move (past, general)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 141
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  ZACOLU
+    ├─ Meaning: move (future, general)
+    ├─ Category: verb
+    ├─ Root: ZAC
+    ├─ Gematria: 70
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  ZACRA
+    ├─ Meaning: move (variant)
+    ├─ Category: original
+    ├─ Root: ZAC
+    ├─ Gematria: 120
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZAM
+    ├─ Meaning: beside
+    ├─ Category: preposition
+    ├─ Root: ZAM
+    ├─ Gematria: 103
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  ZAMA
+    ├─ Meaning: beside
+    ├─ Category: preposition
+    ├─ Root: ZAM
+    ├─ Gematria: 109
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  ZAMAH
+    ├─ Meaning: appear (perfect, general)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 110
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → perfect → general
+
+  ZAMAR
+    ├─ Meaning: appear (present, general)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 209
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → present → general
+
+  ZAMI
+    ├─ Meaning: beside
+    ├─ Category: preposition
+    ├─ Root: ZAM
+    ├─ Gematria: 163
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  ZAMIZI
+    ├─ Meaning: appear (past, general)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 230
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → past → general
+
+  ZAMO
+    ├─ Meaning: beside
+    ├─ Category: preposition
+    ├─ Root: ZAM
+    ├─ Gematria: 133
+    ├─ Confidence: [●●●○○] 65%
+    └─ Derivation: preposition_generation
+
+  ZAMOLU
+    ├─ Meaning: appear (future, general)
+    ├─ Category: verb
+    ├─ Root: ZAM
+    ├─ Gematria: 159
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: verb_conjugation → future → general
+
+  ZAMRAN
+    ├─ Meaning: appear
+    ├─ Category: original
+    ├─ Root: ZAM
+    ├─ Gematria: 259
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZAR
+    ├─ Meaning: course
+    ├─ Category: original
+    ├─ Root: ZAR
+    ├─ Gematria: 113
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZARP
+    ├─ Meaning: wind (extended)
+    ├─ Category: extended
+    ├─ Root: ZAR
+    ├─ Gematria: 121
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZARZAR
+    ├─ Meaning: move (extended)
+    ├─ Category: extended
+    ├─ Root: ZAR
+    ├─ Gematria: 226
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZCH
+    ├─ Meaning: dream
+    ├─ Category: existential
+    ├─ Root: ZCH
+    ├─ Gematria: 9
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ZCHIISOL
+    ├─ Meaning: breath (extended)
+    ├─ Category: extended
+    ├─ Root: ZCH
+    ├─ Gematria: 187
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZCHIS
+    ├─ Meaning: are
+    ├─ Category: original
+    ├─ Root: ZCH
+    ├─ Gematria: 73
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZEN
+    ├─ Meaning: sacrifice
+    ├─ Category: original
+    ├─ Root: ZEN
+    ├─ Gematria: 66
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZIADPH
+    ├─ Meaning: soul (extended)
+    ├─ Category: extended
+    ├─ Root: ZIA
+    ├─ Gematria: 85
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZIANANAELON
+    ├─ Meaning: forty
+    ├─ Category: numbers
+    ├─ Root: ZIA
+    ├─ Gematria: 298
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → I am / being + secret wisdom + appearing/faith
+
+  ZIATH
+    ├─ Meaning: bird
+    ├─ Category: beings
+    ├─ Root: ZIA
+    ├─ Gematria: 83
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → I am / being + works
+
+  ZIEN
+    ├─ Meaning: hands
+    ├─ Category: original
+    ├─ Root: ZIE
+    ├─ Gematria: 126
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZILA
+    ├─ Meaning: below (extended)
+    ├─ Category: extended
+    ├─ Root: ZIL
+    ├─ Gematria: 97
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZILODARP
+    ├─ Meaning: conquer
+    ├─ Category: original
+    ├─ Root: ZIL
+    ├─ Gematria: 238
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZINAZPSADAL
+    ├─ Meaning: zero
+    ├─ Category: numbers
+    ├─ Root: ZIN
+    ├─ Gematria: 181
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → I am / being + sword + secret/first
+
+  ZIOR
+    ├─ Meaning: fish
+    ├─ Category: beings
+    ├─ Root: ZIO
+    ├─ Gematria: 197
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → I am / being + twelve
+
+  ZIOSORE
+    ├─ Meaning: love
+    ├─ Category: emotions
+    ├─ Root: ZIO
+    ├─ Gematria: 240
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → I am / being + twelve
+
+  ZIR
+    ├─ Meaning: prayer
+    ├─ Category: divine
+    ├─ Root: ZIR
+    ├─ Gematria: 167
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ZIRDO
+    ├─ Meaning: I am
+    ├─ Category: original
+    ├─ Root: ZIR
+    ├─ Gematria: 200
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZIRENAIAD
+    ├─ Meaning: I am the servant of God
+    ├─ Category: original
+    ├─ Root: ZIR
+    ├─ Gematria: 301
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZIROM
+    ├─ Meaning: were
+    ├─ Category: original
+    ├─ Root: ZIR
+    ├─ Gematria: 287
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZIRZA
+    ├─ Meaning: was
+    ├─ Category: original
+    ├─ Root: ZIR
+    ├─ Gematria: 180
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZIS
+    ├─ Meaning: hope
+    ├─ Category: emotions
+    ├─ Root: ZIS
+    ├─ Gematria: 71
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ZNRZA
+    ├─ Meaning: swear
+    ├─ Category: original
+    ├─ Root: ZNR
+    ├─ Gematria: 170
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZOA
+    ├─ Meaning: pronoun form (ZO)
+    ├─ Category: grammar
+    ├─ Root: ZO
+    ├─ Gematria: 43
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ZOAN
+    ├─ Meaning: pronoun form (ZO)
+    ├─ Category: grammar
+    ├─ Root: ZO
+    ├─ Gematria: 93
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ZODAMERANU
+    ├─ Meaning: appearance
+    ├─ Category: original
+    ├─ Root: ZOD
+    ├─ Gematria: 303
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZODOOANAE
+    ├─ Meaning: moment (extended)
+    ├─ Category: extended
+    ├─ Root: ZOD
+    ├─ Gematria: 171
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZOI
+    ├─ Meaning: pronoun form (ZO)
+    ├─ Category: grammar
+    ├─ Root: ZO
+    ├─ Gematria: 97
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ZOIS
+    ├─ Meaning: pronoun form (ZO)
+    ├─ Category: grammar
+    ├─ Root: ZO
+    ├─ Gematria: 101
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ZOL
+    ├─ Meaning: hand
+    ├─ Category: original
+    ├─ Root: ZOL
+    ├─ Gematria: 61
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZOLD
+    ├─ Meaning: perfect (extended)
+    ├─ Category: extended
+    ├─ Root: ZOL
+    ├─ Gematria: 64
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZOLOCHIIST
+    ├─ Meaning: beast (extended)
+    ├─ Category: extended
+    ├─ Root: ZOL
+    ├─ Gematria: 226
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZOLORS
+    ├─ Meaning: human (extended)
+    ├─ Category: extended
+    ├─ Root: ZOL
+    ├─ Gematria: 195
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZOLPIL
+    ├─ Meaning: human
+    ├─ Category: beings
+    ├─ Root: ZOL
+    ├─ Gematria: 153
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: markov_generation
+
+  ZONDOOAP
+    ├─ Meaning: sun (extended)
+    ├─ Category: extended
+    ├─ Root: ZON
+    ├─ Gematria: 164
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZONG
+    ├─ Meaning: they
+    ├─ Category: original
+    ├─ Root: ZON
+    ├─ Gematria: 97
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZONRENSG
+    ├─ Meaning: deliver
+    ├─ Category: original
+    ├─ Root: ZON
+    ├─ Gematria: 260
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZONS
+    ├─ Meaning: star (extended)
+    ├─ Category: extended
+    ├─ Root: ZON
+    ├─ Gematria: 91
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZOO
+    ├─ Meaning: pronoun form (ZO)
+    ├─ Category: grammar
+    ├─ Root: ZO
+    ├─ Gematria: 67
+    ├─ Confidence: [●●●○○] 60%
+    └─ Derivation: pronoun_generation
+
+  ZOR
+    ├─ Meaning: they are
+    ├─ Category: original
+    ├─ Root: ZOR
+    ├─ Gematria: 137
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZORENANBAM
+    ├─ Meaning: secret (extended)
+    ├─ Category: extended
+    ├─ Root: ZOR
+    ├─ Gematria: 353
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZORGE
+    ├─ Meaning: be friendly
+    ├─ Category: original
+    ├─ Root: ZOR
+    ├─ Gematria: 156
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZORSCORS
+    ├─ Meaning: holy (extended)
+    ├─ Category: extended
+    ├─ Root: ZOR
+    ├─ Gematria: 276
+    ├─ Confidence: [●●○○○] 50%
+    └─ Derivation: markov_extension
+
+  ZORSOB
+    ├─ Meaning: spirit
+    ├─ Category: beings
+    ├─ Root: ZOR
+    ├─ Gematria: 176
+    ├─ Confidence: [●●●○○] 70%
+    └─ Derivation: morphological_derivation → they are + whose
+
+  ZUMVI
+    ├─ Meaning: seas
+    ├─ Category: original
+    ├─ Root: ZUM
+    ├─ Gematria: 161
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+  ZYLNA
+    ├─ Meaning: sea
+    ├─ Category: original
+    ├─ Root: ZYL
+    ├─ Gematria: 147
+    ├─ Confidence: [●●●●●] 100%
+    └─ Derivation: original_corpus
+
+
+======================================================================
+                         END OF LEXICON
+======================================================================

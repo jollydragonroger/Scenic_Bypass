@@ -1,0 +1,997 @@
+Enochian,Meaning,Category,Root,Gematria,Confidence,Derivation
+A,in/the,original,A,6,1.00,original_corpus
+ABA,forest (extended),extended,ABA,17,0.50,markov_extension
+ABGEA,sand (extended),extended,ABG,36,0.50,markov_extension
+ABRAALPONO,thought (extended),extended,ABR,265,0.50,markov_extension
+ABRAMG,prepared,original,ABR,217,1.00,original_corpus
+ABRIDA,mountain,places,ABR,180,0.70,markov_generation
+ADRPAN,cast down,original,ADR,173,1.00,original_corpus
+AF,19,original,AF,14,1.00,original_corpus
+AFAF,fish (extended),extended,AFA,28,0.50,markov_extension
+AFEN,god,divine,AFE,73,0.70,markov_generation
+AFFA,empty,original,AFF,28,1.00,original_corpus
+AG,no,original,AG,16,1.00,original_corpus
+ANANAEL,secret wisdom,original,ANA,151,1.00,original_corpus
+ANBAASGIM,demon (extended),extended,ANB,237,0.50,markov_extension
+ANETAB,government,original,ANE,85,1.00,original_corpus
+ANETABOS,knowledge,abstract,ANE,119,0.70,morphological_derivation > government + made/twelve
+AOIVEAE,stars,original,AOI,122,1.00,original_corpus
+AOSORG,earth (extended),extended,AOS,180,0.50,markov_extension
+APIAL,celestial (extended),extended,API,104,0.50,markov_extension
+APILA,liveth,original,API,104,1.00,original_corpus
+AR,that,original,AR,106,1.00,original_corpus
+ARAD,soul (extended),extended,ARA,115,0.50,markov_extension
+ARG,sea (extended),extended,ARG,116,0.50,markov_extension
+ARIN,fear (extended),extended,ARI,216,0.50,markov_extension
+ARIX,move,actions,ARI,566,0.70,markov_generation
+ARMAOSBAH,eye,body,ARM,248,0.70,markov_generation
+ARPHE,descend,original,ARP,124,1.00,original_corpus
+ARZA,universe (extended),extended,ARZ,119,0.50,markov_extension
+ASMORS,dusk,temporal,ASM,234,0.70,morphological_derivation > ministers + darkness
+ATH,works,original,ATH,16,1.00,original_corpus
+ATHMONG,abyss (extended),extended,ATH,196,0.50,markov_extension
+ATRAAH,girdle,original,ATR,128,1.00,original_corpus
+ATRANACA,flame,materials,ATR,184,0.70,markov_generation
+AVI,being (extended),extended,AVI,68,0.50,markov_extension
+AVINY,millstones,original,AVI,178,1.00,original_corpus
+AVIT,anger (extended),extended,AVI,77,0.50,markov_extension
+AVIZEN,tower,places,AVI,134,0.70,morphological_derivation > millstones + sacrifice
+AZIAGIAR,harvest,original,AZI,255,1.00,original_corpus
+AZIRORSCOL,cosmos (extended),extended,AZI,362,0.50,markov_extension
+AZIZ,ether,cosmic,AZI,80,0.70,markov_generation
+AZPSOBZAML,blessing (extended),extended,AZP,187,0.50,markov_extension
+BAANETH,truth,abstract,BAA,86,0.70,markov_generation
+BAB,north (extended),extended,BAB,16,0.50,markov_extension
+BABALOND,wicked,original,BAB,129,1.00,original_corpus
+BABZARM,ether (extended),extended,BAB,219,0.50,markov_extension
+BAG,desert (extended),extended,BAG,21,0.50,markov_extension
+BAGLE,for,original,BAG,54,1.00,original_corpus
+BAH,eternity (extended),extended,BAH,12,0.50,markov_extension
+BAHAL,cried/weep,original,BAH,42,1.00,original_corpus
+BAL,river,places,BAL,35,0.70,markov_generation
+BALIALIAN,mountain (extended),extended,BAL,241,0.50,markov_extension
+BALIT,justice,original,BAL,104,1.00,original_corpus
+BALP,strong (extended),extended,BAL,43,0.50,markov_extension
+BALTIM,extreme justice,original,BAL,194,1.00,original_corpus
+BALTOH,righteousness,original,BAL,75,1.00,original_corpus
+BALZAP,cosmos,cosmic,BAL,56,0.70,markov_generation
+BALZARB,destroy (extended),extended,BAL,153,0.50,markov_extension
+BALZARG,stewards,original,BAL,158,1.00,original_corpus
+BAM,fire,elements,BAM,101,0.70,markov_generation
+BAMG,heart,body,BAM,111,0.70,markov_generation
+BAMS,forget,original,BAM,105,1.00,original_corpus
+BASARMGIR,small,qualities,BAS,381,0.70,morphological_derivation > for/weeping + whom + mercy/peace
+BASGIM,day,original,BAS,175,1.00,original_corpus
+BAVINIDAN,stone,materials,BAV,242,0.70,morphological_derivation > for/weeping + from the + secret/truth
+BAZACAR,three,numbers,BAZ,131,0.70,morphological_derivation > for/weeping + move
+BIAB,stand,original,BIA,76,1.00,original_corpus
+BIAH,voices,original,BIA,72,1.00,original_corpus
+BIAN,seven (extended),extended,BIA,121,0.50,markov_extension
+BIPH,below,directions,BIP,74,0.70,morphological_derivation > voices + anger/voice
+BLANS,harboured,original,BLA,89,1.00,original_corpus
+BLIADPIL,holy (extended),extended,BLI,190,0.50,markov_extension
+BLIAR,comfort,original,BLI,195,1.00,original_corpus
+BLIM,universe,cosmic,BLI,179,0.70,markov_generation
+BOG,"reign (imperative, general)",verb,BOG,45,0.70,verb_conjugation > imperative > general
+BOGAH,"reign (perfect, general)",verb,BOG,52,0.70,verb_conjugation > perfect > general
+BOGAR,"reign (present, general)",verb,BOG,151,0.70,verb_conjugation > present > general
+BOGIZI,"reign (past, general)",verb,BOG,172,0.70,verb_conjugation > past > general
+BOGOLU,"reign (future, general)",verb,BOG,101,0.70,verb_conjugation > future > general
+BOGPA,reign,original,BOG,59,1.00,original_corpus
+BOLD,earth (extended),extended,BOL,62,0.50,markov_extension
+BOLN,demon (extended),extended,BOL,109,0.50,markov_extension
+BOLP,be thou,original,BOL,67,1.00,original_corpus
+BOOAPIS,her voice,original,BOO,143,1.00,original_corpus
+BRIAD,harmony (extended),extended,BRI,174,0.50,markov_extension
+BRIL,stone (extended),extended,BRI,189,0.50,markov_extension
+BRIN,have,original,BRI,215,1.00,original_corpus
+BRINTS,hast/have,original,BRI,228,1.00,original_corpus
+BRIS,light,elements,BRI,169,0.70,markov_generation
+BRITA,more than,original,BRI,180,1.00,original_corpus
+BRITALZ,power,abstract,BRI,211,0.70,morphological_derivation > more than + stewards
+BUSD,glory,original,BUS,14,1.00,original_corpus
+BUSDAHE,knowledge (extended),extended,BUS,30,0.50,markov_extension
+BUSDIR,glory,original,BUS,174,1.00,original_corpus
+BUSDIX,demon,beings,BUS,474,0.70,markov_generation
+C,but/also,original,C,1,1.00,original_corpus
+CABUSD,season,temporal,CAB,21,0.70,morphological_derivation > therefore/hence + glory
+CACARS,air (extended),extended,CAC,118,0.50,markov_extension
+CACRG,but,original,CAC,118,1.00,original_corpus
+CAFABOANUUL,secret,abstract,CAF,140,0.70,morphological_derivation > therefore/hence + poison + end/rising
+CAHOXMARCHRG,spirit,existential,CAH,746,0.70,morphological_derivation > therefore/hence + bucklers + fire/reason
+CALH,sacred (extended),extended,CAL,32,0.50,markov_extension
+CALPE,cosmos (extended),extended,CAL,48,0.50,markov_extension
+CALPONA,mystery (extended),extended,CAL,125,0.50,markov_extension
+CAMLIAX,no light,original,CAM,587,1.00,original_corpus
+CAN,darkness (extended),extended,CAN,57,0.50,markov_extension
+CANSE,such as,original,CAN,70,1.00,original_corpus
+CAO,wherefore,original,CAO,37,1.00,original_corpus
+CAOA,beneath,preposition,CAO,43,0.65,preposition_generation
+CAOI,beneath,preposition,CAO,97,0.65,preposition_generation
+CAOIAD,storm (extended),extended,CAO,106,0.50,markov_extension
+CAOIBS,wisdom (extended),extended,CAO,106,0.50,markov_extension
+CAOO,beneath,preposition,CAO,67,0.65,preposition_generation
+CAOSG,earth (short),original,CAO,51,1.00,original_corpus
+CAOSGI,earth (variant),original,CAO,111,1.00,original_corpus
+CAOSGO,earth,original,CAO,81,1.00,original_corpus
+CAP,air (extended),extended,CAP,15,0.50,markov_extension
+CAPMIALI,successively,original,CAP,255,1.00,original_corpus
+CARS,voice,body,CAR,111,0.70,markov_generation
+CASARM,to whom,original,CAS,207,1.00,original_corpus
+CASARMA,whom,original,CAS,213,1.00,original_corpus
+CASARMG,whom,original,CAS,217,1.00,original_corpus
+CASB,prayer (extended),extended,CAS,16,0.50,markov_extension
+CHIIS,are (variant),original,CHI,126,1.00,original_corpus
+CHIL,time (extended),extended,CHI,86,0.50,markov_extension
+CHIS,are,original,CHI,66,1.00,original_corpus
+CHRISTEOS,let there be,original,CHR,218,1.00,original_corpus
+CHRIT,ice,materials,CHR,171,0.70,markov_generation
+CICLE,mysteries,original,CIC,95,1.00,original_corpus
+CICLEMP,air,elements,CIC,193,0.70,morphological_derivation > mysteries + understanding
+CLA,456,original,CLA,31,1.00,original_corpus
+CLAAX,breath,body,CLA,437,0.70,morphological_derivation > 456 + place/seat
+CNIG,fall (extended),extended,CNI,121,0.50,markov_extension
+CNILA,blood,original,CNI,141,1.00,original_corpus
+COLLAL,sleepers,original,COL,109,1.00,original_corpus
+COMSELH,circle,original,COM,159,1.00,original_corpus
+CORALZA,speak (extended),extended,COR,174,0.50,markov_extension
+CORDZIZ,reason,original,COR,208,1.00,original_corpus
+CORS,saying,original,COR,135,1.00,original_corpus
+CRG,moon,cosmic,CRG,111,0.70,markov_generation
+CRIP,but,original,CRI,169,1.00,original_corpus
+CRIPAMAMIA,power (extended),extended,CRI,427,0.50,markov_extension
+CRO,that,original,CRO,131,1.00,original_corpus
+CROM,essence (extended),extended,CRO,221,0.50,markov_extension
+CROOATRANP,hand (extended),extended,CRO,340,0.50,markov_extension
+CROODZI,wonder,original,CRO,231,1.00,original_corpus
+CROSGIM,move (extended),extended,CRO,295,0.50,markov_extension
+D,third/of,original,D,3,1.00,original_corpus
+DAH,wisdom (extended),extended,DAH,10,0.50,markov_extension
+DAOILAPH,heart (extended),extended,DAO,138,0.50,markov_extension
+DAOSG,desert,places,DAO,53,0.70,markov_generation
+DAOX,vexing,original,DAO,439,1.00,original_corpus
+DAOXRG,serpent,beings,DAO,549,0.70,morphological_derivation > vexing + fire/reason
+DARAH,"obey (perfect, general)",verb,DAR,116,0.70,verb_conjugation > perfect > general
+DARAR,"obey (present, general)",verb,DAR,215,0.70,verb_conjugation > present > general
+DARBS,obey,original,DAR,118,1.00,original_corpus
+DARILAPA,there abode,original,DAR,213,1.00,original_corpus
+DARIZI,"obey (past, general)",verb,DAR,236,0.70,verb_conjugation > past > general
+DARM,anger (extended),extended,DAR,199,0.50,markov_extension
+DAROLU,"obey (future, general)",verb,DAR,165,0.70,verb_conjugation > future > general
+DARSAR,philosophy,original,DAR,219,1.00,original_corpus
+DARSARMARP,heaven,divine,DAR,423,0.70,markov_generation
+DAZ,flesh (extended),extended,DAZ,16,0.50,markov_extension
+DAZIS,heads,original,DAZ,80,1.00,original_corpus
+DE,of,original,DE,12,1.00,original_corpus
+DEARZM,cave (extended),extended,DEA,215,0.50,markov_extension
+DIV,angle,original,DIV,65,1.00,original_corpus
+DIX,hundred (extended),extended,DIX,463,0.50,markov_extension
+DIZ,desert (extended),extended,DIZ,70,0.50,markov_extension
+DO,name,original,DO,33,1.00,original_corpus
+DOOAIN,name,original,DOO,179,1.00,original_corpus
+DOOIAP,names,original,DOO,137,1.00,original_corpus
+DRI,small (extended),extended,DRI,163,0.50,markov_extension
+DRIAPLAIAD,blood,body,DRI,276,0.70,markov_generation
+DRILPA,great,original,DRI,201,1.00,original_corpus
+DRIT,eternal,qualities,DRI,172,0.70,markov_generation
+DRIX,bring down,original,DRI,563,1.00,original_corpus
+DRP,wonder (extended),extended,DRP,111,0.50,markov_extension
+DRPONS,mind (extended),extended,DRP,195,0.50,markov_extension
+DS,which,original,DS,7,1.00,original_corpus
+DUAR,corner,original,DUA,111,1.00,original_corpus
+DUARM,dream (extended),extended,DUA,201,0.50,markov_extension
+DUAZAR,holy,divine,DUA,124,0.70,morphological_derivation > corner + garments
+ECRIN,praise,original,ECR,220,1.00,original_corpus
+ECRIX,star (extended),extended,ECR,570,0.50,markov_extension
+ECRORS,storm (extended),extended,ECR,244,0.50,markov_extension
+EFAFAFE,visit,original,EFA,54,1.00,original_corpus
+EL,first,original,EL,33,1.00,original_corpus
+ELI,fish (extended),extended,ELI,93,0.50,markov_extension
+ELZAP,course,original,ELZ,54,1.00,original_corpus
+EM,nine,original,EM,99,1.00,original_corpus
+EMETGIS,seal,original,EME,191,1.00,original_corpus
+EMNA,herein,original,EMN,155,1.00,original_corpus
+EMNOR,chaos (extended),extended,EMN,279,0.50,markov_extension
+EN,of,original,EN,59,1.00,original_corpus
+EOLIS,make,original,EOL,127,1.00,original_corpus
+EOR,wood (extended),extended,EOR,139,0.50,markov_extension
+EORS,ends,original,EOR,143,1.00,original_corpus
+ETH,day (extended),extended,ETH,19,0.50,markov_extension
+ETHAMICAOF,transform (extended),extended,ETH,220,0.50,markov_extension
+ETHARZI,peace,original,ETH,192,1.00,original_corpus
+ETHOM,matter (extended),extended,ETH,139,0.50,markov_extension
+F,visit,original,F,8,1.00,original_corpus
+FABOANU,poison,original,FAB,107,1.00,original_corpus
+FAFE,spirit (extended),extended,FAF,31,0.50,markov_extension
+FAFEN,dwelling,original,FAF,81,1.00,original_corpus
+FAFFABOOAN,law (extended),extended,FAF,157,0.50,markov_extension
+FARZM,dwell,original,FAR,211,1.00,original_corpus
+GAH,spirits,original,GAH,17,1.00,original_corpus
+GAHE,spirits,original,GAH,26,1.00,original_corpus
+GEH,not,original,GEH,20,1.00,original_corpus
+GIAH,gold (extended),extended,GIA,77,0.50,markov_extension
+GIGIPAH,living breath,original,GIG,155,1.00,original_corpus
+GISI,mountain (extended),extended,GIS,134,0.50,markov_extension
+GNAY,thou,original,GNA,126,1.00,original_corpus
+GOH,"say (imperative, general)",verb,GOH,41,0.70,verb_conjugation > imperative > general
+GOHAH,"say (perfect, general)",verb,GOH,48,0.70,verb_conjugation > perfect > general
+GOHAR,"say (present, general)",verb,GOH,147,0.70,verb_conjugation > present > general
+GOHED,saith,original,GOH,53,1.00,original_corpus
+GOHIS,joy,emotions,GOH,105,0.70,markov_generation
+GOHIZI,"say (past, general)",verb,GOH,168,0.70,verb_conjugation > past > general
+GOHO,saith,original,GOH,71,1.00,original_corpus
+GOHOLU,"say (future, general)",verb,GOH,97,0.70,verb_conjugation > future > general
+GOHRZM,sacred,divine,GOH,238,0.70,morphological_derivation > saith/I say + dwell
+GOHUS,saith/I say,original,GOH,47,1.00,original_corpus
+GONO,faith,original,GON,120,1.00,original_corpus
+GONORSG,mind (extended),extended,GON,234,0.50,markov_extension
+GRAA,moon,original,GRA,122,1.00,original_corpus
+GRAPH,gather,original,GRA,125,1.00,original_corpus
+GRO,cave (extended),extended,GRO,140,0.50,markov_extension
+GROSB,bitter,original,GRO,149,1.00,original_corpus
+HAMERIPAMG,universe (extended),extended,HAM,380,0.50,markov_extension
+HAMI,creatures,original,HAM,157,1.00,original_corpus
+HOA,age (extended),extended,HOA,37,0.50,markov_extension
+HOAANPIRO,destroy (extended),extended,HOA,291,0.50,markov_extension
+HOAN,dark (extended),extended,HOA,87,0.50,markov_extension
+HOANBALZAM,order (extended),extended,HOA,225,0.50,markov_extension
+HOATH,true worshipper,original,HOA,47,1.00,original_corpus
+HOL,essence,existential,HOL,55,0.70,markov_generation
+HOLDO,groan,original,HOL,88,1.00,original_corpus
+HOLQ,measure,original,HOL,95,1.00,original_corpus
+HOM,live,original,HOM,121,1.00,original_corpus
+HOMARSAR,hope (extended),extended,HOM,337,0.50,markov_extension
+HOMICAO,thousand (extended),extended,HOM,218,0.50,markov_extension
+HOMIL,live,original,HOM,205,1.00,original_corpus
+HORZAMARIL,serpent (extended),extended,HOR,424,0.50,markov_extension
+HOXMARCH,bucklers,original,HOX,629,1.00,original_corpus
+I,is/not,original,I,60,1.00,original_corpus
+IABA,fall (extended),extended,IAB,77,0.50,markov_extension
+IABES,depths,original,IAB,84,1.00,original_corpus
+IAD,God,original,IAD,69,1.00,original_corpus
+IADIX,thunder (extended),extended,IAD,529,0.50,markov_extension
+IADNAH,knowledge,original,IAD,126,1.00,original_corpus
+IADNAIDARZ,edge (extended),extended,IAD,301,0.50,markov_extension
+IADPHE,love (extended),extended,IAD,87,0.50,markov_extension
+IADPIL,the place of God,original,IAD,161,1.00,original_corpus
+IADRPOIB,flesh (extended),extended,IAD,272,0.50,markov_extension
+IAIADIX,honour,original,IAI,595,1.00,original_corpus
+IAIAINTALX,peace (extended),extended,IAI,681,0.50,markov_extension
+IAIALTOLLA,wonder (extended),extended,IAI,249,0.50,markov_extension
+IAIDA,the highest,original,IAI,135,1.00,original_corpus
+IAIDOHUSD,light (extended),extended,IAI,169,0.50,markov_extension
+IAIDON,all-powerful,original,IAI,209,1.00,original_corpus
+IAIPAM,abyss,cosmic,IAI,230,0.70,morphological_derivation > divine/god-related + beginning (the)
+IAL,moment (extended),extended,IAL,90,0.50,markov_extension
+IALPIRGAH,flames of first flame,original,IAL,275,1.00,original_corpus
+IALPON,burn,original,IAL,178,1.00,original_corpus
+IALPOR,burning flames,original,IAL,228,1.00,original_corpus
+IAMBT,create (extended),extended,IAM,170,0.50,markov_extension
+IANBA,edge,directions,IAN,127,0.70,markov_generation
+IANIISO,throne,places,IAN,270,0.70,morphological_derivation > divine/god-related + come
+IAOPEAM,destroy,actions,IAO,209,0.70,morphological_derivation > divine/god-related + unto + beginning
+IARGE,dawn (extended),extended,IAR,185,0.50,markov_extension
+IARILALZIE,being (extended),extended,IAR,356,0.50,markov_extension
+IARIP,night (extended),extended,IAR,234,0.50,markov_extension
+IARPH,fall,actions,IAR,175,0.70,markov_generation
+IAXS,light (extended),extended,IAX,470,0.50,markov_extension
+IEH,joy (extended),extended,IEH,70,0.50,markov_extension
+IEHUSOZ,mercies,original,IEH,113,1.00,original_corpus
+IEN,form,existential,IEN,119,0.70,markov_generation
+ILA,pronoun form (IL),grammar,IL,90,0.60,pronoun_generation
+ILAN,pronoun form (IL),grammar,IL,140,0.60,pronoun_generation
+ILAPANILOR,harmony (extended),extended,ILA,368,0.50,markov_extension
+ILBOG,"reign (imperative, second person)",verb,BOG,129,0.70,verb_conjugation > imperative > second person
+ILBOGAH,"reign (perfect, second person)",verb,BOG,136,0.70,verb_conjugation > perfect > second person
+ILBOGAR,"reign (present, second person)",verb,BOG,235,0.70,verb_conjugation > present > second person
+ILBOGIZI,"reign (past, second person)",verb,BOG,256,0.70,verb_conjugation > past > second person
+ILBOGOLU,"reign (future, second person)",verb,BOG,185,0.70,verb_conjugation > future > second person
+ILDAR,"obey (imperative, second person)",verb,DAR,193,0.70,verb_conjugation > imperative > second person
+ILDARAH,"obey (perfect, second person)",verb,DAR,200,0.70,verb_conjugation > perfect > second person
+ILDARAR,"obey (present, second person)",verb,DAR,299,0.70,verb_conjugation > present > second person
+ILDARIZI,"obey (past, second person)",verb,DAR,320,0.70,verb_conjugation > past > second person
+ILDAROLU,"obey (future, second person)",verb,DAR,249,0.70,verb_conjugation > future > second person
+ILGOH,"say (imperative, second person)",verb,GOH,125,0.70,verb_conjugation > imperative > second person
+ILGOHAH,"say (perfect, second person)",verb,GOH,132,0.70,verb_conjugation > perfect > second person
+ILGOHAR,"say (present, second person)",verb,GOH,231,0.70,verb_conjugation > present > second person
+ILGOHIZI,"say (past, second person)",verb,GOH,252,0.70,verb_conjugation > past > second person
+ILGOHOLU,"say (future, second person)",verb,GOH,181,0.70,verb_conjugation > future > second person
+ILI,pronoun form (IL),grammar,IL,144,0.60,pronoun_generation
+ILIS,pronoun form (IL),grammar,IL,148,0.60,pronoun_generation
+ILMIC,"behold (imperative, second person)",verb,MIC,235,0.70,verb_conjugation > imperative > second person
+ILMICAH,"behold (perfect, second person)",verb,MIC,242,0.70,verb_conjugation > perfect > second person
+ILMICAR,"behold (present, second person)",verb,MIC,341,0.70,verb_conjugation > present > second person
+ILMICIZI,"behold (past, second person)",verb,MIC,362,0.70,verb_conjugation > past > second person
+ILMICOLU,"behold (future, second person)",verb,MIC,291,0.70,verb_conjugation > future > second person
+ILNII,"come (imperative, second person)",verb,NII,254,0.70,verb_conjugation > imperative > second person
+ILNIIAH,"come (perfect, second person)",verb,NII,261,0.70,verb_conjugation > perfect > second person
+ILNIIAR,"come (present, second person)",verb,NII,360,0.70,verb_conjugation > present > second person
+ILNIIIZI,"come (past, second person)",verb,NII,381,0.70,verb_conjugation > past > second person
+ILNIIOLU,"come (future, second person)",verb,NII,310,0.70,verb_conjugation > future > second person
+ILO,pronoun form (IL),grammar,IL,114,0.60,pronoun_generation
+ILOMP,"understand (imperative, second person)",verb,OMP,212,0.70,verb_conjugation > imperative > second person
+ILOMPAH,"understand (perfect, second person)",verb,OMP,219,0.70,verb_conjugation > perfect > second person
+ILOMPAR,"understand (present, second person)",verb,OMP,318,0.70,verb_conjugation > present > second person
+ILOMPIZI,"understand (past, second person)",verb,OMP,339,0.70,verb_conjugation > past > second person
+ILOMPOLU,"understand (future, second person)",verb,OMP,268,0.70,verb_conjugation > future > second person
+ILONON,excelling,original,ILO,244,1.00,original_corpus
+ILQUA,"destroy (imperative, second person)",verb,QUA,132,0.70,verb_conjugation > imperative > second person
+ILQUAAH,"destroy (perfect, second person)",verb,QUA,139,0.70,verb_conjugation > perfect > second person
+ILQUAAR,"destroy (present, second person)",verb,QUA,238,0.70,verb_conjugation > present > second person
+ILQUAIZI,"destroy (past, second person)",verb,QUA,259,0.70,verb_conjugation > past > second person
+ILQUAOLU,"destroy (future, second person)",verb,QUA,188,0.70,verb_conjugation > future > second person
+ILS,thou,original,ILS,88,1.00,original_corpus
+ILTOR,"arise (imperative, second person)",verb,TOR,223,0.70,verb_conjugation > imperative > second person
+ILTORAH,"arise (perfect, second person)",verb,TOR,230,0.70,verb_conjugation > perfect > second person
+ILTORAR,"arise (present, second person)",verb,TOR,329,0.70,verb_conjugation > present > second person
+ILTORIZI,"arise (past, second person)",verb,TOR,350,0.70,verb_conjugation > past > second person
+ILTOROLU,"arise (future, second person)",verb,TOR,279,0.70,verb_conjugation > future > second person
+ILZAC,"move (imperative, second person)",verb,ZAC,98,0.70,verb_conjugation > imperative > second person
+ILZACAH,"move (perfect, second person)",verb,ZAC,105,0.70,verb_conjugation > perfect > second person
+ILZACAR,"move (present, second person)",verb,ZAC,204,0.70,verb_conjugation > present > second person
+ILZACIZI,"move (past, second person)",verb,ZAC,225,0.70,verb_conjugation > past > second person
+ILZACOLU,"move (future, second person)",verb,ZAC,154,0.70,verb_conjugation > future > second person
+ILZAM,"appear (imperative, second person)",verb,ZAM,187,0.70,verb_conjugation > imperative > second person
+ILZAMAH,"appear (perfect, second person)",verb,ZAM,194,0.70,verb_conjugation > perfect > second person
+ILZAMAR,"appear (present, second person)",verb,ZAM,293,0.70,verb_conjugation > present > second person
+ILZAMIZI,"appear (past, second person)",verb,ZAM,314,0.70,verb_conjugation > past > second person
+ILZAMOLU,"appear (future, second person)",verb,ZAM,243,0.70,verb_conjugation > future > second person
+IMLALZ,lightning (extended),extended,IML,211,0.50,markov_extension
+IMLAR,wind (extended),extended,IML,280,0.50,markov_extension
+IMPAN,night,temporal,IMP,214,0.70,morphological_derivation > obedient + secret/truth
+IMPIS,obedient,original,IMP,222,1.00,original_corpus
+IP,not,original,IP,68,1.00,original_corpus
+IPAM,beginning,original,IPA,164,1.00,original_corpus
+IPAMIS,beginning (the),original,IPA,228,1.00,original_corpus
+IPAMZI,dust,materials,IPA,231,0.70,morphological_derivation > beginning (the) + being/am
+IPSARB,perfect (extended),extended,IPS,183,0.50,markov_extension
+IQUADAH,creation,original,IQU,118,1.00,original_corpus
+IQUARM,sea,places,IQU,298,0.70,markov_generation
+IQUASA,angel (extended),extended,IQU,118,0.50,markov_extension
+IQURD,god (extended),extended,IQU,205,0.50,markov_extension
+ISARA,heaven (extended),extended,ISA,176,0.50,markov_extension
+ISI,promise,original,ISI,124,1.00,original_corpus
+IT,is,original,IT,69,1.00,original_corpus
+ITTABGES,silver,materials,ITT,112,0.70,morphological_derivation > is + cave
+IVMD,called,original,IVM,155,1.00,original_corpus
+L,first/one,original,L,24,1.00,original_corpus
+LA,first/rich,original,LA,30,1.00,original_corpus
+LAIAD,secrets of truth,original,LAI,99,1.00,original_corpus
+LAIAXS,bright (extended),extended,LAI,500,0.50,markov_extension
+LAIDOODZIZ,chaos,abstract,LAI,230,0.70,markov_generation
+LALIT,south (extended),extended,LAL,123,0.50,markov_extension
+LALTOL,planet (extended),extended,LAL,117,0.50,markov_extension
+LANONSH,celestial,divine,LAN,165,0.70,markov_generation
+LAP,for the,original,LAP,38,1.00,original_corpus
+LAPAH,strong (extended),extended,LAP,45,0.50,markov_extension
+LAPATB,transform (extended),extended,LAP,58,0.50,markov_extension
+LARSAD,disposed,original,LAR,143,1.00,original_corpus
+LAS,rich,original,LAS,34,1.00,original_corpus
+LASOLPETH,two,numbers,LAS,115,0.70,morphological_derivation > secrets of truth + hearken
+LEVITHMONG,beasts,original,LEV,285,1.00,original_corpus
+LIADEA,flame (extended),extended,LIA,108,0.50,markov_extension
+LIMLA,abyss (extended),extended,LIM,204,0.50,markov_extension
+LIMLAL,treasure,original,LIM,228,1.00,original_corpus
+LIS,god (extended),extended,LIS,88,0.50,markov_extension
+LISARMG,great,qualities,LIS,294,0.70,markov_generation
+LIT,with,original,LIT,93,1.00,original_corpus
+LITAN,blessing,divine,LIT,149,0.70,morphological_derivation > with + secret/truth
+LIZI,giant,beings,LIZ,151,0.70,morphological_derivation > eyes + being/am
+LOBIAB,moment,temporal,LOB,130,0.70,morphological_derivation > power/first + stand
+LOCH,three (extended),extended,LOC,56,0.50,markov_extension
+LOCHRIP,dust (extended),extended,LOC,224,0.50,markov_extension
+LOHOLO,man/men,original,LOH,139,1.00,original_corpus
+LOHUSDIX,voice (extended),extended,LOH,524,0.50,markov_extension
+LON,river (extended),extended,LON,104,0.50,markov_extension
+LONDOH,kingdom,original,LON,138,1.00,original_corpus
+LONG,sea (extended),extended,LON,114,0.50,markov_extension
+LONPILASAG,awe (extended),extended,LON,222,0.50,markov_extension
+LONSA,power,original,LON,114,1.00,original_corpus
+LONSH,power (short),original,LON,109,1.00,original_corpus
+LONSHI,power,original,LON,169,1.00,original_corpus
+LOR,against,preposition,LOR,154,0.65,preposition_generation
+LORA,against,preposition,LOR,160,0.65,preposition_generation
+LORI,against,preposition,LOR,214,0.65,preposition_generation
+LORO,against,preposition,LOR,184,0.65,preposition_generation
+LORSBA,for their,original,LOR,169,1.00,original_corpus
+LOTURALB,gate,places,LOT,200,0.70,morphological_derivation > power/first + beauty
+LU,first,original,LU,26,1.00,original_corpus
+LUCICLE,mystery,abstract,LUC,121,0.70,markov_generation
+LUCIFTIAN,brightness,original,LUC,220,1.00,original_corpus
+LUCIFTIP,creature (extended),extended,LUC,172,0.50,markov_extension
+LUS,thunder (extended),extended,LUS,30,0.50,markov_extension
+LUSDA,feet,original,LUS,39,1.00,original_corpus
+LUSDAOD,creature,beings,LUS,72,0.70,morphological_derivation > feet + and
+LUSDI,feet (variant),original,LUS,93,1.00,original_corpus
+LUSOLOGOND,darkness,elements,LUS,207,0.70,markov_generation
+LUSONPIRT,throne (extended),extended,LUS,287,0.50,markov_extension
+M,apply,original,M,90,1.00,original_corpus
+MAB,spirit (extended),extended,MAB,101,0.50,markov_extension
+MABZA,garment,original,MAB,114,1.00,original_corpus
+MAD,god/your god,original,MAD,99,1.00,original_corpus
+MADAMA,forty (extended),extended,MAD,201,0.50,markov_extension
+MADNA,serpent (extended),extended,MAD,155,0.50,markov_extension
+MADRIAX,heavens,original,MAD,665,1.00,original_corpus
+MADRID,iniquity,original,MAD,262,1.00,original_corpus
+MALAS,wonder,emotions,MAL,130,0.70,morphological_derivation > continuation/god + rich
+MALMABZAPH,rest (extended),extended,MAL,243,0.50,markov_extension
+MALOHOL,infinite (extended),extended,MAL,205,0.50,markov_extension
+MALPRG,fire,original,MAL,238,1.00,original_corpus
+MALTIM,cave,places,MAL,279,0.70,morphological_derivation > continuation/god + extreme justice
+MALTOHOLNA,darkness (extended),extended,MAL,270,0.50,markov_extension
+MAMA,continue,original,MAM,192,1.00,original_corpus
+MAN,cycle (extended),extended,MAN,146,0.50,markov_extension
+MANIN,mind,original,MAN,256,1.00,original_corpus
+MANPH,lightning (extended),extended,MAN,155,0.50,markov_extension
+MAOFFAS,garment,original,MAO,152,1.00,original_corpus
+MAOIBS,spirit (extended),extended,MAO,195,0.50,markov_extension
+MAR,time (extended),extended,MAR,196,0.50,markov_extension
+MARB,half,original,MAR,201,1.00,original_corpus
+MASARMA,pure,qualities,MAS,302,0.70,morphological_derivation > continuation/god + whom
+MASOBA,north,directions,MAS,141,0.70,morphological_derivation > continuation/god + whose
+MATB,nine,original,MAT,110,1.00,original_corpus
+MAX,wise,qualities,MAX,496,0.70,markov_generation
+MER,upon,original,MER,199,1.00,original_corpus
+MERADIX,worship,divine,MER,668,0.70,markov_generation
+MIAIDAZ,silver (extended),extended,MIA,232,0.50,markov_extension
+MIAM,continuance,original,MIA,246,1.00,original_corpus
+MIC,"behold (imperative, general)",verb,MIC,151,0.70,verb_conjugation > imperative > general
+MICAH,"behold (perfect, general)",verb,MIC,158,0.70,verb_conjugation > perfect > general
+MICALP,might,original,MIC,189,1.00,original_corpus
+MICALZ,mighty,original,MIC,188,1.00,original_corpus
+MICALZO,mighty,original,MIC,218,1.00,original_corpus
+MICAR,"behold (present, general)",verb,MIC,257,0.70,verb_conjugation > present > general
+MICIZI,"behold (past, general)",verb,MIC,278,0.70,verb_conjugation > past > general
+MICLAPIRGE,speak,actions,MIC,368,0.70,markov_generation
+MICMA,behold,original,MIC,247,1.00,original_corpus
+MICMAIR,spirit,divine,MIC,407,0.70,morphological_derivation > behold + mercy/peace
+MICOLU,"behold (future, general)",verb,MIC,207,0.70,verb_conjugation > future > general
+MILA,spirit (extended),extended,MIL,180,0.50,markov_extension
+MILASAANII,becoming (extended),extended,MIL,366,0.50,markov_extension
+MILODZIR,peace,emotions,MIL,374,0.70,markov_generation
+MIRC,upon,original,MIR,251,1.00,original_corpus
+MNA,worship (extended),extended,MNA,146,0.50,markov_extension
+MNAH,south,directions,MNA,147,0.70,markov_generation
+MNONONS,think,original,MNO,304,1.00,original_corpus
+MNOTH,create,actions,MNO,180,0.70,markov_generation
+MOMA,mystery (extended),extended,MOM,216,0.50,markov_extension
+MOMAN,becoming (extended),extended,MOM,266,0.50,markov_extension
+MOMAR,crown,original,MOM,316,1.00,original_corpus
+MOMICMADAH,infinite,numbers,MOM,377,0.70,markov_generation
+MOMS,creature (extended),extended,MOM,214,0.50,markov_extension
+MONODARZM,above (extended),extended,MON,406,0.50,markov_extension
+MOZ,joy,original,MOZ,127,1.00,original_corpus
+NACO,servant,original,NAC,87,1.00,original_corpus
+NAELHOLN,rise (extended),extended,NAE,194,0.50,markov_extension
+NAELISI,rise (extended),extended,NAE,213,0.50,markov_extension
+NANBA,thorns,original,NAN,117,1.00,original_corpus
+NAZPSAD,sword,original,NAZ,84,1.00,original_corpus
+NI,twenty-eight,original,NI,110,1.00,original_corpus
+NII,"come (imperative, general)",verb,NII,170,0.70,verb_conjugation > imperative > general
+NIIAH,"come (perfect, general)",verb,NII,177,0.70,verb_conjugation > perfect > general
+NIIAR,"come (present, general)",verb,NII,276,0.70,verb_conjugation > present > general
+NIIIZI,"come (past, general)",verb,NII,297,0.70,verb_conjugation > past > general
+NIIOLU,"come (future, general)",verb,NII,226,0.70,verb_conjugation > future > general
+NIIS,come (variant),original,NII,174,1.00,original_corpus
+NIISO,come,original,NII,204,1.00,original_corpus
+NILS,human (extended),extended,NIL,138,0.50,markov_extension
+NINOS,fear,emotions,NIN,194,0.70,morphological_derivation > mind + made/twelve
+NOA,pronoun form (NO),grammar,NO,86,0.60,pronoun_generation
+NOAA,harmony,abstract,NOA,92,0.70,markov_generation
+NOAN,become,original,NOA,136,1.00,original_corpus
+NOASMI,ministers,original,NOA,240,1.00,original_corpus
+NOATB,age,temporal,NOA,100,0.70,markov_generation
+NOATHISAG,head (extended),extended,NOA,176,0.50,markov_extension
+NOBAL,ice (extended),extended,NOB,115,0.50,markov_extension
+NOBLOH,palaces,original,NOB,140,1.00,original_corpus
+NOBOANETHA,tower (extended),extended,NOB,196,0.50,markov_extension
+NOBOODAM,illuminate (extended),extended,NOB,244,0.50,markov_extension
+NOCORDZIZON,void,cosmic,NOC,368,0.70,morphological_derivation > negation/servant + reason + appearing/faith
+NOI,pronoun form (NO),grammar,NO,140,0.60,pronoun_generation
+NOIB,yoke,original,NOI,145,1.00,original_corpus
+NOIS,pronoun form (NO),grammar,NO,144,0.60,pronoun_generation
+NON,dark,qualities,NON,130,0.70,markov_generation
+NONCA,you,original,NON,137,1.00,original_corpus
+NONCASMIAD,fire (extended),extended,NON,300,0.50,markov_extension
+NONCF,you (variant),original,NON,139,1.00,original_corpus
+NOND,love (extended),extended,NON,133,0.50,markov_extension
+NONG,becoming,existential,NON,140,0.70,markov_generation
+NONSH,listen (extended),extended,NON,135,0.50,markov_extension
+NOO,pronoun form (NO),grammar,NO,110,0.60,pronoun_generation
+NOR,despair (extended),extended,NOR,180,0.50,markov_extension
+NORZ,six,original,NOR,187,1.00,original_corpus
+NOTHO,within,directions,NOT,120,0.70,markov_generation
+NOTHOA,south,original,NOT,126,1.00,original_corpus
+NOV,through,preposition,NOV,82,0.65,preposition_generation
+NOVA,through,preposition,NOV,88,0.65,preposition_generation
+NOVI,through,preposition,NOV,142,0.65,preposition_generation
+NOVO,through,preposition,NOV,112,0.65,preposition_generation
+NOZCHAN,dawn,temporal,NOZ,145,0.70,morphological_derivation > negation/servant + are + secret/truth
+NOZEN,matter,existential,NOZ,146,0.70,morphological_derivation > negation/servant + sacrifice
+O,five/of,original,O,30,1.00,original_corpus
+OAGOHED,mind,existential,OAG,89,0.70,morphological_derivation > great/mighty + saith
+OALI,eyes,original,OAL,120,1.00,original_corpus
+OAN,awe (extended),extended,OAN,86,0.50,markov_extension
+OANU,infinite (extended),extended,OAN,88,0.50,markov_extension
+OAOOAOAIR,anger,emotions,OAO,298,0.70,morphological_derivation > great/mighty + eye + mercy/peace
+OAOXEX,listen,actions,OAO,875,0.70,markov_generation
+OAS,giant (extended),extended,OAS,40,0.50,markov_extension
+OATURBS,above,directions,OAT,156,0.70,morphological_derivation > great/mighty + beauty (variant)
+OAZONRENSGZI,hand,body,OAZ,363,0.70,morphological_derivation > great/mighty + deliver + being/am
+OBALB,awe,emotions,OBA,70,0.70,markov_generation
+OBELISONG,marble,original,OBE,222,1.00,original_corpus
+OBZA,robe,original,OBZ,48,1.00,original_corpus
+OBZACRIPSO,season (extended),extended,OBZ,251,0.50,markov_extension
+OD,and,original,OD,33,1.00,original_corpus
+ODAHALPAAN,center (extended),extended,ODA,140,0.50,markov_extension
+ODO,power (extended),extended,ODO,63,0.50,markov_extension
+OHIO,woe,original,OHI,121,1.00,original_corpus
+OHIORA,center,directions,OHI,227,0.70,morphological_derivation > woe + bride
+OHOAS,bird (extended),extended,OHO,71,0.50,markov_extension
+OHOLOGONON,iron,materials,OHO,285,0.70,markov_generation
+OHOLP,order (extended),extended,OHO,93,0.50,markov_extension
+OHORELA,made,original,OHO,200,1.00,original_corpus
+OHUSD,thunder,elements,OHU,40,0.70,markov_generation
+OI,this,original,OI,90,1.00,original_corpus
+OIAD,God (variant),original,OIA,99,1.00,original_corpus
+OIARZM,east (extended),extended,OIA,293,0.50,markov_extension
+OIV,knowledge (extended),extended,OIV,92,0.50,markov_extension
+OL,I/me,original,OL,54,1.00,original_corpus
+OLA,pronoun form (OL),grammar,OL,60,0.60,pronoun_generation
+OLAN,pronoun form (OL),grammar,OL,110,0.60,pronoun_generation
+OLBOG,"reign (imperative, first person)",verb,BOG,99,0.70,verb_conjugation > imperative > first person
+OLBOGAH,"reign (perfect, first person)",verb,BOG,106,0.70,verb_conjugation > perfect > first person
+OLBOGAR,"reign (present, first person)",verb,BOG,205,0.70,verb_conjugation > present > first person
+OLBOGIZI,"reign (past, first person)",verb,BOG,226,0.70,verb_conjugation > past > first person
+OLBOGOLU,"reign (future, first person)",verb,BOG,155,0.70,verb_conjugation > future > first person
+OLD,water (extended),extended,OLD,57,0.50,markov_extension
+OLDAR,"obey (imperative, first person)",verb,DAR,163,0.70,verb_conjugation > imperative > first person
+OLDARAH,"obey (perfect, first person)",verb,DAR,170,0.70,verb_conjugation > perfect > first person
+OLDARAR,"obey (present, first person)",verb,DAR,269,0.70,verb_conjugation > present > first person
+OLDARIZI,"obey (past, first person)",verb,DAR,290,0.70,verb_conjugation > past > first person
+OLDAROLU,"obey (future, first person)",verb,DAR,219,0.70,verb_conjugation > future > first person
+OLGOH,"say (imperative, first person)",verb,GOH,95,0.70,verb_conjugation > imperative > first person
+OLGOHAH,"say (perfect, first person)",verb,GOH,102,0.70,verb_conjugation > perfect > first person
+OLGOHAR,"say (present, first person)",verb,GOH,201,0.70,verb_conjugation > present > first person
+OLGOHIZI,"say (past, first person)",verb,GOH,222,0.70,verb_conjugation > past > first person
+OLGOHOLU,"say (future, first person)",verb,GOH,151,0.70,verb_conjugation > future > first person
+OLI,pronoun form (OL),grammar,OL,114,0.60,pronoun_generation
+OLIS,pronoun form (OL),grammar,OL,118,0.60,pronoun_generation
+OLLAPH,moon (extended),extended,OLL,93,0.50,markov_extension
+OLMIC,"behold (imperative, first person)",verb,MIC,205,0.70,verb_conjugation > imperative > first person
+OLMICAH,"behold (perfect, first person)",verb,MIC,212,0.70,verb_conjugation > perfect > first person
+OLMICAR,"behold (present, first person)",verb,MIC,311,0.70,verb_conjugation > present > first person
+OLMICIZI,"behold (past, first person)",verb,MIC,332,0.70,verb_conjugation > past > first person
+OLMICOLU,"behold (future, first person)",verb,MIC,261,0.70,verb_conjugation > future > first person
+OLN,make,original,OLN,104,1.00,original_corpus
+OLNII,"come (imperative, first person)",verb,NII,224,0.70,verb_conjugation > imperative > first person
+OLNIIAH,"come (perfect, first person)",verb,NII,231,0.70,verb_conjugation > perfect > first person
+OLNIIAR,"come (present, first person)",verb,NII,330,0.70,verb_conjugation > present > first person
+OLNIIIZI,"come (past, first person)",verb,NII,351,0.70,verb_conjugation > past > first person
+OLNIIOLU,"come (future, first person)",verb,NII,280,0.70,verb_conjugation > future > first person
+OLO,flesh,body,OLO,84,0.70,markov_generation
+OLOGO,man,original,OLO,124,1.00,original_corpus
+OLOMP,"understand (imperative, first person)",verb,OMP,182,0.70,verb_conjugation > imperative > first person
+OLOMPAH,"understand (perfect, first person)",verb,OMP,189,0.70,verb_conjugation > perfect > first person
+OLOMPAR,"understand (present, first person)",verb,OMP,288,0.70,verb_conjugation > present > first person
+OLOMPIZI,"understand (past, first person)",verb,OMP,309,0.70,verb_conjugation > past > first person
+OLOMPOLU,"understand (future, first person)",verb,OMP,238,0.70,verb_conjugation > future > first person
+OLORA,man (variant),original,OLO,190,1.00,original_corpus
+OLP,strong,qualities,OLP,62,0.70,markov_generation
+OLPAID,breath (extended),extended,OLP,131,0.50,markov_extension
+OLPETA,fire (extended),extended,OLP,86,0.50,markov_extension
+OLPIRT,light,original,OLP,231,1.00,original_corpus
+OLPONF,sky (extended),extended,OLP,150,0.50,markov_extension
+OLQUA,"destroy (imperative, first person)",verb,QUA,102,0.70,verb_conjugation > imperative > first person
+OLQUAAH,"destroy (perfect, first person)",verb,QUA,109,0.70,verb_conjugation > perfect > first person
+OLQUAAR,"destroy (present, first person)",verb,QUA,208,0.70,verb_conjugation > present > first person
+OLQUAIZI,"destroy (past, first person)",verb,QUA,229,0.70,verb_conjugation > past > first person
+OLQUAOLU,"destroy (future, first person)",verb,QUA,158,0.70,verb_conjugation > future > first person
+OLTOR,"arise (imperative, first person)",verb,TOR,193,0.70,verb_conjugation > imperative > first person
+OLTORAH,"arise (perfect, first person)",verb,TOR,200,0.70,verb_conjugation > perfect > first person
+OLTORAR,"arise (present, first person)",verb,TOR,299,0.70,verb_conjugation > present > first person
+OLTORIZI,"arise (past, first person)",verb,TOR,320,0.70,verb_conjugation > past > first person
+OLTOROLU,"arise (future, first person)",verb,TOR,249,0.70,verb_conjugation > future > first person
+OLZAC,"move (imperative, first person)",verb,ZAC,68,0.70,verb_conjugation > imperative > first person
+OLZACAH,"move (perfect, first person)",verb,ZAC,75,0.70,verb_conjugation > perfect > first person
+OLZACAR,"move (present, first person)",verb,ZAC,174,0.70,verb_conjugation > present > first person
+OLZACIZI,"move (past, first person)",verb,ZAC,195,0.70,verb_conjugation > past > first person
+OLZACOLU,"move (future, first person)",verb,ZAC,124,0.70,verb_conjugation > future > first person
+OLZAM,"appear (imperative, first person)",verb,ZAM,157,0.70,verb_conjugation > imperative > first person
+OLZAMAH,"appear (perfect, first person)",verb,ZAM,164,0.70,verb_conjugation > perfect > first person
+OLZAMAR,"appear (present, first person)",verb,ZAM,263,0.70,verb_conjugation > present > first person
+OLZAMIZI,"appear (past, first person)",verb,ZAM,284,0.70,verb_conjugation > past > first person
+OLZAMOLU,"appear (future, first person)",verb,ZAM,213,0.70,verb_conjugation > future > first person
+OMADAMI,blessing (extended),extended,OMA,285,0.50,markov_extension
+OMARS,blood (extended),extended,OMA,230,0.50,markov_extension
+OMAX,know,original,OMA,526,1.00,original_corpus
+OMP,understand,original,OMP,128,1.00,original_corpus
+OMPAH,"understand (perfect, general)",verb,OMP,135,0.70,verb_conjugation > perfect > general
+OMPAR,"understand (present, general)",verb,OMP,234,0.70,verb_conjugation > present > general
+OMPIZI,"understand (past, general)",verb,OMP,255,0.70,verb_conjugation > past > general
+OMPOLU,"understand (future, general)",verb,OMP,184,0.70,verb_conjugation > future > general
+OOAANU,eternal (extended),extended,OOA,124,0.50,markov_extension
+OOANAN,west,directions,OOA,172,0.70,morphological_derivation > one eye + secret/truth
+OOANETABOL,sorrow (extended),extended,OOA,199,0.50,markov_extension
+OOANOAN,one eye,original,OOA,202,1.00,original_corpus
+OOAOAAN,eye,original,OOA,158,1.00,original_corpus
+OPE,unto,original,OPE,47,1.00,original_corpus
+OPETHILZAC,wisdom,abstract,OPE,155,0.70,markov_generation
+OR,twelve,original,OR,130,1.00,original_corpus
+ORAL,illuminate (extended),extended,ORA,160,0.50,markov_extension
+ORDZIAIALP,sky,cosmic,ORD,304,0.70,markov_generation
+ORG,worship (extended),extended,ORG,140,0.50,markov_extension
+ORRI,bark,original,ORR,290,1.00,original_corpus
+ORRIAH,thousand,numbers,ORR,297,0.70,morphological_derivation > bark + creation/works
+ORS,darkness,original,ORS,134,1.00,original_corpus
+ORSAANETH,night (extended),extended,ORS,215,0.50,markov_extension
+ORSAGIAIAL,hope (extended),extended,ORS,306,0.50,markov_extension
+ORSCOR,drunken,original,ORS,265,1.00,original_corpus
+ORZ,perfect,qualities,ORZ,137,0.70,markov_generation
+ORZULP,bone (extended),extended,ORZ,171,0.50,markov_extension
+ORZULPON,fear (extended),extended,ORZ,251,0.50,markov_extension
+OS,twelve (variant),original,OS,34,1.00,original_corpus
+OSGI,day,temporal,OSG,104,0.70,markov_generation
+OSGIPAAN,pure (extended),extended,OSG,174,0.50,markov_extension
+OSGONCF,form (extended),extended,OSG,133,0.50,markov_extension
+OSORE,twelve,original,OSO,173,1.00,original_corpus
+OTH,season (extended),extended,OTH,40,0.50,markov_extension
+OTHI,one (extended),extended,OTH,100,0.50,markov_extension
+OTHIL,seat,original,OTH,124,1.00,original_corpus
+OV,between,preposition,OV,32,0.65,preposition_generation
+OVA,between,preposition,OV,38,0.65,preposition_generation
+OVI,between,preposition,OV,92,0.65,preposition_generation
+OVO,between,preposition,OV,62,0.65,preposition_generation
+OVOF,magnified,original,OVO,70,1.00,original_corpus
+OXEX,vex,original,OXE,839,1.00,original_corpus
+OXIAIDA,order,abstract,OXI,565,0.70,markov_generation
+OXIAYAL,mighty seat,original,OXI,586,1.00,original_corpus
+OXO,twenty-six,original,OXO,460,1.00,original_corpus
+OXOETG,head,body,OXO,488,0.70,morphological_derivation > twenty-six + seal
+OYVB,truth,original,OYV,97,1.00,original_corpus
+P,eight,original,P,8,1.00,original_corpus
+PAAOX,always,original,PAA,450,1.00,original_corpus
+PAEB,marry,original,PAE,28,1.00,original_corpus
+PAH,thought (extended),extended,PAH,15,0.50,markov_extension
+PAID,always,original,PAI,77,1.00,original_corpus
+PAMBT,unto me,original,PAM,118,1.00,original_corpus
+PAMI,dawn (extended),extended,PAM,164,0.50,markov_extension
+PAMSAD,beast (extended),extended,PAM,117,0.50,markov_extension
+PANIIS,celestial (extended),extended,PAN,188,0.50,markov_extension
+PANPIR,continual,original,PAN,232,1.00,original_corpus
+PAR,in them,original,PAR,114,1.00,original_corpus
+PARA,around,preposition,PAR,120,0.65,preposition_generation
+PARADIZ,virgins,original,PAR,190,1.00,original_corpus
+PARAOAN,bride,original,PAR,206,1.00,original_corpus
+PARGEH,hand (extended),extended,PAR,134,0.50,markov_extension
+PARI,around,preposition,PAR,174,0.65,preposition_generation
+PARMADIX,wise (extended),extended,PAR,673,0.50,markov_extension
+PARO,around,preposition,PAR,144,0.65,preposition_generation
+PATHMOZ,river (extended),extended,PAT,151,0.50,markov_extension
+PATRALX,rock,original,PAT,553,1.00,original_corpus
+PATRINU,west (extended),extended,PAT,235,0.50,markov_extension
+PATRIP,mouth (extended),extended,PAT,191,0.50,markov_extension
+PAZ,number,original,PAZ,21,1.00,original_corpus
+PERIPSOL,heavens,original,PER,243,1.00,original_corpus
+PIADPH,virgins,original,PIA,86,1.00,original_corpus
+PIL,water (extended),extended,PIL,92,0.50,markov_extension
+PILA,great (extended),extended,PIL,98,0.50,markov_extension
+PILD,place,original,PIL,95,1.00,original_corpus
+PILONOD,small (extended),extended,PIL,205,0.50,markov_extension
+PILP,angel,beings,PIL,100,0.70,markov_generation
+PILZIN,right,original,PIL,209,1.00,original_corpus
+PIRIPSOL,heavens (firmament),original,PIR,294,1.00,original_corpus
+PIRZU,gate (extended),extended,PIR,177,0.50,markov_extension
+PIS,illuminate,actions,PIS,72,0.70,markov_generation
+PLAPLI,parts,original,PLA,130,1.00,original_corpus
+POI,sorrow,emotions,POI,98,0.70,markov_generation
+POILP,divide,original,POI,130,1.00,original_corpus
+PONDOLOHUS,gold,materials,PON,182,0.70,markov_generation
+PONODOL,despair,original,PON,175,1.00,original_corpus
+PRD,dusk (extended),extended,PRD,111,0.50,markov_extension
+PRDOOAN,eye (extended),extended,PRD,227,0.50,markov_extension
+PRDZAR,garments,original,PRD,224,1.00,original_corpus
+PRDZIL,angel (extended),extended,PRD,202,0.50,markov_extension
+PRDZIRDZIR,angel (extended),extended,PRD,448,0.50,markov_extension
+PRGE,fire,original,PRG,127,1.00,original_corpus
+PRIAZIAR,feast,original,PRI,347,1.00,original_corpus
+PRITAX,matter (extended),extended,PRI,583,0.50,markov_extension
+PUIM,marriage,original,PUI,160,1.00,original_corpus
+Q,thy,original,Q,40,1.00,original_corpus
+QAAH,angel,divine,QAA,53,0.70,markov_generation
+QAAL,creatures,original,QAA,76,1.00,original_corpus
+QAAN,temple,places,QAA,102,0.70,markov_generation
+QAAS,said,original,QAA,56,1.00,original_corpus
+QTING,the,original,QTI,169,1.00,original_corpus
+QTINGAX,sand,materials,QTI,575,0.70,morphological_derivation > the + place/seat
+QUA,"destroy (imperative, general)",verb,QUA,48,0.70,verb_conjugation > imperative > general
+QUAAH,"destroy (perfect, general)",verb,QUA,55,0.70,verb_conjugation > perfect > general
+QUAAR,"destroy (present, general)",verb,QUA,154,0.70,verb_conjugation > present > general
+QUAD,dream (extended),extended,QUA,51,0.50,markov_extension
+QUAETH,infinite,qualities,QUA,67,0.70,morphological_derivation > please + hearken
+QUAIZI,"destroy (past, general)",verb,QUA,175,0.70,verb_conjugation > past > general
+QUAOLU,"destroy (future, general)",verb,QUA,104,0.70,verb_conjugation > future > general
+QUARSAG,void (extended),extended,QUA,168,0.50,markov_extension
+QUASAHI,please,original,QUA,119,1.00,original_corpus
+QUASB,destroy,original,QUA,57,1.00,original_corpus
+QUASGONPIL,sorrow (extended),extended,QUA,234,0.50,markov_extension
+QUIIN,all,original,QUI,212,1.00,original_corpus
+QUIINIRT,prayer (extended),extended,QUI,381,0.50,markov_extension
+QUIIS,essence (extended),extended,QUI,166,0.50,markov_extension
+QUIISAMICM,chaos (extended),extended,QUI,413,0.50,markov_extension
+QURANU,dark (extended),extended,QUR,200,0.50,markov_extension
+QURLST,handmaidens,original,QUR,179,1.00,original_corpus
+R,twelve,original,R,100,1.00,original_corpus
+RID,infinite (extended),extended,RID,163,0.50,markov_extension
+RIPSAH,star,cosmic,RIP,179,0.70,markov_generation
+RIT,mercy,original,RIT,169,1.00,original_corpus
+ROR,sun,original,ROR,230,1.00,original_corpus
+ROSOBA,forest,places,ROS,175,0.70,markov_generation
+RSAM,prepare,original,RSA,200,1.00,original_corpus
+RSAPMI,heaven (extended),extended,RSA,268,0.50,markov_extension
+RSORSCOR,wood,materials,RSO,369,0.70,morphological_derivation > prepare + drunken
+RURD,run,original,RUR,205,1.00,original_corpus
+RURDZAR,planet (extended),extended,RUR,318,0.50,markov_extension
+RZUZI,being,existential,RZU,176,0.70,morphological_derivation > arise + being/am
+S,fourth,original,S,4,1.00,original_corpus
+SAALX,mouth,body,SAA,440,0.70,markov_generation
+SAANIR,parts,original,SAA,226,1.00,original_corpus
+SAD,heart (extended),extended,SAD,13,0.50,markov_extension
+SADIX,beast,beings,SAD,473,0.70,markov_generation
+SAGLE,twelve (extended),extended,SAG,53,0.50,markov_extension
+SALD,divided,original,SAL,37,1.00,original_corpus
+SALDUL,crystal,materials,SAL,63,0.70,morphological_derivation > divided + end/rising
+SALMAN,house,original,SAL,180,1.00,original_corpus
+SAPAH,mighty sounds,original,SAP,25,1.00,original_corpus
+SAR,form (extended),extended,SAR,110,0.50,markov_extension
+SIBSI,covenant,original,SIB,133,1.00,original_corpus
+SOBA,whose,original,SOB,45,1.00,original_corpus
+SOBAL,whose,original,SOB,69,1.00,original_corpus
+SOBALP,rest (extended),extended,SOB,77,0.50,markov_extension
+SOBALZORSA,day (extended),extended,SOB,216,0.50,markov_extension
+SOBAM,whose,original,SOB,135,1.00,original_corpus
+SOBCA,whose (variant),original,SOB,46,1.00,original_corpus
+SOBCAILT,without,directions,SOB,139,0.70,morphological_derivation > whose (variant) + seat/place
+SOBELZA,law (extended),extended,SOB,85,0.50,markov_extension
+SOBL,crystal (extended),extended,SOB,63,0.50,markov_extension
+SOBLIANU,time,temporal,SOB,181,0.70,markov_generation
+SOBOLD,sacred (extended),extended,SOB,96,0.50,markov_extension
+SOBOLN,the west,original,SOB,143,1.00,original_corpus
+SOBOOANU,despair (extended),extended,SOB,157,0.50,markov_extension
+SOBZI,hundred,numbers,SOB,106,0.70,morphological_derivation > whose + being/am
+SOLISAAN,wise (extended),extended,SOL,184,0.50,markov_extension
+SOLNAZ,iron (extended),extended,SOL,121,0.50,markov_extension
+SOLOCH,throne (extended),extended,SOL,90,0.50,markov_extension
+SOLOGPAMIC,blood (extended),extended,SOL,263,0.50,markov_extension
+SOLPETH,hearken,original,SOL,85,1.00,original_corpus
+SOLPIAH,bright (extended),extended,SOL,133,0.50,markov_extension
+SOND,mouth (extended),extended,SON,87,0.50,markov_extension
+SONF,reign,original,SON,92,1.00,original_corpus
+SONRELZIRE,angel (extended),extended,SON,393,0.50,markov_extension
+SOZ,truth (extended),extended,SOZ,41,0.50,markov_extension
+T,it,original,T,9,1.00,original_corpus
+TA,as,original,TA,15,1.00,original_corpus
+TAA,pronoun form (TA),grammar,TA,21,0.60,pronoun_generation
+TAAN,pronoun form (TA),grammar,TA,71,0.60,pronoun_generation
+TAB,bird (extended),extended,TAB,20,0.50,markov_extension
+TABAAN,governor,original,TAB,82,1.00,original_corpus
+TABALPOIAI,forest (extended),extended,TAB,214,0.50,markov_extension
+TABGES,cave,original,TAB,43,1.00,original_corpus
+TABRALTOL,head (extended),extended,TAB,213,0.50,markov_extension
+TAI,pronoun form (TA),grammar,TA,75,0.60,pronoun_generation
+TAIS,pronoun form (TA),grammar,TA,79,0.60,pronoun_generation
+TALHO,cups,original,TAL,70,1.00,original_corpus
+TALZACORSA,giant (extended),extended,TAL,193,0.50,markov_extension
+TAO,pronoun form (TA),grammar,TA,45,0.60,pronoun_generation
+TAX,spirit (extended),extended,TAX,415,0.50,markov_extension
+TAXS,twenty-two,original,TAX,419,1.00,original_corpus
+TBOG,"reign (imperative, third person)",verb,BOG,54,0.70,verb_conjugation > imperative > third person
+TBOGAH,"reign (perfect, third person)",verb,BOG,61,0.70,verb_conjugation > perfect > third person
+TBOGAR,"reign (present, third person)",verb,BOG,160,0.70,verb_conjugation > present > third person
+TBOGIZI,"reign (past, third person)",verb,BOG,181,0.70,verb_conjugation > past > third person
+TBOGOLU,"reign (future, third person)",verb,BOG,110,0.70,verb_conjugation > future > third person
+TDAR,"obey (imperative, third person)",verb,DAR,118,0.70,verb_conjugation > imperative > third person
+TDARAH,"obey (perfect, third person)",verb,DAR,125,0.70,verb_conjugation > perfect > third person
+TDARAR,"obey (present, third person)",verb,DAR,224,0.70,verb_conjugation > present > third person
+TDARIZI,"obey (past, third person)",verb,DAR,245,0.70,verb_conjugation > past > third person
+TDAROLU,"obey (future, third person)",verb,DAR,174,0.70,verb_conjugation > future > third person
+TEL,eternity (extended),extended,TEL,42,0.50,markov_extension
+TELH,bone (extended),extended,TEL,43,0.50,markov_extension
+TELOC,death,original,TEL,73,1.00,original_corpus
+TELOCH,him that is fallen,original,TEL,74,1.00,original_corpus
+TELODO,two (extended),extended,TEL,105,0.50,markov_extension
+TEOR,planet,cosmic,TEO,148,0.70,markov_generation
+TGOH,"say (imperative, third person)",verb,GOH,50,0.70,verb_conjugation > imperative > third person
+TGOHAH,"say (perfect, third person)",verb,GOH,57,0.70,verb_conjugation > perfect > third person
+TGOHAR,"say (present, third person)",verb,GOH,156,0.70,verb_conjugation > present > third person
+TGOHIZI,"say (past, third person)",verb,GOH,177,0.70,verb_conjugation > past > third person
+TGOHOLU,"say (future, third person)",verb,GOH,106,0.70,verb_conjugation > future > third person
+THICOR,earth,elements,THI,201,0.70,morphological_derivation > seat + drunken
+THIL,seat,original,THI,94,1.00,original_corpus
+THOMA,without (extended),extended,THO,136,0.50,markov_extension
+TIAG,twelve,numbers,TIA,85,0.70,markov_generation
+TIAGIMP,speak (extended),extended,TIA,243,0.50,markov_extension
+TIANTA,bed of,original,TIA,140,1.00,original_corpus
+TIN,east,directions,TIN,119,0.70,markov_generation
+TIOBL,bed,original,TIO,128,1.00,original_corpus
+TIP,it,original,TIP,77,1.00,original_corpus
+TIPIR,wind,elements,TIP,237,0.70,morphological_derivation > it + mercy/peace
+TIPSAM,listen (extended),extended,TIP,177,0.50,markov_extension
+TMIC,"behold (imperative, third person)",verb,MIC,160,0.70,verb_conjugation > imperative > third person
+TMICAH,"behold (perfect, third person)",verb,MIC,167,0.70,verb_conjugation > perfect > third person
+TMICAR,"behold (present, third person)",verb,MIC,266,0.70,verb_conjugation > present > third person
+TMICIZI,"behold (past, third person)",verb,MIC,287,0.70,verb_conjugation > past > third person
+TMICOLU,"behold (future, third person)",verb,MIC,216,0.70,verb_conjugation > future > third person
+TNII,"come (imperative, third person)",verb,NII,179,0.70,verb_conjugation > imperative > third person
+TNIIAH,"come (perfect, third person)",verb,NII,186,0.70,verb_conjugation > perfect > third person
+TNIIAR,"come (present, third person)",verb,NII,285,0.70,verb_conjugation > present > third person
+TNIIIZI,"come (past, third person)",verb,NII,306,0.70,verb_conjugation > past > third person
+TNIIOLU,"come (future, third person)",verb,NII,235,0.70,verb_conjugation > future > third person
+TOH,transform,actions,TOH,40,0.70,markov_generation
+TOHE,law,abstract,TOH,49,0.70,markov_generation
+TOHOLN,eternity,temporal,TOH,144,0.70,markov_generation
+TOL,all,original,TOL,63,1.00,original_corpus
+TOLD,zero (extended),extended,TOL,66,0.50,markov_extension
+TOLONSG,peace (extended),extended,TOL,157,0.50,markov_extension
+TOLORG,age (extended),extended,TOL,203,0.50,markov_extension
+TOLPONPH,water,elements,TOL,160,0.70,markov_generation
+TOLTORG,all creatures,original,TOL,212,1.00,original_corpus
+TOMP,"understand (imperative, third person)",verb,OMP,137,0.70,verb_conjugation > imperative > third person
+TOMPAH,"understand (perfect, third person)",verb,OMP,144,0.70,verb_conjugation > perfect > third person
+TOMPAR,"understand (present, third person)",verb,OMP,243,0.70,verb_conjugation > present > third person
+TOMPIZI,"understand (past, third person)",verb,OMP,264,0.70,verb_conjugation > past > third person
+TOMPOLU,"understand (future, third person)",verb,OMP,193,0.70,verb_conjugation > future > third person
+TOOAT,furnish,original,TOO,84,1.00,original_corpus
+TORAH,"arise (perfect, general)",verb,TOR,146,0.70,verb_conjugation > perfect > general
+TORANAINTS,spirit (extended),extended,TOR,324,0.50,markov_extension
+TORAR,"arise (present, general)",verb,TOR,245,0.70,verb_conjugation > present > general
+TORIZI,"arise (past, general)",verb,TOR,266,0.70,verb_conjugation > past > general
+TOROLU,"arise (future, general)",verb,TOR,195,0.70,verb_conjugation > future > general
+TORSA,sun,cosmic,TOR,149,0.70,markov_generation
+TORSADIX,storm,elements,TOR,612,0.70,markov_generation
+TORSADNANI,eternal (extended),extended,TOR,318,0.50,markov_extension
+TORSB,rise,actions,TOR,148,0.70,markov_generation
+TORZU,arise,original,TOR,148,1.00,original_corpus
+TORZUL,risen,original,TOR,172,1.00,original_corpus
+TORZULP,arise unto,original,TOR,180,1.00,original_corpus
+TOSGIMARG,bright,qualities,TOS,319,0.70,morphological_derivation > all/arising + day + steward/keeper
+TOTHOA,bone,body,TOT,85,0.70,morphological_derivation > all/arising + south
+TQUA,"destroy (imperative, third person)",verb,QUA,57,0.70,verb_conjugation > imperative > third person
+TQUAAH,"destroy (perfect, third person)",verb,QUA,64,0.70,verb_conjugation > perfect > third person
+TQUAAR,"destroy (present, third person)",verb,QUA,163,0.70,verb_conjugation > present > third person
+TQUAIZI,"destroy (past, third person)",verb,QUA,184,0.70,verb_conjugation > past > third person
+TQUAOLU,"destroy (future, third person)",verb,QUA,113,0.70,verb_conjugation > future > third person
+TRANSH,seven,numbers,TRA,170,0.70,markov_generation
+TRIAN,appear,original,TRI,225,1.00,original_corpus
+TRIDA,thought,existential,TRI,178,0.70,markov_generation
+TTOR,"arise (imperative, third person)",verb,TOR,148,0.70,verb_conjugation > imperative > third person
+TTORAH,"arise (perfect, third person)",verb,TOR,155,0.70,verb_conjugation > perfect > third person
+TTORAR,"arise (present, third person)",verb,TOR,254,0.70,verb_conjugation > present > third person
+TTORIZI,"arise (past, third person)",verb,TOR,275,0.70,verb_conjugation > past > third person
+TTOROLU,"arise (future, third person)",verb,TOR,204,0.70,verb_conjugation > future > third person
+TURA,within (extended),extended,TUR,117,0.50,markov_extension
+TURAL,temple (extended),extended,TUR,141,0.50,markov_extension
+TURALB,beauty,original,TUR,146,1.00,original_corpus
+TURALBUL,cycle,temporal,TUR,172,0.70,morphological_derivation > beauty + end/rising
+TURANU,void (extended),extended,TUR,169,0.50,markov_extension
+TURAOAN,create (extended),extended,TUR,203,0.50,markov_extension
+TURBS,beauty (variant),original,TUR,120,1.00,original_corpus
+TURD,joy (extended),extended,TUR,114,0.50,markov_extension
+TURDO,temple (extended),extended,TUR,144,0.50,markov_extension
+TURLS,lightning,elements,TUR,139,0.70,markov_generation
+TZAC,"move (imperative, third person)",verb,ZAC,23,0.70,verb_conjugation > imperative > third person
+TZACAH,"move (perfect, third person)",verb,ZAC,30,0.70,verb_conjugation > perfect > third person
+TZACAR,"move (present, third person)",verb,ZAC,129,0.70,verb_conjugation > present > third person
+TZACIZI,"move (past, third person)",verb,ZAC,150,0.70,verb_conjugation > past > third person
+TZACOLU,"move (future, third person)",verb,ZAC,79,0.70,verb_conjugation > future > third person
+TZAM,"appear (imperative, third person)",verb,ZAM,112,0.70,verb_conjugation > imperative > third person
+TZAMAH,"appear (perfect, third person)",verb,ZAM,119,0.70,verb_conjugation > perfect > third person
+TZAMAR,"appear (present, third person)",verb,ZAM,218,0.70,verb_conjugation > present > third person
+TZAMIZI,"appear (past, third person)",verb,ZAM,239,0.70,verb_conjugation > past > third person
+TZAMOLU,"appear (future, third person)",verb,ZAM,168,0.70,verb_conjugation > future > third person
+U,strength,original,U,2,1.00,original_corpus
+V,toward,preposition,V,2,0.65,preposition_generation
+VA,toward,preposition,V,8,0.65,preposition_generation
+VAOAN,truth,original,VAO,94,1.00,original_corpus
+VAOFFAFFAS,sun (extended),extended,VAO,86,0.50,markov_extension
+VAUL,work,original,VAU,34,1.00,original_corpus
+VEA,secret (extended),extended,VEA,17,0.50,markov_extension
+VEAELA,great (extended),extended,VEA,56,0.50,markov_extension
+VEARANIISI,pure (extended),extended,VEA,357,0.50,markov_extension
+VEARZIRT,gate (extended),extended,VEA,293,0.50,markov_extension
+VEP,lament,original,VEP,19,1.00,original_corpus
+VGEAR,strengthen,original,VGE,127,1.00,original_corpus
+VGES,tower (extended),extended,VGE,25,0.50,markov_extension
+VI,toward,preposition,V,62,0.65,preposition_generation
+VIN,of/from,original,VIN,112,1.00,original_corpus
+VINID,from the,original,VIN,175,1.00,original_corpus
+VINU,wrath,original,VIN,114,1.00,original_corpus
+VIS,sky (extended),extended,VIS,66,0.50,markov_extension
+VISAD,poison,original,VIS,75,1.00,original_corpus
+VIT,one,numbers,VIT,71,0.70,markov_generation
+VMAD,voice (extended),extended,VMA,101,0.50,markov_extension
+VMADEA,continueth,original,VMA,116,1.00,original_corpus
+VMD,moon (extended),extended,VMD,95,0.50,markov_extension
+VNIG,necessity,original,VNI,122,1.00,original_corpus
+VO,toward,preposition,V,32,0.65,preposition_generation
+VOFFAFE,cycle (extended),extended,VOF,71,0.50,markov_extension
+VOMSARG,whom,original,VOM,242,1.00,original_corpus
+VON,eye (extended),extended,VON,82,0.50,markov_extension
+VONA,weep,original,VON,88,1.00,original_corpus
+VONPH,anger,original,VON,91,1.00,original_corpus
+VONS,rest,actions,VON,86,0.70,markov_generation
+VOOAN,truth (variant),original,VOO,118,1.00,original_corpus
+VOOANONOBA,truth (extended),extended,VOO,239,0.50,markov_extension
+VORD,soul,existential,VOR,135,0.70,markov_generation
+VORRITABOL,dusk (extended),extended,VOR,366,0.50,markov_extension
+VORS,over,original,VOR,136,1.00,original_corpus
+VORSAG,over,original,VOR,152,1.00,original_corpus
+VORSAM,ether (extended),extended,VOR,232,0.50,markov_extension
+VORSG,over (variant),original,VOR,146,1.00,original_corpus
+VORSGILT,despair,emotions,VOR,239,0.70,morphological_derivation > over (variant) + seat/place
+VRAN,dispose,original,VRA,158,1.00,original_corpus
+VX,forty-two,original,VX,402,1.00,original_corpus
+X,thou,original,X,400,1.00,original_corpus
+YRPOIL,divide,original,YRP,282,1.00,original_corpus
+Z,they,original,Z,7,1.00,original_corpus
+ZAC,"move (imperative, general)",verb,ZAC,14,0.70,verb_conjugation > imperative > general
+ZACAH,"move (perfect, general)",verb,ZAC,21,0.70,verb_conjugation > perfect > general
+ZACAR,move,original,ZAC,120,1.00,original_corpus
+ZACIZI,"move (past, general)",verb,ZAC,141,0.70,verb_conjugation > past > general
+ZACOLU,"move (future, general)",verb,ZAC,70,0.70,verb_conjugation > future > general
+ZACRA,move (variant),original,ZAC,120,1.00,original_corpus
+ZAM,beside,preposition,ZAM,103,0.65,preposition_generation
+ZAMA,beside,preposition,ZAM,109,0.65,preposition_generation
+ZAMAH,"appear (perfect, general)",verb,ZAM,110,0.70,verb_conjugation > perfect > general
+ZAMAR,"appear (present, general)",verb,ZAM,209,0.70,verb_conjugation > present > general
+ZAMI,beside,preposition,ZAM,163,0.65,preposition_generation
+ZAMIZI,"appear (past, general)",verb,ZAM,230,0.70,verb_conjugation > past > general
+ZAMO,beside,preposition,ZAM,133,0.65,preposition_generation
+ZAMOLU,"appear (future, general)",verb,ZAM,159,0.70,verb_conjugation > future > general
+ZAMRAN,appear,original,ZAM,259,1.00,original_corpus
+ZAR,course,original,ZAR,113,1.00,original_corpus
+ZARP,wind (extended),extended,ZAR,121,0.50,markov_extension
+ZARZAR,move (extended),extended,ZAR,226,0.50,markov_extension
+ZCH,dream,existential,ZCH,9,0.70,markov_generation
+ZCHIISOL,breath (extended),extended,ZCH,187,0.50,markov_extension
+ZCHIS,are,original,ZCH,73,1.00,original_corpus
+ZEN,sacrifice,original,ZEN,66,1.00,original_corpus
+ZIADPH,soul (extended),extended,ZIA,85,0.50,markov_extension
+ZIANANAELON,forty,numbers,ZIA,298,0.70,morphological_derivation > I am / being + secret wisdom + appearing/faith
+ZIATH,bird,beings,ZIA,83,0.70,morphological_derivation > I am / being + works
+ZIEN,hands,original,ZIE,126,1.00,original_corpus
+ZILA,below (extended),extended,ZIL,97,0.50,markov_extension
+ZILODARP,conquer,original,ZIL,238,1.00,original_corpus
+ZINAZPSADAL,zero,numbers,ZIN,181,0.70,morphological_derivation > I am / being + sword + secret/first
+ZIOR,fish,beings,ZIO,197,0.70,morphological_derivation > I am / being + twelve
+ZIOSORE,love,emotions,ZIO,240,0.70,morphological_derivation > I am / being + twelve
+ZIR,prayer,divine,ZIR,167,0.70,markov_generation
+ZIRDO,I am,original,ZIR,200,1.00,original_corpus
+ZIRENAIAD,I am the servant of God,original,ZIR,301,1.00,original_corpus
+ZIROM,were,original,ZIR,287,1.00,original_corpus
+ZIRZA,was,original,ZIR,180,1.00,original_corpus
+ZIS,hope,emotions,ZIS,71,0.70,markov_generation
+ZNRZA,swear,original,ZNR,170,1.00,original_corpus
+ZOA,pronoun form (ZO),grammar,ZO,43,0.60,pronoun_generation
+ZOAN,pronoun form (ZO),grammar,ZO,93,0.60,pronoun_generation
+ZODAMERANU,appearance,original,ZOD,303,1.00,original_corpus
+ZODOOANAE,moment (extended),extended,ZOD,171,0.50,markov_extension
+ZOI,pronoun form (ZO),grammar,ZO,97,0.60,pronoun_generation
+ZOIS,pronoun form (ZO),grammar,ZO,101,0.60,pronoun_generation
+ZOL,hand,original,ZOL,61,1.00,original_corpus
+ZOLD,perfect (extended),extended,ZOL,64,0.50,markov_extension
+ZOLOCHIIST,beast (extended),extended,ZOL,226,0.50,markov_extension
+ZOLORS,human (extended),extended,ZOL,195,0.50,markov_extension
+ZOLPIL,human,beings,ZOL,153,0.70,markov_generation
+ZONDOOAP,sun (extended),extended,ZON,164,0.50,markov_extension
+ZONG,they,original,ZON,97,1.00,original_corpus
+ZONRENSG,deliver,original,ZON,260,1.00,original_corpus
+ZONS,star (extended),extended,ZON,91,0.50,markov_extension
+ZOO,pronoun form (ZO),grammar,ZO,67,0.60,pronoun_generation
+ZOR,they are,original,ZOR,137,1.00,original_corpus
+ZORENANBAM,secret (extended),extended,ZOR,353,0.50,markov_extension
+ZORGE,be friendly,original,ZOR,156,1.00,original_corpus
+ZORSCORS,holy (extended),extended,ZOR,276,0.50,markov_extension
+ZORSOB,spirit,beings,ZOR,176,0.70,morphological_derivation > they are + whose
+ZUMVI,seas,original,ZUM,161,1.00,original_corpus
+ZYLNA,sea,original,ZYL,147,1.00,original_corpus
